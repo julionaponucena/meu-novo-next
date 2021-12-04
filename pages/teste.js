@@ -1,7 +1,9 @@
 function Teste (){
     return (<div>
         <h1>você está na sessão sobre</h1>
-        <a href="/">Voltar</a>
+        <Link href="/">
+        <a>Voltar</a>
+        </Link>
     </div>)
 }
 export default Teste;
