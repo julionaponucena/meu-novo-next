@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-   <Link href="teste.js">
+   <Link href="/teste.js">
    <a>Teste</a>
    </Link>
   )
