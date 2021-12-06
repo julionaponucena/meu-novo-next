@@ -1,0 +1,56 @@
+main{ 
+    max-width: 980px;
+    margin:auto;
+    padding:0 20px;
+    background-color: white;
+    text-indent: 30px;
+}
+h5{
+    font-size: 1em;
+    
+}
+main img{
+    width:100%;
+    margin: 0 auto;
+    cursor:pointer;
+}
+.mold{
+    width:100%;
+    height:100%;
+    position:fixed;
+    background-color: rgba(0, 0, 0, 0.548);
+    top:0;
+    left:0;
+    display:none;
+    animation-name:esmaecer;
+    animation-duration: 1s;
+  }
+  .mold img{
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    position:absolute;
+    width:80%;
+  }
+.mold span{
+    color:white;
+    font-size:30px;
+    float:right;
+    cursor:pointer;
+}
+
+.lista-conteudo li{
+    text-align: justify;
+    margin:20px;
+    line-height: 30px;
+}
+   
+
+.texto-marcado{
+    font-weight:bold;
+    
+}
+@keyframes esmaecer {
+    from{opacity:0;;}
+    to{opacity:1;}
+}
