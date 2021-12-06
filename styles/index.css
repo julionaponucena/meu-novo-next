@@ -1,0 +1,45 @@
+.principal{ 
+  background-color:#ebeff5 ; 
+  padding: 0;
+  margin:0;    
+    }
+  
+    .container { 
+    max-width: 1000px;
+    margin: 0 auto;
+    padding:0 2%;
+    
+    }
+    .container h1{
+      text-align: center;
+      
+    }
+    .foto-principal{
+    width: 250px;    
+    }  
+  
+    .container-baixo {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /*width:100%;*/
+    background-color: #9466094d;
+    margin:0;
+    padding: 0;
+    }
+      
+   .artigo{
+   flex-basis: 250px;
+   margin:20px; 
+   }
+  .artigo h2{
+   text-align:center; 
+  }
+   
+    .imagem-principal {
+    width: 30px;
+     }
+  
+        
+         
+     
