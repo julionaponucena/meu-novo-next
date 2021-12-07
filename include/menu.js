@@ -115,7 +115,7 @@ export default function Menu (){
                                 </Link>
                                 </li>
                             <li>
-                                <Link href="menu-curso">
+                                <Link href="curso-menu">
                                     <a>Ver mais</a>
                                 </Link>
                                 </li>
