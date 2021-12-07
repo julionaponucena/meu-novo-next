@@ -1,13 +1,11 @@
 import style from '../styles/modulos/container-menu.module.css'
-
+import  ContainerTitulo from '../supertags/titulo-secao'
 function ContainerMenu (props){
 
 return( 
     <>
-    
-        <div className={style.container}>
-            <h1>{props.titulo}</h1>
-        </div>
+        <ContainerTitulo titulo={props.titulo}/>
+        
         <section className={style.hiperMenu}>{props.children}</section>
     </>
 )
