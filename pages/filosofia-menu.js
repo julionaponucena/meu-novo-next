@@ -3,14 +3,15 @@ import Menu from "../include/menu"
 import Footer from "../include/footer"
 import ArtigoFilosofia from "../scripts/filosofia-itens"
 import HiperLink from "../scripts/hiperlinks"
+import ContainerMenu from "../menu/container-menu"
 function FilosofiaMenu (){
     return(
         <>
             <Header/>
             <Menu/>
-            <section className="hiper-menu">
-            <HiperLink obj={ArtigoFilosofia}/>
-            </section>
+            <ContainerMenu titulo="Filosofia">
+                <HiperLink artigo={ArtigoFilosofia}/>
+            </ContainerMenu>
             <Footer/>
         </>
 
