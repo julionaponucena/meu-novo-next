@@ -4,10 +4,11 @@ import Menu from "../include/menu"
 import Footer from "../include/footer"
 import HiperLink from "../scripts/hiperlinks"
 import ContainerMenu from "../menu/container-menu";
-
+import HeadConfig from "../include/head";
 function CursoMenu (){
     return(
         <>
+            <HeadConfig/>
             <Header/>
             <Menu/>
             <ContainerMenu titulo="CURSOS">
