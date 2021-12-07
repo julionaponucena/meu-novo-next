@@ -1,0 +1,19 @@
+.container {
+    height:200px;
+    width:100%;
+    background-color:#9466094d ;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top:40px;
+}
+.container h1 {
+    color:white;
+    font-size:50px;
+    text-align: center;
+}
+.hiperMenu {
+    display:flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
