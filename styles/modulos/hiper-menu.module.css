@@ -1,0 +1,15 @@
+.hiperLink{
+    text-decoration:none;
+    margin:35px;
+    width:360px;
+    color:black;
+    
+}
+.foto {
+    display:block;
+    margin: auto;
+    border-radius: 20px;
+}
+.hiperLink p{
+    text-align: center;
+}
