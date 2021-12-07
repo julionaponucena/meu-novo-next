@@ -1,0 +1,12 @@
+.principal {
+    max-width: 980px;
+    margin:auto;
+    padding:0 20px;
+    background-color: white;
+    text-indent: 30px;
+}
+.principal li {
+    text-align: justify;
+    margin:20px;
+    line-height: 30px;
+}
