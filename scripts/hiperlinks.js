@@ -6,12 +6,11 @@ let titulo
   return(<>
   
   {artigo.map(item=> (<> 
-    <Link href={item.link}>
-      <a className={style.hiperLink}>
-        <Image className={style.foto} src={'/'+item.img} width={360} height={240}/>
+          <a className={style.hiperLink}>
+        
         <p>{item.titulo}</p>
       </a>
-    </Link>
+    
   </>
   
   )
