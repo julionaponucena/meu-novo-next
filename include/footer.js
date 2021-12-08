@@ -1,7 +1,4 @@
-import Whatsapp from '../public/Whatsapp.png'
-import Facebook from '../public/facebook-icon.png'
-import Instagram from '../public/Instagram-Icon.png'
-import Image from 'next/image'
+
 function Footer (){
     return(
       
