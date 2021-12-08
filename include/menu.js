@@ -15,117 +15,117 @@ export default function Menu (){
                         <a className="botao-fechar" href="#">&times;Fechar</a>
                         </li>
                     <li className="home">
-                        <Link href="/">
+                        
                             <a className="link-horizontal">Home </a>
-                        </Link>
+                        
                     </li>
                     <li className="big-menu"><a className="menu-dropdow"  href= "#">Filosofia <i className="fas fa-chevron-right"></i></a>
                         <ul className="hide">
                             <li>
-                                <Link href="/filosofia/filosofia-1">
+                                
                                     <a> Filosofia 1</a>
-                                </Link> 
+                                 
                             </li>
                             <li> 
-                                <Link href="/filosofia/filosofia-2">
+                                
                                     <a> Filosofia 2</a>
-                                </Link>
+                                
                             </li>
                             <li> 
-                                <Link href="/filosofia/filosofia-3">
+                                
                                     <a>Filosofia 4</a>
-                                </Link>    
+                                    
                             </li>
                             <li>
-                                <Link href="/filosofia/filosofia-4">
+                                
                                     <a></a>
-                                </Link>
+                                
                                 </li>
                             <li>
-                                <Link href="/filosofia-menu">
+                                
                                     <a>Ver mais</a>
-                                </Link>
+                                
                             </li>
                         </ul>
                     </li>
                     <li className="big-menu "> <a className="menu-dropdow" href="#">Psicanálise <i className="fas fa-chevron-right"></i></a>
                         <ul className="hide">
                             <li>
-                                <Link href="/psicanalise-1">
+                                
                                     <a>Psicanalise-1</a>
-                                </Link>        
+                                        
                             </li>
                             <li>
-                                <Link href="/psicanalise-2">
+                            
                                 <a>Psicanalise-2</a>
-                                </Link>
+                                
                             </li>
                             <li>
-                                <Link href="/psicanalise-3">
+                            
                                     <a>Psicanalise-3</a>
-                                </Link>
+                                
                                 </li>
                             <li> 
-                                <Link href="/psicanalise-4">    
+                                    
                                     <a>psicanalise-4</a>
-                                </Link>
+                                
                             </li>
                             <li> 
-                                <Link href="/psicanalise-5">
+                                
                                     <a>psicanalise-5</a>
-                                </Link>
+                                
                                 </li>
                             <li> 
-                                <Link href="/psicanalise-6">
+                                
                                     <a>psicanalise-6</a>
-                                </Link>
+                            
                                 </li>
                             <li> 
-                                <Link href="/psicanalise-7">
+                                
                                     <a>psicanalise-7</a>
-                                </Link>
+                                
                                 </li>
                             <li>
-                                <Link href="/psicanalise-menu">
+                                
                                     <a>Ver mais</a>
-                                </Link>
+                                
                                 </li>
                         </ul>
                     </li>
                     <li className="big-menu"><a className="menu-dropdow" href="#">Cursos <i className="fas fa-chevron-right"></i></a>
                         <ul className="hide">
                             <li>
-                                <Link href="/curso-1">
+                                
                                     <a>curso 1</a>
-                                </Link>
+                                
                             </li>
                             <li>
-                                <Link href="/curso-2.js">
+                                
                                     <a>curso 2</a>
-                                </Link>
+                                
                                 </li>
                             <li>
-                                <Link href="/curso-3">
+                                
                                     <a>Curso 3</a>
-                                </Link>
+                                
                                 </li>
                             <li>
-                                <Link href="/curso-4">
+                                
                                     <a>Curso 4</a>
-                                </Link>
+                            
                                 </li>
                             <li>
-                                <Link href="/curso-menu">
+                                
                                     <a>Ver mais</a>
-                                </Link>
+                            
                                 </li>
                         </ul>           
                     </li>
                
                     <li>
-                        <Link href="/sobre">
+                        
                             <a className="link-horizontal">Sobre</a>
-                        </Link>
+                        
                     </li>
                 </ul>
                 
