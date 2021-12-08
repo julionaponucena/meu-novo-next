@@ -1,7 +1,6 @@
 
-import Link from "next/link"
-import React from 'react'
-import { ReactDOM } from 'react'
+
+
 export default function Menu (){
     return (
         <nav className= "menu"> 
