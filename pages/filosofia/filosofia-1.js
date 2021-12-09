@@ -2,7 +2,7 @@ import Header from "../../include/header";
 import Principal from "../../supertags/principal";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
-import Titulo from "../../scripts/titulo";
+import Titulo from "../../supertags/titulo";
 import HeadConfig from "../../include/head";
 
 function Filosofia_01 (){
