@@ -13,7 +13,7 @@ function Filosofia_14 (){
             <Menu />
             <Principal>
                 <Titulo>PENSAMENTOS CÉLEBRES</Titulo>
-                <p>&quot;Se o desonesto soubesse a vantagem de ser honesto, ele seria honesto ao menos por desonestidade Se o desonesto soubesse a vantagem de ser honesto, ele seria honesto ao menos por desonestidade". (Sócrates, filósofo grego, 470 A.C - 399 A.C&quot;</p>
+                <p>&quot;Se o desonesto soubesse a vantagem de ser honesto, ele seria honesto ao menos por desonestidade Se o desonesto soubesse a vantagem de ser honesto, ele seria honesto ao menos por desonestidade&quot;. (Sócrates, filósofo grego, 470 A.C - 399 A.C&quot;</p>
 
                 <p>&quot;Nunca perca a fé na humanidade, pois ela é como um oceano. Só porque existem algumas gotas de água suja nele, não quer dizer que ele esteja sujo por completo. (Ghandi)&quot;</p>
 
@@ -27,7 +27,7 @@ function Filosofia_14 (){
 
                 <p>Qualquer um pode zangar-se - isto é fácil. Mas zangar-se com a pessoa certa, na medida certa, na hora certa, pelo motivo certo e da maneira certa - não é fácil. (Aristóteles )</p>
 
-                <p>"A grandeza não consiste em receber honras, mas em merecê-las." (Aristóteles)</p>
+                <p>&quot;A grandeza não consiste em receber honras, mas em merecê-las.&quot; (Aristóteles)</p>
 
                 <p>O homem esquece mais facilmente a morte do pai do que a perda do patrimônio. (Maquiavel)</p>
 
@@ -36,9 +36,9 @@ function Filosofia_14 (){
 
                 <p>O homem que sofre antes de ser necessário, sofre mais que o necessário. (Sêneca)</p>
 
-                <p>"O amor é o sentimento dos seres imperfeitos, posto que a função do amor é levar o ser humano à perfeição." (Aristótoles)</p>
+                <p>&quot;O amor é o sentimento dos seres imperfeitos, posto que a função do amor é levar o ser humano à perfeição.&quot; (Aristótoles)</p>
 
-                <p>"A família é como a varíola: a gente tem quando criança e fica marcado para o resto da vida" (Jean Paul Sartre)</p>
+                <p>&quot;A família é como a varíola: a gente tem quando criança e fica marcado para o resto da vida&quot; (Jean Paul Sartre)</p>
 
                 <p>A abelha atarefada não tem tempo para tristeza. (Blake)</p>
 
@@ -60,7 +60,7 @@ function Filosofia_14 (){
 
                 <p>Deus fez do arrependimento a virtude dos mortais. (Voltaire)</p>
 
-                <p>Nunca é tarde para tentar o desconhecido, nunca é tarde para ir mais além. (Gabriele D’ Anunnunzio)</p>
+                <p>Nunca é tarde para tentar o desconhecido, nunca é tarde para ir mais além. (Gabriele D&lsquo; Anunnunzio)</p>
 
                 <p>Quando a virtude, doce e amável, a ornamenta como a beleza nos parece ainda mais bela! ( Shakespeare)</p>
 
@@ -139,9 +139,9 @@ function Filosofia_14 (){
 
             <p>Nunca perca a fé na humanidade, pois ela é como um oceano. Só porque existem algumas gotas de água suja nele, não quer dizer que ele esteja sujo por completo. (Ghandi)</p>
 
-            <p>"Não há nada mais vergonhoso do que alguém ser honrado pela fama dos antepassados e não pelo merecimento próprio". (Platão, filósofo grego, 428 A.C - 348 A.C)</p>
+            <p>&quot;Não há nada mais vergonhoso do que alguém ser honrado pela fama dos antepassados e não pelo merecimento próprio&quot;. (Platão, filósofo grego, 428 A.C - 348 A.C)</p>
 
-            <p>"Todos nós nascemos originais e morremos cópias". (Carl J. Jung, paicanalista suiço, desenvolveu a teoria do inconsciente coletivo, 1875-1961)</p>
+            <p>&quot;Todos nós nascemos originais e morremos cópias&quot;. (Carl J. Jung, paicanalista suiço, desenvolveu a teoria do inconsciente coletivo, 1875-1961)</p>
 
             <p>A vida só pode ser compreendida olhando-se para trás; mas só pode ser vivida olhando-se para a frente. (Soren Kierkegaard, 1813-1855)</p>
 
@@ -149,18 +149,19 @@ function Filosofia_14 (){
 
             <p>Qualquer um pode zangar-se - isto é fácil. Mas zangar-se com a pessoa certa, na medida certa, na hora certa, pelo motivo certo e da maneira certa - não é fácil. (Aristóteles )</p>
 
-            <p>"A grandeza não consiste em receber honras, mas em merecê-las." (Aristóteles)</p>
+            <p>&quot;A grandeza não consiste em receber honras, mas em merecê-las.&quot;(Aristóteles)</p>
 
             <p>O homem esquece mais facilmente a morte do pai do que a perda do patrimônio. (Maquiavel)</p>
 
-            <p>A verdade é filha do tempo, não da autoridade. (Francis Bacon ).
-                A primeira lei da natureza é a tolerância - já que temos todos uma porção de erros e fraquezas. (Voltarire)</p>
+            <p>A verdade é filha do tempo, não da autoridade. (Francis Bacon ).</p>
+
+            <p>A primeira lei da natureza é a tolerância - já que temos todos uma porção de erros e fraquezas. (Voltarire)</p>
 
             <p>O homem que sofre antes de ser necessário, sofre mais que o necessário. (Sêneca)</p>
 
-            <p>"O amor é o sentimento dos seres imperfeitos, posto que a função do amor é levar o ser humano à perfeição." (Aristótoles)</p>
+            <p>&quot;O amor é o sentimento dos seres imperfeitos, posto que a função do amor é levar o ser humano à perfeição.&quot; (Aristótoles)</p>
 
-            <p>"A família é como a varíola: a gente tem quando criança e fica marcado para o resto da vida" (Jean Paul Sartre)</p>
+            <p>&quot;A família é como a varíola: a gente tem quando criança e fica marcado para o resto da vida&quot; (Jean Paul Sartre)</p>
 
             <p>A abelha atarefada não tem tempo para tristeza. (Blake)</p>
 
@@ -182,7 +183,7 @@ function Filosofia_14 (){
 
             <p>Deus fez do arrependimento a virtude dos mortais. (Voltaire)</p>
 
-            <p>Nunca é tarde para tentar o desconhecido, nunca é tarde para ir mais além. (Gabriele D’ Anunnunzio)</p>
+            <p>Nunca é tarde para tentar o desconhecido, nunca é tarde para ir mais além. (Gabriele D&lsquo; Anunnunzio)</p>
 
             <p>Quando a virtude, doce e amável, a ornamenta como a beleza nos parece ainda mais bela! ( Shakespeare)</p>
 
