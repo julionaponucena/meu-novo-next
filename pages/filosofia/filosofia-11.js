@@ -18,7 +18,7 @@ function Filosofia_11 (){
             <p>Para descobrir a causa de um problema, há cinco perguntas básicas que ajudam a desvendá-lo: O Quê?, Onde?, Quem?, Quando?, Quanto?.</p>
             <h2>3. Saiba o que o problema é e o que ele não é.</h2>
             <p>As cinco perguntas anteriormente relacionadas ajudam a descobrir a causa do problema:</p>
-            <ul class="lista-conteudo">
+            <ul className="lista-conteudo">
                 <li>O que é o problema?</li>
                 <li>Onde ele ocorre? (Em que região, área, departamento, setor etc.)</li>
                 <li>Quem está envolvido no problema? (Com quem ele ocorre?)</li>
@@ -26,7 +26,7 @@ function Filosofia_11 (){
                 <li>Quanto ocorre? (Em que medida? Quanto está custando em dinheiro, esforço, desgaste de imagem etc.?)</li>
             </ul>
             <p>Por outro lado, saber o que o problema não é importa tanto quanto saber o que ele é, porque isso delimita a área de procura. Faça as seguintes perguntas:</p>
-            <ul class="lista-conteudo">
+            <ul className="lista-conteudo">
                 <li>O que o problema não é, mas poderia ser?</li>
                 <li>Onde ele não ocorreu? Por quê?</li>
                 <li>Quem não está envolvido? Ele deveria estar ou não envolvido? Por quê?</li>
@@ -50,7 +50,7 @@ function Filosofia_11 (){
             </ul>
             <h2>7- Implante as soluções</h2>
             <p>Decisões exigem implantação e acompanhamento. Portanto, chegou o momento de planejar a implantação da solução escolhida.As mesmas cinco perguntas (O Quê?, Onde?, Quem?, Quando?, Onde?) utilizadas para descobrir a causa do problema são aqui novamente postas em ação, porém agora acrescidas de uma sexta questão: Como?</p>
-            <ul class="lista-conteudo">
+            <ul className="lista-conteudo">
                 <li>O que vai ser feito? (Qual o objetivo?)</li>
                 <li>Onde será implantado? (Em que região, área, departamento, setor etc.?)</li>
                 <li>Quem será responsável pela implantação da solução?</li>
