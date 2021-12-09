@@ -11,7 +11,7 @@ function Sobre (){
             <HeadConfig/>
             <Header/>
             <Menu/>
-            <main class= "biografia">
+            <main className= "biografia">
 
         
                 <Image className= "perfil" src="/autoretrato.jpg"   alt="Psicanalista Aparecido"width={364}height={469}/>
