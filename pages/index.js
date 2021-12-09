@@ -24,7 +24,7 @@ function home (){
             </section>  
             <section className="container-baixo">
                 <article className="artigo">
-                   <h2>POR QUE FAZER TERAPIA COM PSICANÁLISE?</h2>
+                   <h2>POR QUE FAZER TERAPIA COM PSICAaNÁLISE?</h2>
                     
                     <img className= "foto-secao"   alt= "freud"/>
                     <p>A vida no mundo atual nos apresenta muitas demandas que nos colocam em constante questionamento sobre formas de atuação diante delas, nos conduzindo também a dúvidas existenciais que são capazes de gerar em nós fortes angústias e descontrole.  Em situações assim, é recomendável que a pessoa procure ajuda especializada, com o intuito de obter auxílio para entender melhor os diversos mecanismos que podem estar impedindo o livre fluir da sua vida e que pode estar na base do seu sofrimento...  <a href="psicanalise-49.php">continue lendo</a></p>
