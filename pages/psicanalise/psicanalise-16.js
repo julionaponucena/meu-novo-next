@@ -5,7 +5,7 @@ import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
 
-function Psicanalise_17 (){
+function Psicanalise_16 (){
     return (
         <>
         <HeadConfig/>
@@ -20,4 +20,4 @@ function Psicanalise_17 (){
         </>
     )
 }
-export default Psicanalise_17
+export default Psicanalise_16
