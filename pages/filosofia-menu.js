@@ -12,7 +12,7 @@ function FilosofiaMenu (){
             <Header/>
             <Menu/>
             <ContainerMenu titulo="Filosofia">
-            <HiperLink artigo={artigoFilosofia}/>
+            <HiperLink artigo={artigoFilosofia} nomeArtigo="filosofia"/>
             </ContainerMenu>
             <Footer/>
         </>
