@@ -25,3 +25,4 @@ function Psicanalise_14 (){
         </>
     )
 }
+export default Psicanalise_14
