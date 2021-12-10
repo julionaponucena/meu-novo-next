@@ -47,7 +47,7 @@ export default function Menu (){
                             </li>
                         </ul>
                     </li>
-                    <li className="big-menu "> <a className="menu-dropdow" href="#"><span>Psicanálise</span> <FaAngleRight className="icone"/></a>
+                    <li className="big-menu "> <a className="menu-dropdow" href="#"><span>Psicanálise</span><FaAngleRight className="icone"/></a>
                         <ul className="hide">
                             <li>
                                 
