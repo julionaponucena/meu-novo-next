@@ -1,0 +1,6 @@
+import HeadConfig from "../../include/head"
+import Header from "../../include/header"
+import Menu from "../../include/menu"
+import Footer from "../../include/footer"
+import Principal from "../../supertags/principal"
+import Titulo from "../../supertags/titulo"
