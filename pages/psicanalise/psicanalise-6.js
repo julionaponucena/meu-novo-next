@@ -21,3 +21,4 @@ function Psicanalise_06 (){
         </>
     )
 }
+export default Psicanalise_06
