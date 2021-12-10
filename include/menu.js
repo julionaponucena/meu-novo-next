@@ -1,10 +1,10 @@
 import Link from "next/link"
 
-
+import {FaAngleRight} from "react-icons/fa"
 export default function Menu (){
     return (
         <nav className= "menu"> 
-<button className="botao-abrir">&#9776;</button>   
+<div className="botao-abrir">&#9776;</div>   
         <div className="menu-itens fechado"> 
         
                 <ul>
@@ -18,7 +18,7 @@ export default function Menu (){
                             <a className="link-horizontal">Home </a>
                         </Link>
                     </li>
-                    <li className="big-menu"><a className="menu-dropdow"  href= "#">Filosofia <i className="fas fa-chevron-right"></i></a>
+                    <li className="big-menu"><a className="menu-dropdow"  href= "#"><span>Filosofia</span> <FaAngleRight className="icone"/></a>
                         <ul className="hide">
                             <li>
                                 <Link href="/filosofia/filosofia-1">
@@ -47,7 +47,7 @@ export default function Menu (){
                             </li>
                         </ul>
                     </li>
-                    <li className="big-menu "> <a className="menu-dropdow" href="#">Psicanálise <i className="fas fa-chevron-right"></i></a>
+                    <li className="big-menu "> <a className="menu-dropdow" href="#"><span>Psicanálise</span> <FaAngleRight className="icone"/></a>
                         <ul className="hide">
                             <li>
                                 
@@ -91,7 +91,7 @@ export default function Menu (){
                                 </li>
                         </ul>
                     </li>
-                    <li className="big-menu"><a className="menu-dropdow" href="#">Cursos <i className="fas fa-chevron-right"></i></a>
+                    <li className="big-menu"><a className="menu-dropdow" href="#"><span>Cursos</span> <FaAngleRight className="icone"/></a>
                         <ul className="hide">
                             <li>
                                 
