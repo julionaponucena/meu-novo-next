@@ -1,4 +1,4 @@
-
+import Link from "next/link"
 
 
 export default function Menu (){
@@ -14,26 +14,26 @@ export default function Menu (){
                         <a className="botao-fechar" href="#">&times;Fechar</a>
                         </li>
                     <li className="home">
-                        
+                        <Link href="/">
                             <a className="link-horizontal">Home </a>
-                        
+                        </Link>
                     </li>
                     <li className="big-menu"><a className="menu-dropdow"  href= "#">Filosofia <i className="fas fa-chevron-right"></i></a>
                         <ul className="hide">
                             <li>
-                                
+                                <Link href="/filosofia/filosofia-1">
                                     <a> Filosofia 1</a>
-                                 
+                                </Link>
                             </li>
                             <li> 
-                                
+                                <Link href="/filosofia/filosofia-2">
                                     <a> Filosofia 2</a>
-                                
+                                </Link>
                             </li>
                             <li> 
-                                
+                                <Link href="/filosofia/filosofia-3">
                                     <a>Filosofia 4</a>
-                                    
+                                </Link>
                             </li>
                             <li>
                                 
@@ -41,9 +41,9 @@ export default function Menu (){
                                 
                                 </li>
                             <li>
-                                
+                                <Link href="/filosofia-menu">
                                     <a>Ver mais</a>
-                                
+                                </Link>
                             </li>
                         </ul>
                     </li>
