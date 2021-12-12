@@ -1,13 +1,13 @@
 import Link from "next/link"
 import { useState } from "react"
 import {FaAngleRight} from "react-icons/fa"
+import MenuLista from "../supertags/menu-list"
 export default function Menu ()
 {
     const [ativado,setAtivado] = useState(false)
-    const [menu, setMenu]= useState(false)
-    function ativar (){
-        setMenu(!menu)
-    }
+    /*      */
+    
+    
     return (
         <nav className= "menu"> 
 <div className="botao-abrir" onClick={()=>setAtivado(!ativado)}>&#9776;</div>   
@@ -24,9 +24,8 @@ export default function Menu ()
                             <a className="link-horizontal">Home </a>
                         </Link>
                     </li>
-                    <li className="big-menu"><a onClick={ativar} className="menu-dropdow"  href= "#"><span>Filosofia</span> <FaAngleRight className="icone"/></a>
-                        <ul className={menu ?"show":"hide"}>
-                            <li>
+                    < MenuLista titulo="Filosofia">
+                    <li>
                                 <Link href="/filosofia/filosofia-1">
                                     <a> Filosofia 1</a>
                                 </Link>
@@ -51,10 +50,9 @@ export default function Menu ()
                                     <a>Ver mais</a>
                                 </Link>
                             </li>
-                        </ul>
-                    </li>
-                    <li className="big-menu "> <a className="menu-dropdow" href="#"><span>Psicanálise</span><FaAngleRight className="icone"/></a>
-                        <ul className="hide">
+                    </MenuLista>
+              
+                    <MenuLista titulo="Psicanalise">
                             <li>
                                 
                                     <a>Psicanalise-1</a>
@@ -95,10 +93,9 @@ export default function Menu ()
                                     <a>Ver mais</a>
                                 
                                 </li>
-                        </ul>
-                    </li>
-                    <li className="big-menu"><a className="menu-dropdow" href="#"><span>Cursos</span> <FaAngleRight className="icone"/></a>
-                        <ul className="hide">
+                    </MenuLista>
+                    
+                    <MenuLista titulo="Cursos">
                             <li>
                                 
                                     <a>curso 1</a>
@@ -124,8 +121,7 @@ export default function Menu ()
                                     <a>Ver mais</a>
                             
                                 </li>
-                        </ul>           
-                    </li>
+                    </MenuLista>
                
                     <li>
                         
