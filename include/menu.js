@@ -1,25 +1,31 @@
 import Link from "next/link"
-
+import { useState } from "react"
 import {FaAngleRight} from "react-icons/fa"
-export default function Menu (){
+export default function Menu ()
+{
+    const [ativado,setAtivado] = useState(false)
+    const [menu, setMenu]= useState(false)
+    function ativar (){
+        setMenu(!menu)
+    }
     return (
         <nav className= "menu"> 
-<div className="botao-abrir">&#9776;</div>   
-        <div className="menu-itens fechado"> 
+<div className="botao-abrir" onClick={()=>setAtivado(!ativado)}>&#9776;</div>   
+        <div className={ativado ? "menu-itens aberto" :"menu-itens fechado"}> 
         
                 <ul>
                 
                  
                     <li >
-                        <a className="botao-fechar" href="#">&times;Fechar</a>
+                        <a className="botao-fechar" href="#" onClick={()=>setAtivado(!ativado)}>&times;Fechar</a>
                         </li>
                     <li className="home">
                         <Link href="/">
                             <a className="link-horizontal">Home </a>
                         </Link>
                     </li>
-                    <li className="big-menu"><a className="menu-dropdow"  href= "#"><span>Filosofia</span> <FaAngleRight className="icone"/></a>
-                        <ul className="hide">
+                    <li className="big-menu"><a onClick={ativar} className="menu-dropdow"  href= "#"><span>Filosofia</span> <FaAngleRight className="icone"/></a>
+                        <ul className={menu ?"show":"hide"}>
                             <li>
                                 <Link href="/filosofia/filosofia-1">
                                     <a> Filosofia 1</a>
