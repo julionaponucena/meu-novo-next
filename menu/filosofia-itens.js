@@ -1,20 +1,20 @@
 const artigoFilosofia = [{
-    img:null,
+    img:'timido2.jpg',
     titulo:'TIMIDEZ: CAUSAS E FORMAS DE SUPERAÇÃO',
     link:'filosofia-1'
 },
 {
-    img:null,
+    img:'tigre-raivoso.jpg',
     titulo:'SENTIR RAIVA  SEMPRE É NEGATIVO?',
     link:'filosofia-2'
 },
 {
-    img:null,
+    img:'hero.png',
     titulo:'A ARTE DE VIVER A ALEGRIA DE SER UMA PESSOA COM DIGNIDADE',
     link:'filosofia-3'
 },
 {
-    img:null,
+    img:'terapia2.png',
     titulo:'A PRÁTICA DA PSICOTERAPIA E O CAMINHO DA CURA',
     link:'filosofia-4'
 },
@@ -24,17 +24,17 @@ const artigoFilosofia = [{
     link:'filosofia-5'
 },
 {
-    img:null,
+    img:'esperanca.png',
     titulo:'CULTIVAR A ESPERANÇA PODE TE FORTALECER  DIANTE DAS DIFICULDADES',
     link:'filosofia-6'
 },
 {
-    img:null,
+    img:'tiger.png',
     titulo:'RELAÇÃO ENTRE A AUTO IMAGEM E QUALIDADE DE VIDA',
     link:'filosofia-7'
 },
 {
-    img:null,
+    img:'planta.jpg',
     titulo:'BENEFÍCIOS DA ESPIRITUALIDADE PARA O BEM-ESTAR MENTAL',
     link:'filosofia-8'
 },
@@ -59,7 +59,7 @@ const artigoFilosofia = [{
     link:'filosofia-12'
 },
 {
-    img:null,
+    img:'remedio.png',
     titulo:'QUANDO O REMÉDIO CAUSA DOENÇAS',
     link:'filosofia-13'
 }
