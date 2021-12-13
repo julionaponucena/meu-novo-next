@@ -8,7 +8,7 @@ let titulo
   {artigo.map(item=> (<>
     <Link href={"/"+nomeArtigo+"/"+item.link}>
           <a className={style.hiperLink}>
-          <Image src={"/"+item.img} width={360} height={240}/>
+          <Image className={style.foto} src={"/"+item.img} width={360} height={240}/>
         <p>{item.titulo.toUpperCase()}</p>
       </a>
     </Link>
