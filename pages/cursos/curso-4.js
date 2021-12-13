@@ -32,7 +32,7 @@ function Curso_04 () {
             <p><b>Duração:</b>4horas</p>
             <h2>2° ENCONTRO:</h2>
             <h4>a criação de uma atmosfera baseada em valores:</h4>
-            <ul class="lista-conteudo">
+            <ul className="lista-conteudo">
                 <li>realimentar o sonho:
                     <ul>
                         <li>imaginar-se na escola de seus sonhos;</li>
@@ -51,7 +51,7 @@ function Curso_04 () {
             <p><b>Duração: </b>4 horas</p>
             <h2>3° ENCONTRO:</h2>
             <h4>condições necessárias para criar uma atmosfera baseada em valores:</h4>
-            <ul class="lista-conteudo">
+            <ul className="lista-conteudo">
                 <li>reconhecimento, incentivo e construção de comportamentos positivos;</li>
                 <li>o reforço positivo na consolidação dos comportamentos;</li>
                 <li>escuta ativa;</li>
