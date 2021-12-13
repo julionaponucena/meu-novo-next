@@ -12,7 +12,7 @@ function PsicanaliseMenu (){
             <Header/>
             <Menu/>
             <ContainerMenu titulo="Psicanalise">
-             <HiperLink artigo={Artigo}/>  
+             <HiperLink artigo={Artigo} nomeArtigo="psicanalise"/>  
             </ContainerMenu>
             <Footer/>
         </>
