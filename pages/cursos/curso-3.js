@@ -85,6 +85,7 @@ function Curso_03 (){
                 <h3>CRONOGRAMA:</h3>
                 <p>Prevemos a realização de vinte encontros, com duração de duas horas cada, os quais deverão ocorrer uma vez por semana. Destas duas horas, noventa minutos serão utilizados para o desenvolvimento das atividades previstas e os outros trinta serão reservados para conversas particulares com alguns pais que demonstrarem alguma necessidade especial de acompanhamento. Ressaltamos que se houver necessidade, os encontros poderão se estender por mais algum período até que as demandas apresentadas pelos pais possam ser atendidas.</p>
         </Principal>
+        <Footer/>
         </>
     )
 }
