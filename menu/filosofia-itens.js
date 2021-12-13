@@ -15,7 +15,7 @@ const artigoFilosofia = [{
 },
 {
     img:'terapia2.png',
-    titulo:'A PRÁTICA DA PSICOTERAPIA E O CAMINHO DA CURA',
+    titulo:'PSICOLOGIA DO INDIVÍDUO: CORPO E MENTE SÃO INSEPARÁVEIS',
     link:'filosofia-4'
 },
 {
