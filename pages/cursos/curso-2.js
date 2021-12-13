@@ -25,14 +25,14 @@ function Curso_02 (){
                 <h3>JUSTIFICATIVA:</h3>
                 <p>A reflexão aprofundada de um determinado tema é uma prática que cultiva o desenvolvimento das habilidades de raciocínio. É através da discussão de temas filosóficos como a busca do sentido das nossas ações, por exemplo, que as pessoas encontram subsídios que as alicerçarão, não apenas na aquisição do saber formal, mas também na capacidade de inferir, comparar, relacionar, classificar, definir, deduzir, criticar, fazer analogias. De posse de tais habilidades o indivíduo certamente estará apto a posicionar-se melhor diante da sua existência, condição básica para que ele venha a ter uma boa qualidade de vida. Foi a partir desta perspectiva que pensamos a atividade apresentada a seguir.</p>
                 <h3>OBJETIVOS:</h3>
-                <ol class="lista-conteudo">
+                <ol className="lista-conteudo">
                     <li>Refletir sobre o significado dos temas propostos aplicados à vida de cada um dos nossos educadores, bem como sobre as maneiras de transpor os possíveis obstáculos que surgirem.</li>
                     <li>Contribuir para a compreensão de que o conhecimento que adquirimos pode ser fruto de um recorte (fragmento) de algo mais amplo, estando, portanto, sujeito às mais diversas versões, podendo variar de acordo com a visão ou interesse de quem o transmite. A partir daí, pretende-se que os professores sintam-se estimulados a questionar as verdades já cristalizadas, assumindo assim, o papel de eterno investigador (investir na construção do eros pedagógico).</li>
                     <li>Possibilitar a reflexão a respeito dos temas propostos (problemas, mistérios e segredos), buscando levar à percepção das formas equivocadas com que normalmente os concebemos e dos prejuízos daí decorrentes.</li>
                     <li>Discutir sobre os diversos caminhos que podemos usar afim de solucionar as questões que a vida nos coloca, bem como dos diversos instrumentos (bengalas) que lançamos mão em busca de apoio para a &ldquo;travessia&rdquo; dos caminhos escolhidos.</li>
                 </ol>
                 <h3>CONTEÚDO</h3>
-                <ol class="lista-conteudo">
+                <ol className="lista-conteudo">
                     <li>Sócrates e o &ldquo;conheça-te a ti mesmo&rdquo;;</li>
                     <li>A fábula dos cegos e do elefante;</li>
                     <li>Dinâmica: &ldquo;percepção e realidade&rdquo;;</li>
@@ -47,7 +47,7 @@ function Curso_02 (){
                 <blockquote cite="Platão">&ldquo;O verdadeiro conhecimento se desenvolve por meio da passagem do mundo das sombras e aparências para o mundo das idéias e essências&rdquo;.</blockquote>
                 <h3>OBJETIVOS</h3>
                 <p>1-	Propiciar momentos de reflexão acerca do conhecimento e da ignorância, procurando conduzir à reflexão sobre os seguintes temas</p>
-                <ol type="a" class="lista-conteudo">
+                <ol type="a" className="lista-conteudo">
                     <li>quais são os elementos capazes de nos assegurar a certeza absoluta sobre aquilo que julgamos conhecer?</li>
                     <li>como podemos nos tornar capazes de distinguir uma simples sombra daquilo que é, de fato, a realidade?</li>
                     <li>que benefícios a capacitação para tal discernimento trará para a minha vida, tanto no nível pessoal quanto no profissional?</li>
@@ -55,7 +55,7 @@ function Curso_02 (){
                 </ol>
                 <p>A partir de tais reflexões esperamos sensibilizar os educadores para a grande missão a qual o filósofo Platão nos exorta: servir como elemento despertador daqueles que se deixaram quedar pelo torpor causado pela falta de conhecimento. Encontrando-se em tal situação o indivíduo se percebe sem horizontes, sem esperança, sentindo-se, como dizia Gonzaguinha, &ldquo;castrado em seus sonhos&rdquo;. É nosso dever enquanto educadores cuidar para que a chama da esperança se mantenha sempre acesa, sobretudo no trabalho com os pequenos, que, como todos sabemos, constitui-se na base de toda boa formação.</p>
                 <h3>CONTEÚDO</h3>
-                <ol class="lista-conteudo">
+                <ol className="lista-conteudo">
                     <li>O Mito da Caverna  de Platão;</li>
                     <li>Oficina: O mundo das sombras X  o mundo da realidade;</li>
                     <li>Trabalho com o poema &ldquo;Traduzir-se&rdquo; de Ferreira Gullar;</li>
@@ -70,14 +70,14 @@ function Curso_02 (){
                 <h3>JUSTIFICATIVA</h3>
                 <p>Em contato com educadores das mais diversas esferas, percebemos que muitos deles ainda não concebem o seu trabalho como meio através do qual o seu aluno atingirá a capacidade de exercitar plenamente a sua essência humana. Essa essência consiste em, além de se conhecer, conhecer também a sociedade na qual está inserido, adquirindo assim, as condições necessárias de atuar para a melhoria daquilo que, na sua concepção, não funciona bem. Muitos dos educadores que ainda não atentaram para esse fato, concebem os conteúdos desenvolvidos em sala-de-aula como um fim em si mesmo, o que esvazia de significado seu trabalho e, conseqüentemente, torna vazia também a sua própria identidade profissional. Talvez resida aí uma das principais causas do desgaste que assistimos nos membros da nossa classe.</p>
                 <h3>OBJETIVOS</h3>
-                <ol class="lista-conteudo">
+                <ol className="lista-conteudo">
                     <li>Incentivar os participantes à prática da inferência, como forma de aprimorar a sua prática leitora;</li>
                     <li>Levar à reflexão da função da aprendizagem na vida do estudante, conduzindo ao questionamento produtivo acerca das principais razões pelas quais devemos nos dedicar ao processo de aquisição do conhecimento;</li>
                     <li>Desenvolver o conceito de leitura da palavra e leitura de mundo, levando à compreensão de que a primeira é apenas o instrumento para o alcance da segunda, não podendo portanto, ser concebida como um fim em si mesma;</li>
                     <li>Contribuir para a formação voltada para a prática da &ldquo;Pedagogia da autonomia&rdquo; preconizada por Paulo Freire, através de reflexões profundas da nossa prática, concebendo-a como instrumento de construção do ser humano na sua concepção plena.</li>
                 </ol>
                 <h3>CONTEÚDO</h3>
-                <ol class="lista-conteudo">
+                <ol className="lista-conteudo">
                     <li>Oficina de leitura do texto &ldquo;O arquivo&rdquo;, durante a qual se aplicará o exercício da inferência;</li>
                     <li>Exercício coletivo para a compreensão da proposta do trabalho;</li>
                     <li>Atividade com a música &ldquo;Estudo Errado&rdquo;; de Gabriel, o Pensador.</li>
@@ -88,7 +88,7 @@ function Curso_02 (){
                 <h2>4º  ENCONTRO</h2>
                 <h2>TEMA: Construir uma comunidade: O círculo</h2>
                 <p>É evidente que as disposições físicas implicam mensagens. A sala de aula mais tradicional com a mesa do professor na frente e os alunos sentados em fileiras ordenadas, voltados para o professor, transmite certas mensagens relativas ao poder e à autoridade na sala. É recomendável sentar-se em círculo sempre que seja possível e apropriado. Esse arranjo físico acaba estimulando a colaboração entre as crianças, ajuda-as a se concentrarem mais no tema e permite o pleno contato visual. O círculo simboliza também a unidade da comunidade. Juntos, sentados de tal forma, como co-indagadores, professores e alunos podem iniciar a sua aventura de perguntar-se e adentrar o universo mágico da filosofia.</p>
-                <h4 class="texto-marcado">Atividade 1: fazer um círculo com barbante</h4>
+                <h4 className="texto-marcado">Atividade 1: fazer um círculo com barbante</h4>
                 <p><b>Material: </b>um rolo de barbante, com tamanho suficiente para construir um circulo em torno de todos os participantes.</p>
                 <p><b>Duração: </b>1h00</p>
                 <h3>Atividade 2: fazer uma bola comunitária</h3>
@@ -106,10 +106,10 @@ function Curso_02 (){
                 <p>Como motivar as crianças a procurar criar um lugar intelectualmente seguro? A seguinte atividade é uma prática pautada no incentivo de dar a palavra e desenvolver habilidades de escuta, fazendo com que todos se sintam à vontade para expor suas idéias.</p>
                 <p><b>Atividade 1: </b>espaço para apresentação e troca de experiência acerca das atividades desenvolvidas em sala de aula, que originaram do encontro anterior.</p>
                 <p><b>Duração: </b>30 minutos</p>
-                <h4 class="texto-marcado">Atividade 2: plano de discussão filosófica: o que é um lugar seguro</h4>
+                <h4 className="texto-marcado">Atividade 2: plano de discussão filosófica: o que é um lugar seguro</h4>
                 <p><b>Duração: </b>1h:00.</p>
-                <h4 class="texto-marcado">Atividade 3: processo de investigação: participar e partilhar</h4>
-                <h4 class="texto-marcado">Atividade 4: A filosofia circula</h4>
+                <h4 className="texto-marcado">Atividade 3: processo de investigação: participar e partilhar</h4>
+                <h4 className="texto-marcado">Atividade 4: A filosofia circula</h4>
                 <p><b>Duração: </b>1h00.</p>
                 <p><b>Duração total: </b> 4h00</p>
                 
@@ -125,7 +125,7 @@ function Curso_02 (){
 
                 <p><b>Duração: </b>30 minutos</p>
 
-                <h4 class="texto-marcado">Atividade 2: mais de um nome</h4>
+                <h4 className="texto-marcado">Atividade 2: mais de um nome</h4>
 
                 <p><b>Duração: </b> 30 minutos.</p>
                 <h4>Atividade 3: processo de investigação: participar e partilhar</h4>
