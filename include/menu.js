@@ -41,9 +41,9 @@ export default function Menu ()
                                 </Link>
                             </li>
                             <li>
-                                
-                                    <a></a>
-                                
+                                <Link href="/filosofia/filosofia-6">
+                                    <a>Filosofia-6</a>
+                                </Link>
                                 </li>
                             <li>
                                 <Link href="/filosofia-menu">
@@ -54,44 +54,34 @@ export default function Menu ()
               
                     <MenuLista titulo="Psicanalise">
                             <li>
-                                
-                                    <a>Psicanalise-1</a>
-                                        
+                                <Link href="/psicanalise/psicanalise-2">
+                                    <a>Psicanalise-2</a>
+                                </Link>        
                             </li>
                             <li>
-                            
-                                <a>Psicanalise-2</a>
-                                
+                            <Link href="/psicanalise/psicanalise-3">
+                                <a>Psicanalise-3</a>
+                            </Link>    
                             </li>
                             <li>
-                            
-                                    <a>Psicanalise-3</a>
-                                
+                            <Link href="/psicanalise/psicanalise-4">
+                                    <a>Psicanalise-4</a>
+                            </Link>    
                                 </li>
                             <li> 
-                                    
-                                    <a>psicanalise-4</a>
-                                
-                            </li>
-                            <li> 
-                                
+                                <Link href="/psicanalise/psicanalise-5">    
                                     <a>psicanalise-5</a>
-                                
-                                </li>
+                                </Link>
+                            </li>
                             <li> 
-                                
+                                <Link href="/psicanalise/psicanalise-6">
                                     <a>psicanalise-6</a>
-                            
+                                </Link>
                                 </li>
-                            <li> 
-                                
-                                    <a>psicanalise-7</a>
-                                
-                                </li>
-                            <li>
-                                
+                                <li>
+                                <Link href="/psicanalise-menu">
                                     <a>Ver mais</a>
-                                
+                                </Link>
                                 </li>
                     </MenuLista>
                     
@@ -124,9 +114,9 @@ export default function Menu ()
                     </MenuLista>
                
                     <li>
-                        
+                        <Link href="/sobre">
                             <a className="link-horizontal">Sobre</a>
-                        
+                        </Link>
                     </li>
                 </ul>
                 
