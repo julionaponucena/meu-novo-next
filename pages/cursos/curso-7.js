@@ -30,7 +30,7 @@ function Curso_07 (){
                 <li>Os tipos de grupos sociais</li>
             </ul>
             <h3>Interação social</h3>
-            <ul classname="lista-conteudo">
+            <ul className="lista-conteudo">
                 <li>Cooperação</li>
                 <li>Oposição</li>
                 <li>Competição</li>
