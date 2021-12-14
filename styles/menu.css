@@ -79,6 +79,7 @@
     display:none;
     min-width: 250px;
     position:absolute;
+    z-index: 2;
   }
   .big-menu ul ul a {
     text-align: left;
