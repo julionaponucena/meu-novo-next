@@ -166,6 +166,7 @@ font-size:70px;
   header{
     flex-direction: column;
     justify-content: flex-start;
+    padding:20px 2%;
   }
  .inside-header{
    align-self: flex-end;
