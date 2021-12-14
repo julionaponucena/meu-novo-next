@@ -1,0 +1,24 @@
+
+/*cubic-bezier(.23,.65,.45,.71);*/
+
+
+
+.whatsapp {
+    position:fixed;
+    bottom:30px;
+    right:30px;
+    animation-name: apresentar;
+    animation-duration: 2s;
+    animation-delay: 10s;
+    animation-fill-mode: forwards;
+    display: inline-block;
+   opacity: 0;
+   visibility: hidden;
+}
+
+
+@keyframes apresentar {
+    0%{opacity: 0;}
+    
+    100%{opacity:1;visibility: visible;}
+}
