@@ -37,7 +37,7 @@
  
 /*position:absolute;*/
  background-color: #1E90FF;
- text-align: center;
+ 
  
 }
 .botao-abrir{
@@ -71,12 +71,24 @@
     vertical-align: top;
     margin:0 5%;
   }*/
-  .menu > ul > li {
-    vertical-align: top;
+  .big-menu{
+    position: relative;
   }
+
   .menu ul ul {
     display:none;
-    position: relative;
+    min-width: 250px;
+    position:absolute;
+  }
+  .big-menu ul ul a {
+    text-align: left;
+    
+  }
+  .menu ul ul li {
+    border-bottom: solid 1px white; 
+  }
+  .menu a {
+    font-size: 20px;
   }
   .big-menu:hover > a{
     animation-name:mudar-cor;
@@ -160,6 +172,9 @@
   nav ul ul{
     transition-duration: 1s;
     transition-timing-function:ease;
+  }
+  .menu ul ul li {
+    text-align: center;
   }
   .hide{
   
