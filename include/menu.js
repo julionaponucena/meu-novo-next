@@ -27,7 +27,7 @@ export default function Menu ()
                     < MenuLista titulo="Filosofia">
                     <li>
                                 <Link href="/filosofia/filosofia-1">
-                                    <a> Filosofia 1</a>
+                                    <a>Timidez: Causa e Formas de Superação</a>
                                 </Link>
                             </li>
                             <li> 
