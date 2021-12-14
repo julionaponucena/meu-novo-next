@@ -10,7 +10,7 @@ function Header (){
                 <div className="logo-box">
                 <Image src="/logo-mente.png" width={90} height={90}/>
                 </div>
-                <h1> Humanamente</h1>
+                <h1> Humanamentea</h1>
                
             </div>
             <div className="redes-sociais inside-header">
