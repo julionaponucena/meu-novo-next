@@ -32,17 +32,17 @@ export default function Menu ()
                             </li>
                             <li> 
                                 <Link href="/filosofia/filosofia-2">
-                                    <a> Filosofia 2</a>
+                                    <a>Sentir Raiva Sempre é Negativo?</a>
                                 </Link>
                             </li>
                             <li> 
                                 <Link href="/filosofia/filosofia-3">
-                                    <a>Filosofia 4</a>
+                                    <a>A Arte de Viver a Alegria de Ser uma Pessoa com Dignidade</a>
                                 </Link>
                             </li>
                             <li>
                                 <Link href="/filosofia/filosofia-6">
-                                    <a>Filosofia-6</a>
+                                    <a>Psicologia do Indivíduo: Corpo e Mente São Inseparaveis</a>
                                 </Link>
                                 </li>
                             <li>
@@ -55,27 +55,27 @@ export default function Menu ()
                     <MenuLista titulo="Psicanalise">
                             <li>
                                 <Link href="/psicanalise/psicanalise-2">
-                                    <a>Psicanalise-2</a>
+                                    <a>Não Seja Vitimado Pelo Determinismo Existencial</a>
                                 </Link>        
                             </li>
                             <li>
                             <Link href="/psicanalise/psicanalise-3">
-                                <a>Psicanalise-3</a>
+                                <a>Colaboração Para O Bem-Estar Coletivo e Autorrealização</a>
                             </Link>    
                             </li>
                             <li>
                             <Link href="/psicanalise/psicanalise-4">
-                                    <a>Psicanalise-4</a>
+                                    <a>Terapia com Psicanálise  para Enfrentar as Dificuldades Emocionais</a>
                             </Link>    
                                 </li>
                             <li> 
                                 <Link href="/psicanalise/psicanalise-5">    
-                                    <a>psicanalise-5</a>
+                                    <a>Psicanálise: Caminho Para a Ressignificação Do sofrimento</a>
                                 </Link>
                             </li>
                             <li> 
                                 <Link href="/psicanalise/psicanalise-6">
-                                    <a>psicanalise-6</a>
+                                    <a>Depressão e Ansiedade: O Valor De Viver no Momento Presente</a>
                                 </Link>
                                 </li>
                                 <li>
@@ -87,29 +87,29 @@ export default function Menu ()
                     
                     <MenuLista titulo="Cursos">
                             <li>
-                                
-                                    <a>curso 1</a>
-                                
+                                <Link href="/cursos/curso-1">
+                                    <a>Contribuição da Psicanálise para a Educação Emocional dos Educadores</a>
+                                </Link>
                             </li>
                             <li>
-                                
-                                    <a>curso 2</a>
-                                
+                                <Link href="/cursos/curso-2">
+                                    <a>Filsofia para Crianças na Prática Escolar</a>
+                                </Link>
                                 </li>
                             <li>
-                                
-                                    <a>Curso 3</a>
-                                
+                                <Link href="/cursos/curso-3">
+                                    <a>Grupo de Pais: Desenvolvendo Valores na Educação</a>
+                                </Link>
                                 </li>
                             <li>
-                                
-                                    <a>Curso 4</a>
-                            
+                                <Link href="/cursos/curso-4">
+                                    <a>Desenvolvendo Valores na Educação</a>
+                                </Link>
                                 </li>
                             <li>
-                                
+                                <Link href="/curso-menu">
                                     <a>Ver mais</a>
-                            
+                                </Link>
                                 </li>
                     </MenuLista>
                
