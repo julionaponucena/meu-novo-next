@@ -129,7 +129,7 @@
     position:relative;
     top:-35px;
     border-radius: 20px 20px 0 0;
-    
+    z-index: 2;
     transition:width 0.5s;
     height: 1750%;
     
@@ -185,7 +185,7 @@
   }
   .show{
     
-    max-height:400px;
+    max-height:800px;
     opacity:1;
     
     
