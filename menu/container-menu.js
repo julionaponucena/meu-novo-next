@@ -4,7 +4,7 @@ function ContainerMenu (props){
 
 return( 
     <>
-        <ContainerTitulo>{props.titulo}</ContainerTitulo> 
+        <ContainerTitulo tag={0}>{props.titulo}</ContainerTitulo> 
         
         <section className={style.hiperMenu}>{props.children}</section>
     </>
