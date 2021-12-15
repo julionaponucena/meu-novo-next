@@ -3,12 +3,13 @@ import Image from 'next/image'
 import Footer from '../include/footer'
 import Header from '../include/header'
 import Menu from '../include/menu'
-import Img01_teste from '../public/atenas.jpg'
+
 import MyApp from './_app'
 import React from 'react'
-import { ReactDOM } from 'react'
+
 import Link from 'next/dist/client/link'
 import HeadConfig from '../include/head'
+import ContainerTitulo from '../supertags/titulo-secao'
 function home (){
  return(<>  
             <HeadConfig/>
@@ -23,6 +24,7 @@ function home (){
                       
             </section>  
             <section className="container-baixo">
+                <ContainerTitulo tag={1} titulo="Artigos"/>
                 <article className="artigo">
                    <h2>POR QUE FAZER TERAPIA COM PSICANÁLISE?</h2>
                     
