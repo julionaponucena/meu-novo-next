@@ -6,9 +6,9 @@ function Footer (){
         <><footer>
           <p className={style.direitoUso}>Copyright © 2021 |Júlio Naponucena de Alcântara</p>
             
-        </footer><a className="terapia" rel="noreferrer" target="_blank" href="https://wa.me/5511971252865">
+        </footer><a className="terapia" rel="noreferrer external" target="_blank" href="https://wa.me/5511971252865">
                 <span> Agende sua sessão online</span>
-            </a><a target="_blank"rel="noreferrer" className={style.whatsapp} href="https://wa.me/5511971252865"> <Image  src="/whatsApp.png" width={70} height={70}/></a></>
+            </a><a target="_blank"rel="noreferrer external" className={style.whatsapp} href="https://wa.me/5511971252865"> <Image  src="/whatsApp.png" width={70} height={70}/></a></>
     
     )
 }
