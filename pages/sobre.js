@@ -16,9 +16,9 @@ function Sobre (){
         
                 
                 <div className={style.autor}>
-                    <div className={style.perfil}>
-                        <Image  src="/autoretrato.jpg"   alt="Psicanalista Aparecido"width={364}height={469}
-                        layout="responsive" priority={true}/>
+                    <div >
+                        <Image className={style.perfil} src="/autoretrato.jpg"   alt="Psicanalista Aparecido"width={364}height={469}
+                        layout="responsive" />
                     </div>
                     <h1>Aparecido Soares de Alcântara Filho Psicanalista</h1>
                 </div>
