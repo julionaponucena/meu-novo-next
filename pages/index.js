@@ -40,9 +40,9 @@ function home (){
                 </article>
                 <div className="divisor-artigo"/>
                 <article className= "artigo artigo2">
-                    <div className="imagem-artigo ordem2">
+                    
                         <Image className="imagem-artigo ordem-2" src="/aventura.jpg" width={720}height={480}  />
-                    </div>
+                    
                     <div className="artigo-texto ordem1">  
                         <h3>ORIENTAÇÃO FILOSÓFICA</h3>
                         <p>Se você está buscando ampliar seu conhecimento acerca de si mesmo, entender suas  interações com as pessoas e o mundo à sua volta, a orientação filosófica pode ser um caminho promissor. Ela consiste  no desenvolvimento de uma abordagem  das questões do cotidiano do indivíduo, guiada pelo milenar conhecimento filosófico, estabelecendo um diálogo crítico, investigativo, que permita à pessoa que busca o consultório de filosofia compreender melhor suas questões. Todo esse percurso é construído à luz das ideias desenvolvidas ao longo da História da Filosofia, desde os sábios representantes da Filosofia Oriental, passando pelos clássicos da Grécia Antiga, até chegarmos aos dias atuais.  Você gostaria de saber mais sobre o funcionamento dessa prática? Entre em contato e teremos muito prazer em responder às suas perguntas </p>
