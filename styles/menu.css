@@ -126,12 +126,12 @@
     display:block;
     background-color: #82B4FF;
     overflow: hidden;
-    position:relative;
-    top:-35px;
+    position:absolute;
+    top:0;
     border-radius: 20px 20px 0 0;
     z-index: 2;
     transition:width 0.5s;
-    height: 1750%;
+    height: 100%;
     
   }
   .fechado{
