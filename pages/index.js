@@ -23,22 +23,22 @@ function home (){
                       
                       
             </section>  
-           
+            <ContainerTitulo tag={1} titulo="Artigos"/>
             <section className="container-baixo">
-                <ContainerTitulo tag={1} titulo="Artigos"/>
+               
                 <article className="artigo artigo1">
                     
                         <Image className='imagem-artigo ordem1'width={720} height={480} src="/homem-oculos.jpg" />
                     
 
 
-                    <div className="artigo-texto ordem2">
+                    
                         <h3>POR QUE FAZER TERAPIA COM PSICANÁLISE?</h3>
                         
                         <p>A vida no mundo atual nos apresenta muitas demandas que nos colocam em constante questionamento sobre formas de atuação diante delas, nos conduzindo também a dúvidas existenciais que são capazes de gerar em nós fortes angústias e descontrole.  Em situações assim, é recomendável que a pessoa procure ajuda especializada, com o intuito de obter auxílio para entender melhor os diversos mecanismos que podem estar impedindo o livre fluir da sua vida e que pode estar na base do seu sofrimento...  <Link href="/psicanalise/psicanalise-49"><a>continue lendo</a></Link></p>
-                    </div>
+                    
                 </article>
-                <div className="divisor-artigo"/>
+                
                 <article className= "artigo artigo2">
                     
                         <Image className="imagem-artigo ordem-2" src="/aventura.jpg" width={720}height={480}  />
@@ -49,7 +49,7 @@ function home (){
                     </div>
                    
                 </article>
-                <div className="divisor-artigo"/>
+              
                 <article className="artigo artigo1">
                     <Image className='imagem-artigo'width={720} height={480} src="/consultar.jpg" />
                     <div className="artigo-texto">
