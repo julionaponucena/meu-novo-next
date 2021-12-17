@@ -69,9 +69,9 @@
      }*/
 
 .container-baixo{
-  display: grid;
-  grid-template-columns: repeat(3,1fr);
-  gap:30px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
   padding: 20px;
   
   
@@ -80,6 +80,7 @@
   border: solid 3px var(--cor-div);
   background-color: var(--cor-div);
   padding: 0 20px;
+  width:350px;
 }
 @media(max-width:750px){
   .artigo{
