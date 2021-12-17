@@ -14,12 +14,12 @@ function Header (){
                
             </div>
             <div className="redes-sociais inside-header">
-                <a target="_blank" rel="norrefer" href="https://www.instagram.com/psicanalistaaparecidoalcantara/">
+                <a target="_blank" rel="norrefer external" href="https://www.instagram.com/psicanalistaaparecidoalcantara/">
                 <Image src="/Instagram-Icon.png"width={90} height={90}/>
                     
                     
                 </a>
-                <a target="_blank" rel="norrefer" href="https://www.facebook.com/isaltosp" >
+                <a target="_blank" rel="norrefer external" href="https://www.facebook.com/isaltosp" >
                 <Image src="/facebook-icon.png"width={90} height={90}/>
                     
                     
