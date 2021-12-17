@@ -28,7 +28,7 @@ function home (){
                 <ContainerTitulo tag={1} titulo="Artigos"/>
                 <article className="artigo artigo1">
                     
-                        <Image className='imagem-artigo ordem1'width={720} height={480} src="/consultar.jpg" />
+                        <Image className='imagem-artigo ordem1'width={720} height={480} src="/homem-oculos.jpg" />
                     
 
 
