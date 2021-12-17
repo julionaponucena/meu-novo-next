@@ -8,7 +8,7 @@ function Footer (){
             
         </footer><a className="terapia" target="_blank" href="https://api.whatsapp.com/send?phone=5511971252865">
                 <span> Agende sua sessão online</span>
-            </a><a target="_blank" className="whatsapp" href="https://api.whatsapp.com/send?phone=5511971252865"> </a></>
+            </a><a target="_blank" className="whatsapp" href=""> </a></>
     
     )
 }
