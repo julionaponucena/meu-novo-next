@@ -2,9 +2,6 @@ import Image from "next/image";
 import style from "../styles/modulos/hiper-menu.module.css"
 import Link from "next/link";
 function HiperLink ({artigo,nomeArtigo}){
-function animar(a,b){
-  console.log(b)
-}
   return(<>
   
   {artigo.map(item=> (<>
