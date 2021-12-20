@@ -21,6 +21,10 @@
 .descricaoAutor{
     border:3px solid black;
 }
+.redesFooter a{
+    display: block;
+    margin:20px 0;
+}
 .whatsapp {
     position:fixed;
     bottom:70px;
