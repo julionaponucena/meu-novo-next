@@ -8,6 +8,11 @@ function Footer (){
             <div className={style.containerItem}>
               <p className={style.nomeSite}>Site Restauramente</p><Image src="/logo-mente.png" width={30} height={30}/>
             </div>
+            <div className={style.redesFooter}>
+              <h3>Siga-nos nas redes sociais</h3>
+              <a href="https://www.instagram.com/psicanalistaaparecidoalcantara/" target="_blank" rel="norrefer">Instagram</a>
+              <a href="https://www.facebook.com/isaltosp" target="_blank" rel="norrefer">Facebook</a>
+            </div>
             <div className={style.descricaoAutor}>
               <p>Psicanalista Aparecido Soares de Alcântara Filho. Faz sessões de forma online. Para ter acesso a mais infornações entre em contato pelo número (11)971252865</p>
             </div>
