@@ -13,17 +13,21 @@
     align-items: center;
     padding: 20px;
     flex-wrap: wrap;
+    color:white;
 }
 .footerContainer div{
     width:300px;
-    margin:20px; 
+    margin:20px;
+    border-right: black solid 10px;
 }
 .descricaoAutor{
     border:3px solid black;
+    padding: 20px;
 }
 .redesFooter a{
     display: block;
     margin:20px 0;
+    color:white;
 }
 .whatsapp {
     position:fixed;
