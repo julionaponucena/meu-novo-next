@@ -14,7 +14,7 @@ function Footer (){
               <a href="https://www.facebook.com/isaltosp" target="_blank" rel="norrefer">Facebook</a>
             </div>
             <div className={style.descricaoAutor}>
-              <p>Psicanalista Aparecido Soares de Alcântara Filho. Faz sessões de forma online. Para ter acesso a mais infornações entre em contato pelo número (11)971252865</p>
+              <p>Psicanalista Aparecido Alcântara. Faz sessões de forma online. Para ter acesso a mais infornações entre em contato pelo número (11) 971252865</p>
             </div>
           </div>
 
