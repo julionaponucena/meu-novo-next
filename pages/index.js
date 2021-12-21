@@ -28,7 +28,7 @@ function home (){
                
                 <article className="artigo artigo1">
                     
-                        <Image className='imagem-artigo ordem1'width={720} height={480} src="/homem-oculos.jpg" />
+                        <Image className='imagem-artigo ordem1'width={720} height={480} src="/terapia-online3.jpg" />
                     
 
 
