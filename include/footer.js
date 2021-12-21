@@ -5,7 +5,7 @@ function Footer (){
       
         <><footer className={style.footer}>
           <div className={style.descricaoAutor}>
-            <Image src="/terapia-online3.jpg" width={660} height={240} quality={100} layout='responsive'/>
+            <Image src="/terapia-online4.jpg" width={660} height={240} quality={100} layout='responsive'/>
           </div>
           <div className={style.footerContainer}>
             <div className={style.containerItem}>
