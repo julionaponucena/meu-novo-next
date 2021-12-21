@@ -35,7 +35,7 @@ function home (){
                     
                         <h3>POR QUE FAZER TERAPIA COM PSICANÁLISE?</h3>
                         
-                        <p>A vida no mundo atual nos apresenta muitas demandas que nos colocam em constante questionamento sobre formas de atuação diante delas, nos conduzindo também a dúvidas existenciais que são capazes de gerar em nós fortes angústias e descontrole.  Em situações assim, é recomendável que a pessoa procure ajuda especializada, com o intuito de obter auxílio para entender melhor os diversos mecanismos que podem estar impedindo o livre fluir da sua vida e que pode estar na base do seu sofrimento...  <Link href="/psicanalise/psicanalise-49"><a>continue lendo</a></Link></p>
+                        <p>A vida no mundo atual nos apresenta muitas demandas que nos colocam em constante questionamento sobre formas de atuação diante delas, nos conduzindo também a dúvidas existenciais que são capazes de gerar em nós fortes angústias e descontrole.  Em situações assim, é recomendável que a pessoa procure ajuda especializada, com o intuito de obter auxílio para entender melhor os diversos mecanismos que podem estar impedindo o livre fluir da sua vida e que pode estar na base do seu sofrimento...  <Link href="/psicanalise-menu"><a>continue lendo</a></Link></p>
                     
                 </article>
                 
@@ -45,7 +45,7 @@ function home (){
                     
                     <div className="artigo-texto ordem1">  
                         <h3>ORIENTAÇÃO FILOSÓFICA</h3>
-                        <p>Se você está buscando ampliar seu conhecimento acerca de si mesmo, entender suas  interações com as pessoas e o mundo à sua volta, a orientação filosófica pode ser um caminho promissor. Ela consiste  no desenvolvimento de uma abordagem  das questões do cotidiano do indivíduo, guiada pelo milenar conhecimento filosófico, estabelecendo um diálogo crítico, investigativo, que permita à pessoa que busca o consultório de filosofia compreender melhor suas questões. Todo esse percurso é construído à luz das ideias desenvolvidas ao longo da História da Filosofia, desde os sábios representantes da Filosofia Oriental, passando pelos clássicos da Grécia Antiga, até chegarmos aos dias atuais.  Você gostaria de saber mais sobre o funcionamento dessa prática? Entre em contato e teremos muito prazer em responder às suas perguntas <a  target="_blank" rel="noreferrer" href="https://wa.me/5511971252865">Veja mais</a></p>
+                        <p>Se você está buscando ampliar seu conhecimento acerca de si mesmo, entender suas  interações com as pessoas e o mundo à sua volta, a orientação filosófica pode ser um caminho promissor. Ela consiste  no desenvolvimento de uma abordagem  das questões do cotidiano do indivíduo, guiada pelo milenar conhecimento filosófico, estabelecendo um diálogo crítico, investigativo, que permita à pessoa que busca o consultório de filosofia compreender melhor suas questões. Todo esse percurso é construído à luz das ideias desenvolvidas ao longo da História da Filosofia, desde os sábios representantes da Filosofia Oriental, passando pelos clássicos da Grécia Antiga, até chegarmos aos dias atuais.  Você gostaria de saber mais sobre o funcionamento dessa prática? Entre em contato e teremos muito prazer em responder às suas perguntas <Link href="/filosofia-menu"><a>Veja mais</a></Link></p>
                     </div>
                    
                 </article>
@@ -55,7 +55,7 @@ function home (){
                     <div className="artigo-texto">
                         <h3>LEVE NOSSOS CURSOS E PALESTRAS PARA SUA EMPRESA OU ESCOLA</h3>
                     
-                        <p>Nossos cursos e palestras são pensados a partir da perspectiva da valorização plena do  capital humano que existe em sua empresa, visando propiciar o desenvolvimento das potencialidades existentes em cada membro da sua equipe de trabalho. Para tanto, fazemos uso de abordagens filosóficas e psicanalíticas, com o intuito de promover a interação salutar entre pensamentos, sentimentos e emoções. Acesse nosso cardápio de cursos e palestras e fique por dentro dos serviços que podemos te oferecer. Aproveite nossos canais de atendimento e envie-nos suas dúvidas que teremos o maior prazer em saná-las.  <Link href="/cursos/curso-1"><a> veja mais </a></Link></p>
+                        <p>Nossos cursos e palestras são pensados a partir da perspectiva da valorização plena do  capital humano que existe em sua empresa, visando propiciar o desenvolvimento das potencialidades existentes em cada membro da sua equipe de trabalho. Para tanto, fazemos uso de abordagens filosóficas e psicanalíticas, com o intuito de promover a interação salutar entre pensamentos, sentimentos e emoções. Acesse nosso cardápio de cursos e palestras e fique por dentro dos serviços que podemos te oferecer. Aproveite nossos canais de atendimento e envie-nos suas dúvidas que teremos o maior prazer em saná-las.  <Link href="/curso-menu"> veja mais </Link></p>
                     </div>
                 </article>
                 
