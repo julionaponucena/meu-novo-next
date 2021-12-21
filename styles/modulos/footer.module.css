@@ -16,13 +16,14 @@
     color:white;
 }
 .footerContainer div{
-    width:300px;
+    
     margin:20px;
-    border-right: black solid 10px;
+
 }
 .descricaoAutor{
-    border:3px solid black;
+    margin:auto;
     padding: 20px;
+    max-width:660px;
 }
 .redesFooter a{
     display: block;
