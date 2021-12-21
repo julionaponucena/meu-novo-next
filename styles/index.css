@@ -83,6 +83,9 @@
   width:350px;
   margin: 10px;
 }
+.artigo h3 {
+  text-align: center;
+}
 @media(max-width:750px){
   .artigo{
     display: block;
