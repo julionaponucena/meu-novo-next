@@ -9,7 +9,7 @@ function Psicanalise_08 (){
     return (
         <>
         <Head>
-            <title>Reflexão sobe os Traumas e Nossa Condição Existencial</title>
+            <title>Reflexão Sobre os Traumas e Nossa Condição Existencial</title>
             <meta name="keywords" content=""/>
         </Head>
         <Header/>
