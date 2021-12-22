@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -9,7 +9,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_15 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Relação Entre Passado e Presente na Terapia Psicanalítica</title>
+            <meta name="keywords" content="viver o presente"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
