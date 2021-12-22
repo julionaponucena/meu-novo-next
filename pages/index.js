@@ -1,4 +1,4 @@
-
+import Head from 'next/head'
 import Image from 'next/image'
 import Footer from '../include/footer'
 import Header from '../include/header'
@@ -8,11 +8,15 @@ import Menu from '../include/menu'
 import React from 'react'
 
 import Link from 'next/dist/client/link'
-import HeadConfig from '../include/head'
+
 import ContainerTitulo from '../supertags/titulo-secao'
 function home (){
  return(<>  
-            <HeadConfig/>
+            <Head>
+                <title>Se conheça melhor</title>
+                <meta name="keywords" content="alma humana,autoconhecimento"/>
+        
+            </Head>
             <Header/>
             <Menu/>
             <main className="principal">
