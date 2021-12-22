@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 import Header from "../../include/header"
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo";
 function Psicanalise_03 (){
     return(
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Colaboração para o Bem-Estar Coletivo e Autorrealização</title>
+            <meta name="keywords" content="bem estar coletivo"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
