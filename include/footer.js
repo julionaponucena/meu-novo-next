@@ -4,12 +4,12 @@ function Footer (){
     return(
       
         <><footer className={style.footer}>
-          <div className={style.descricaoAutor}>
-            <Image src="/terapia-online4.jpg" width={660} height={240} quality={100} layout='responsive'/>
-          </div>
           <div className={style.footerContainer}>
             <div className={style.containerItem}>
               <p className={style.nomeSite}>Site Restauramente</p><Image src="/logo-mente.png" width={30} height={30}/>
+            </div>
+            <div className={style.descricaoAutor}>
+              <Image src="/terapia-online4.jpg" width={660} height={240} quality={100} layout='responsive'/>
             </div>
             <div className={style.redesFooter}>
               <h3>Siga-nos nas redes sociais</h3>
