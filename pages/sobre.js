@@ -4,11 +4,11 @@ import Footer from "../include/footer"
 import style from "../styles/modulos/sobre.module.css"
 
 import Image from "next/image";
-import HeadConfig from "../include/head";
+
 function Sobre (){
     return(
         <>
-            <HeadConfig/>
+           
             <Header/>
             <Menu/>
             <main className={style.biografia}>
