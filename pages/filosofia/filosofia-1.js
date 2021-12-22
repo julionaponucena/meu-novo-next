@@ -4,10 +4,12 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import HeadConfig from "../../include/head";
+import Metadados from "../../supertags/metadados";
 
 function Filosofia_01 (){
     return (
         <>
+            <Metadados descricao="Olá! isso é um teste!" chave="teste"/>
             <HeadConfig/>
             <Header/>
             <Menu/>
