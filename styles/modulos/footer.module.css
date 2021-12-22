@@ -21,9 +21,10 @@
 
 }
 .descricaoAutor{
-    margin:auto;
-    padding: 20px;
-    max-width:660px;
+    
+    
+    width:min(100%,500px);
+    
 }
 .redesFooter a{
     display: block;
