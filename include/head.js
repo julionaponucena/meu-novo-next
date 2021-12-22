@@ -1,4 +1,4 @@
-import { Html } from "next/document"
+import { Body } from "next/document"
 import Head from "next/head"
 
 function HeadConfig(){
@@ -6,9 +6,9 @@ function HeadConfig(){
   
      
     <Head>
-       <link rel="shortcut icon" href="/logo-mente.png" type="imagem/x-icon"/>
-       <title>Restauramente</title> 
-        <Html lang="pt-br"/>
+       
+        
+        
     </Head>
     
     )
