@@ -10,7 +10,7 @@ function Psicanalise_08 (){
         <>
         <Head>
             <title>Reflexão Sobre os Traumas e Nossa Condição Existencial</title>
-            <meta name="keywords" content=""/>
+            <meta name="keywords" content="me sinto incapaz"/>
         </Head>
         <Header/>
         <Menu/>
