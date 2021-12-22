@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head.js"
+import Head from "next/head"
 import Header from "../../include/header.js"
 import Menu from "../../include/menu.js"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo.js"
 function Psicanalise_02 (){
     return (
         <>
-            <HeadConfig/>
+            <Head>
+                <title>Não seja Vitimado pelo Deteminismo Existencial</title>
+                <meta name="keywords" content="autosuperacao"/>
+            </Head>
             <Header/>
             <Menu/>
             <Principal>
