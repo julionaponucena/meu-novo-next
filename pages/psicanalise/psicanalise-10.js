@@ -9,7 +9,8 @@ function Psicanalise_10 (){
     return (
         <>
         <Head>
-            
+            <title>Breve Reflexão sobre a Realização Humana</title>
+            <meta name="keywords" content="como descobrir o meu proposito"/>
         </Head>
         <Header/>
         <Menu/>
