@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Footer from '../include/footer'
 import Header from '../include/header'
 import Menu from '../include/menu'
-
+import UseTempo from '../hooks/usetempo'
 
 import React from 'react'
 
@@ -11,6 +11,7 @@ import Link from 'next/dist/client/link'
 
 import ContainerTitulo from '../supertags/titulo-secao'
 function home (){
+    const teste = UseTempo()
  return(<>  
             <Head>
                 <title>Se conheça melhor</title>
@@ -21,8 +22,8 @@ function home (){
             <Menu/>
             <main className="principal">
             <section className="container">
-            
-                <h1>Seja bem-vindo ao nosso site</h1>
+                
+                <h1>Seja bem-vindo ao nosso site {teste} </h1>
                 <p>Aqui você encontrará conteúdos que tratam dos diversos aspectos da alma humana, como suas emoções, seus sentimentos, pensamentos e atitudes deles advindos, assuntos desenvolvidos com o objetivo de auxiliá-lo em sua busca por entender o ser humano na sua complexidade e inteireza. Além disso disponibilizamos canais de acesso para que você entre em contato com o especialista para sanar algumas dúvidas e também para agendar suas sessões de psicanálise, quer seja para trabalhar algumas questões específicas que estejam dificultando sua trajetória existencial, quer seja para trabalhar temas que possam auxiliá-lo em seu autoconhecimento. Desejamos que você tenha uma ótima e proveitosa viagem pelo site e para dentro de si mesmo.</p>
                       
                       
