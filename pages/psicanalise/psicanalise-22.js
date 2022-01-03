@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_22 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Depressão e Falta de Sentido Existencial</title>
+            <meta name="keywords" content="vazio interior"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
