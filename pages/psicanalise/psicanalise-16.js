@@ -9,7 +9,7 @@ function Psicanalise_16 (){
     return (
         <>
         <Head>
-            <meta name="" content=""/>
+            <meta name="keywords" content="educar com amor"/>
             <title>PRATIQUE EDUCAÇÃO COM BASE NO ENCORAJAMENTO</title>
         </Head>
         <Header/>
