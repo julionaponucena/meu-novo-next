@@ -6,7 +6,7 @@ class MyDocument extends Document{
             <Html Lang="pt-br">
                 <Head>
                 <link rel="shortcut icon" href="/logo-mente.png" type="imagem/x-icon"/>
-                <title>teste</title>
+                
                 </Head>
                 <body>
                     <Main/>
