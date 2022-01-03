@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_17 (){
     return(
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Superioridade Disfarçada em Forma de Críticas e  Elogios</title>
+            <meta name="keywords" content="como lidar com pessoas arrogantes"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
