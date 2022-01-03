@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_20 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>O Sofrimento a Partir dos Relacionamentos Interpessoais</title>
+            <meta name="keywords" content="dependencia do outro"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
