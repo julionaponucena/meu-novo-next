@@ -52,7 +52,7 @@ export default function Menu ()
                             </li>
                     </MenuLista>
               
-                    <MenuLista titulo="Psicanalise">
+                    <MenuLista titulo="Psicanálise">
                             <li>
                                 <Link href="/psicanalise/psicanalise-2">
                                     <a>Não Seja Vitimado Pelo Determinismo Existencial</a>
