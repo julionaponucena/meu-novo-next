@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_42 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title></title>
+            <meta name="keywords" content="assuma o controle da sua vida"/>
+        </Head>
         <Header/>
         <Principal>
             <Titulo>PSICANÁLISE PARA MUDANÇA NA &ldquo;PREDESTINAÇÃO&rdquo;</Titulo>
