@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_27 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Por que Transformamos a Vida em uma Grande Competição?</title>
+            <meta name="keywords" content="vida livre"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
