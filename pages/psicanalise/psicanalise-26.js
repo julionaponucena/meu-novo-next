@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_26 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Ressignifique Seu Olhar Diante Da Vida e se Livre da Competição Compulsiva</title>
+            <meta name="keywords" content="ressignificar a vida"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
