@@ -1,16 +1,23 @@
-import { useState } from "react";
+import {useState} from "react";
 
-function UseTempo (){
-    const [tempo,setTempo] = useState(0)
+function UseTempo (inicio,duracao,limite){
+    
+    const [tempo,setTempo] = useState(inicio)
 
-    function aumentarTempo (){
-        setTempo(tempo +1)
+    function aumentar (){
+        if (tempo == limite){
+            setTempo(0)
+        }
+        else{
+            setTempo(tempo+1)
+        }
+        
     }
+    setTimeout(aumentar,duracao)
+    
     
 
-    setInterval(aumentarTempo,1000)
-
-    return [tempo]
+    return[tempo]
 }
 
 export default UseTempo
