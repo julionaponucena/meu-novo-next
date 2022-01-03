@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_35 () {
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Terapia Online para adultos, adolescentes e casais.</title>
+            <meta name="keywords" content="como deixar de sofrer"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
