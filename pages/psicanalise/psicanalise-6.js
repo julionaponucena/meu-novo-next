@@ -10,7 +10,7 @@ function Psicanalise_06 (){
         <>
         <Head>
             <title>Depressão e Ansiedade:O Valor de Viver no Momento Presente</title>
-            <meta name="keywords" content="ansiedade excesso de futuro,excesso de passado"/>
+            <meta name="keywords" content="ansiedade, excesso de futuro,excesso de passado"/>
             
         </Head>
         <Header/>
