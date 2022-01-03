@@ -10,7 +10,7 @@ function Psicanalise_19 (){
         <>
         <Head>
             <title>Livrar-se da Necessidade de Reconhecimento Pode Ser Libertador</title>
-            <meta name="keywords" content=""/>
+            <meta name="keywords" content="necessidade de aprovação psicanálise"/>
         </Head>
         <Header/>
         <Menu/>
