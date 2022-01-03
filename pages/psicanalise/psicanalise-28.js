@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_28 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Relação Entre Arrogância e Complexo de Inferioridade</title>
+            <meta name="keywords" content="complexo de infeerioridade"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
