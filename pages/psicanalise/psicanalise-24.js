@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head"
+import Head from "next/head"
 import Header from "../../include/header"
 import Menu from "../../include/menu"
 import Footer from "../../include/footer"
@@ -8,7 +8,10 @@ import Titulo from "../../supertags/titulo"
 function Psicanalise_24 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Admitir o Erro não é Sinal de Fraqueza e Muito Menos de Derrota</title>
+            <meta name="keywords" content="admitir o erro"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
