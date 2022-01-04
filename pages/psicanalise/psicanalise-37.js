@@ -9,7 +9,7 @@ function Psicanalise_37 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Como Lidar com o Sentimento da Raiva?</title>
             <meta name="keywords" content="como controlar a raiva"/>
         </Head>
         <Header/>
