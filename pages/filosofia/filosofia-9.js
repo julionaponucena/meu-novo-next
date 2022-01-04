@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 import Header from "../../include/header";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
@@ -7,7 +7,10 @@ import Titulo from "../../supertags/titulo";
 
 function Filosofia_09 (){
  return(    <>
-        <HeadConfig/>
+        <Head>
+            <title></title>
+            <meta name="keywords" content="diferença entre ética e moral"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
