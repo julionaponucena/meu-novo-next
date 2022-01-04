@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Footer from '../include/footer'
 import Header from '../include/header'
 import Menu from '../include/menu'
-
+import JanelaSlide from '../supertags/janela'
 
 
 import Link from 'next/dist/client/link'
@@ -22,6 +22,10 @@ function home (){
             <Header/>
             <Menu/>
             <main className="principal">
+
+            <JanelaSlide/>
+
+
             <section className="container">
                 
                 <h1>Seja bem-vindo ao nosso site</h1>
