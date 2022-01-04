@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 import Header from "../../include/header";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
@@ -8,7 +8,10 @@ import Principal from "../../supertags/principal";
 function Filosofia_07 (){
     return(
         <>
-        <HeadConfig/>
+        <Head>
+            <title></title>
+            <meta name="keywords" content="autoimagem"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
