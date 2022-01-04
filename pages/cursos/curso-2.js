@@ -10,7 +10,7 @@ function Curso_02 (){
         <>
         <Head>
             <title>Filosofia Para Crianças Na Prática Escolar</title>
-            <meta name="keywords" content=""/>
+            <meta name="keywords" content="filosofia na educação infantil"/>
         </Head>
         <Header/>
         <Menu/>
