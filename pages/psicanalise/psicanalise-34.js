@@ -9,7 +9,7 @@ function Psicanalise_34 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Por que Muitos Optam por não Mudar?</title>
             <meta name="keywords" content="inflexibilidade"/>
         </Head>
         <Header/>
