@@ -1,4 +1,4 @@
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 import Header from "../../include/header";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
@@ -9,7 +9,10 @@ import Image from "next/image";
 function Filosofia_04 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Psicologia do Indivíduo: Corpo e Mente São Inseparáveis</title>
+            <meta name="keywords" content="corpo e mente"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
