@@ -10,7 +10,7 @@ function Curso_06 () {
         <>
         <Head>
             <title>A Evolução na Gestão de Pessoas</title>
-            <meta name="keywords" content=""/>
+            <meta name="keywords" content="gestor de pessoas"/>
         </Head>
         <Header/>
         <Menu/>
