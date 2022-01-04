@@ -9,7 +9,7 @@ function Psicanalise_30 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>A Prática da Psicoterapia e o Caminho da Cura</title>
             <meta name="keywords" content="processo terapêutico"/>
         </Head>
         <Header/>
