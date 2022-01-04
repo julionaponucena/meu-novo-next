@@ -10,7 +10,7 @@ function Curso_05 (){
         <>
         <Head>
             <title>Relações Humanas no Ambiente De Trabalho</title>
-            <meta name="keywords" content=""/>
+            <meta name="keywords" content="relacionamento interpessoal no ambiente de trabalho"/>relacionamento interpessoal no ambiente de trabalho
         </Head>
         <Header/>
         <Menu/>
