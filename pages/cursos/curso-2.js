@@ -3,12 +3,15 @@ import Principal from "../../supertags/principal";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 
 function Curso_02 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Filosofia Para Crianças Na Prática Escolar</title>
+            <meta name="keywords" content=""/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
