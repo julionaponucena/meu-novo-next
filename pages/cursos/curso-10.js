@@ -3,12 +3,15 @@ import Principal from "../../supertags/principal";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
-import HeadConfig from "../../include/head";7
+import Head from "next/head";
 
 function Curso_10 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title></title>
+            <meta name="keywords" content="prática filosófica"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
