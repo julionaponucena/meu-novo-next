@@ -3,12 +3,15 @@ import Principal from "../../supertags/principal";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 
 function Curso_01 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Contribuição da Psicanálise Para a Educação Emocional Dos Educadores</title>
+            <meta name="keywords" content="psicanalise educação"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
