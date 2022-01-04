@@ -3,12 +3,15 @@ import Principal from "../../supertags/principal";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 
 function Curso_07 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title></title>
+            <meta name="keywords" content="ÉTICA PROFISSIONAL,ADMINISTRAÇÃO DO TEMPO"/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
