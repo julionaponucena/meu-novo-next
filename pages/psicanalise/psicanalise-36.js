@@ -9,7 +9,7 @@ function Psicanalise_36 () {
     return (
         <>
         <Head>
-            <title></title>
+            <title>Você se Sente Bem do Jeito que Está?</title>
             <meta name="keywords" content="processo de mudança"/>
         </Head>
         <Header/>
