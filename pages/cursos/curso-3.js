@@ -10,7 +10,7 @@ function Curso_03 (){
         <>
         <Head>
             <title>Grupo de Pais: Desenvolvendo Valores na Educação</title>
-            <meta name="keywords" content=""/>
+            <meta name="keywords" content="grupo de pais"/>
         </Head>
         <Header/>
         <Menu/>
