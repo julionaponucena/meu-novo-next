@@ -6,7 +6,7 @@ function UseTempo (inicio,duracao,limite){
 
     function aumentar (){
         if (tempo == limite){
-            setTempo(0)
+            setTempo(inicio)
         }
         else{
             setTempo(tempo+1)
@@ -17,7 +17,7 @@ function UseTempo (inicio,duracao,limite){
     
     
 
-    return[tempo]
+    return[tempo,setTempo]
 }
 
 export default UseTempo
