@@ -9,7 +9,7 @@ function Psicanalise_32 (){
     return(
         <>
         <Head>
-            <title></title>
+            <title>Por Que Muitas Pessoas se Maltratam Apostando em seus Próprios &ldquo;Defeitos?&rdquo;</title>
             <meta name="keywords" content="autopunição"/>
         </Head>
         <Header/>
