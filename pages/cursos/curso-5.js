@@ -3,12 +3,15 @@ import Principal from "../../supertags/principal";
 import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
-import HeadConfig from "../../include/head";
+import Head from "next/head";
 
 function Curso_05 (){
     return (
         <>
-        <HeadConfig/>
+        <Head>
+            <title>Relações Humanas no Ambiente De Trabalho</title>
+            <meta name="keywords" content=""/>
+        </Head>
         <Header/>
         <Menu/>
         <Principal>
