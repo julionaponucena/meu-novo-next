@@ -23,7 +23,7 @@ function home (){
             <Menu/>
             <main className="principal">
 
-            <JanelaSlide/>
+            
 
 
             <section className="container">
