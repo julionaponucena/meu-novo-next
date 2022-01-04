@@ -9,7 +9,7 @@ function Psicanalise_33 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Sua vida é Decidida Aqui e Agora</title>
             <meta name="keywords" content="viver o presente"/>
         </Head>
         <Header/>
