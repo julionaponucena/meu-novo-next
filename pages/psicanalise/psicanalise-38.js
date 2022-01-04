@@ -9,7 +9,7 @@ function Psicanalise_38 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>É Possível Viver sem Ser Controlado Pelo Passado?</title>
             <meta name="keywords" content="como se libertar do passado"/>
         </Head>
         <Header/>
