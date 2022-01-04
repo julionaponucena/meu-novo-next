@@ -10,7 +10,7 @@ function Curso_04 () {
         <>
         <Head>
            <title>Desenvolvendo Valores na Educação</title>
-           <meta name="keywords" content="" />
+           <meta name="keywords" content="formação de docentes" />
         </Head>
         <Header/>
         <Menu/>
