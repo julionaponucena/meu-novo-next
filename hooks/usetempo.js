@@ -1,4 +1,4 @@
-import {useState} from "react";
+import {useState,useEffect} from "react";
 
 function UseTempo (inicio,duracao,limite){
     
@@ -13,8 +13,11 @@ function UseTempo (inicio,duracao,limite){
         }
         
     }
-    setTimeout(aumentar,duracao)
-    
+   
+    useEffect(()=>{
+        const intervalo =setInterval(aumentar,duracao)
+        return  ()=> clearInterval(intervalo)
+    },[tempo])
     
 
     return[tempo,setTempo]
