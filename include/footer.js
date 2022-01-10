@@ -23,7 +23,7 @@ function Footer (){
             
         </footer><a className={style.terapia}rel="noreferrer external" target="_blank" href="https://wa.me/5511971252865">
                 <span> Agende sua sessão online</span>
-            </a><a target="_blank"rel="noreferrer external" className={style.whatsapp} href="https://wa.me/5511971252865"> <Image  src="/whatsapp.png" width={70} height={70} quality={50}/></a></>
+            </a><a target="_blank"rel="noreferrer external" className={style.whatsapp} href="https://wa.me/5511971252865"> <Image  src="/whatsapp2.png" width={70} height={70} quality={50}/></a></>
     
     )
 }
