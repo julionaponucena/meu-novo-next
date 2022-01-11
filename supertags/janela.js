@@ -26,11 +26,11 @@ function JanelaSlide (){
     }
     
     return(
-        <div>
-            <button onClick={voltar}>{'<'}</button>
+        <div className={style.containerSlide}>
+            <button className={style.botao} onClick={voltar}>{'<'}</button>
             <Image src={`/slide/${imagensItens[tempo]}`} width={300} height={300}/>   
             
-            <button onClick={avancar}>{'>'}</button>
+            <button className={style.botao} onClick={avancar}>{'>'}</button>
         </div>
     )
 }
