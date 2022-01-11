@@ -1,3 +1,3 @@
-const imagensItens = ['anuncio-curso.png','anuncio-pais.jpg','foto-2.jpeg','foto-3.jpeg','galera-agrupada.jpg','galera-assistindo.jpg','galera-circulo.jpg','galera-dialogo.jpg','galera-exercitando.jpg','galera-lanche.jpg','galera-linha2.jpg','galera-mesa.jpg','galera-roda.jpg','galera-vendada.jpg','moca-vendada.jpg','palestra.JPG','palestra2.JPG','palestra3.jpg','palestra4.jpg','praticando-atividade.jpg','professor-aula.jpg','professor-aula2.jpg','quadro-avisos.jpg']
+const imagensItens = ['anuncio-curso.png','anuncio-pais.jpg','foto-2.jpeg','foto-3.jpeg','galera-agrupada.jpg','galera-assistindo.JPG','galera-circulo.JPG','galera-dialogo.jpg','galera-exercitando.jpg','galera-lanche.jpg','galera-linha2.jpg','galera-mesa.jpg','galera-roda.jpg','galera-vendada.jpg','moca-vendada.JPG','palestra.JPG','palestra2.JPG','palestra3.JPG','palestra4.JPG','praticando-atividade.jpg','professor-aula.JPG','professor-aula2.JPG','quadro-avisos.jpg']
 
 export default imagensItens
