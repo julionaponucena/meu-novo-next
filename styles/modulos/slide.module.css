@@ -1,24 +1,16 @@
 .containerSlide{
-width: 300px;
-overflow:hidden;
-height:300px;
-position: relative;
-
-}
-.slider{
-    transition: 1s;
-    
-}
-#botaoEsq{
-    position: absolute;
-    left:0;
-    top:0;
-}
-
-.containerSlide img{
-    width:300px;
-    object-fit: cover;
+    margin:0 auto;
+    width:450px;
     height: 300px;
-    
-    display: inline-block;
+}
+
+.botao{
+    height:100%;
+    margin:0;
+    padding: 0;
+    vertical-align: top;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.794);
+    width:50px;
+    cursor: pointer;
 }
