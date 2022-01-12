@@ -8,7 +8,7 @@ function HiperLink ({artigo,nomeArtigo}){
     
     <Link href={"/"+nomeArtigo+"/"+item.link}>
           <a className={style.hiperLink}>
-          <Image placeholder="blur" blurDataURL={"/"+item.img} className={style.foto} src={"/"+item.img} width={360} height={240} quality={50}/>
+          <Image placeholder="blur" blurDataURL={"/"+item.img} className={style.foto} src={"/"+item.img} width={360} height={240} quality={50} alt={item.alt}/>
         <p>{item.titulo.toUpperCase()}</p>
       </a>
     </Link>
