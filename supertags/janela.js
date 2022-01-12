@@ -28,7 +28,7 @@ function JanelaSlide (){
     return(
         <div className={style.containerSlide}>
             <button className={style.botao} onClick={voltar}>{'<'}</button>
-            <Image src={`/slide/${imagensItens[tempo].nome}`} width={300} height={300}alt={imagensItens[tempo].alt}/>   
+            <Image src={`/slide/${imagensItens[tempo].nome}`} width={300} height={225}alt={imagensItens[tempo].alt}/>   
             
             <button className={style.botao} onClick={avancar}>{'>'}</button>
         </div>
