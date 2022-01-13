@@ -9,8 +9,9 @@ function Curso_09 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Entendendo a educação à luz da Filosofia Clínica</title>
             <meta name="keywords" content="filosofia e educação"/>
+            <meta name="description" content="O curso Entendendo a educação à luz da Filosofia Clínica  apresentará o instrumental da Filosofia Clínica como uma forma de leitura das questões educacionais, tendo em vista a construção de metodologias e materiais adequados às necessidades de cada contexto."/>
         </Head>
         <Header/>
         <Menu/>
