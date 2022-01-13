@@ -9,8 +9,9 @@ function Curso_08 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Autoconhecimento através da História da Filosofia</title>
             <meta name="keywords" content="autoconhecimento na filosofia"/>
+            <meta name="description" content="Os temas e problemas trabalhados no decorrer da História da Filosofia sempre estiveram vinculados aos temas e problemas do cotidiano de cada época. Seus instrumentos de leitura de textos e contextos foram utilizados como forma de lidar com as questões suscitadas no decorrer da História. Diante das questões de nosso tempo, pode a filosofia nos oferecer instrumentos para lidar com nossas inquietações?"/>
         </Head>
         <Header/>
         <Menu/>
