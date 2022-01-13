@@ -11,6 +11,7 @@ function Curso_03 (){
         <Head>
             <title>Grupo de Pais: Desenvolvendo Valores na Educação</title>
             <meta name="keywords" content="grupo de pais"/>
+            <meta name="description" content="Pais, educadores e um número cada vez maior de pessoas têm demonstrado muita preocupação com a violência, com os problemas sociais crescentes e com a falta de respeito pelo outro e pelo mundo ao redor, sendo  afetados por toda esta gama de problemas. Por outro lado, a maioria dos pais demonstra uma séria dificuldade de comunicação e de relacionamento com os seus filhos, de forma que não sabem o que fazer quando estes enfrentam certas questões que comprometem a sua existência. Ao mesmo tempo, temem a influência das outras pessoas e gostariam de atuar de maneira mais direta para dar aos filhos um rumo certo,  sobretudo no período em que sua personalidade se encontra em franca transformação."/>
         </Head>
         <Header/>
         <Menu/>
