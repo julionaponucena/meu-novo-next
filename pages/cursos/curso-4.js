@@ -11,6 +11,7 @@ function Curso_04 () {
         <Head>
            <title>Desenvolvendo Valores na Educação</title>
            <meta name="keywords" content="formação de docentes" />
+           <meta name="description" content="Para aprofundar a consciência e a vivencia de um valor, é necessário perceber a conexão entre o que está acontecendo no presente e o que queremos aprender. Também é importante compreender os sentimentos e as emoções que vêm à tona quando nos colocamos em relação com os outros e conosco mesmos."/>
         </Head>
         <Header/>
         <Menu/>
