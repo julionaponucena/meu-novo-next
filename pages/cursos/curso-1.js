@@ -11,6 +11,7 @@ function Curso_01 (){
         <Head>
             <title>Contribuição da Psicanálise Para a Educação Emocional Dos Educadores</title>
             <meta name="keywords" content="psicanalise educação"/>
+            <meta name="description" content="Muito se tem falado e debatido sobre a importância do preparo técnico do professor, afim de que ele possa exercer com eficiência o seu nobre papel na condução do trabalho pedagógico. Juntamente com essa demanda existe uma outra que, embora nem sempre é colocada de maneira explícita, ela se apresenta a qualquer profissional como uma condição básica para o sucesso do seu trabalho que é a condição de gerenciar suas próprias emoções."/>
         </Head>
         <Header/>
         <Menu/>
