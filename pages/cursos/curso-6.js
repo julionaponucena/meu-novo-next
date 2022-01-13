@@ -9,8 +9,9 @@ function Curso_06 () {
     return (
         <>
         <Head>
-            <title>A Evolução na Gestão de Pessoas</title>
+            <title>Curso: A Evolução na Gestão de Pessoas</title>
             <meta name="keywords" content="gestor de pessoas"/>
+            <meta name="description" content="Objetivo: Oferecer subsídios para a reflexão acerca do papel da educação na visão de Aristóteles, aplicada à atualidade, como forma de construir o indivíduo virtuoso, condição necessária para o exercício de uma existência plena. Espera-se que a partir do tema desenvolvido os gestores passem a compreender (ou reforcem sua compreensão) que a função por excelência da escola está no aspecto pedagógico."/>
         </Head>
         <Header/>
         <Menu/>
