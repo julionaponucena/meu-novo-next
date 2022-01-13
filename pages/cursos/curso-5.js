@@ -10,7 +10,8 @@ function Curso_05 (){
         <>
         <Head>
             <title>Relações Humanas no Ambiente De Trabalho</title>
-            <meta name="keywords" content="relacionamento interpessoal no ambiente de trabalho"/>relacionamento interpessoal no ambiente de trabalho
+            <meta name="keywords" content="relacionamento interpessoal no ambiente de trabalho"/>
+            <meta name="description" content="O caminho mais rápido na construção da imagem positiva da instituição, desde o início das suas atividades, é o trabalho de relações humanas, o qual deve primar pela busca da alta qualidade, junto ao seu público interno, sendo esta a meta do presente projeto."/>
         </Head>
         <Header/>
         <Menu/>
@@ -18,7 +19,7 @@ function Curso_05 (){
             <Titulo>RELAÇÕES HUMANAS NO AMBIENTE DE TRABALHO</Titulo>
             <blockquote cite="Karl Marx">&ldquo;O homem é o capital mais precioso&rdquo;.</blockquote>
             <h3>Justificativa</h3>
-            <p>É inegável  que o ponto de partida no processo de construção da imagem de um grupo de trabalho na mente daqueles que o compõem tanto positiva como negativamente, é sempre subjetivo. É de dentro da pessoa que será constituída a visão que ela vai ter da instituição a que ela pertence, bem como do trabalho que ela executa na mesma. Tal visão  se forma nos pensamentos e nos sentimentos dos seus dirigentes, dos seus funcionários, dos seus fornecedores, da sua clientela e daí se amplia para o público.</p>
+            <p>É inegável  que o ponto de partida no processo de construção da imagem de um grupo de trabalho na mente daqueles que o compõem tanto positiva como negativamente, é sempre subjetivo. É de dentro da pessoa que será constituída a visão que ela vai ter da instituição a que ela pertence, bem como do trabalho que ela executa na mesma. Tal visão se forma nos pensamentos e nos sentimentos dos seus dirigentes, dos seus funcionários, dos seus fornecedores, da sua clientela e daí se amplia para o público.</p>
             <p>O caminho mais rápido na construção da imagem positiva da instituição, desde o início das suas atividades, é o trabalho de relações humanas, o qual deve primar pela busca da alta qualidade, junto ao seu público interno, sendo esta a meta do presente projeto.</p>
             <h3>Objetivos</h3>
             <p> Conviver com os outros nem sempre é coisa fácil. O que fazer quando chega um novo colega? O que deve fazer o novo trabalhador para se tornar logo amigo de todos? Em caso de briga, divergências, o que fazer e como evitar conflitos? São estes e outros problemas que pretendemos tratar ao longo dos encontros.</p>
