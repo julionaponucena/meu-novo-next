@@ -9,8 +9,9 @@ function Curso_07 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Ética Profissional e Administração do Tempo</title>
             <meta name="keywords" content="ÉTICA PROFISSIONAL,ADMINISTRAÇÃO DO TEMPO"/>
+            <meta name="description" content="O objetivo principal deste curso é  melhorar as relações humanas, do indivíduo consigo mesmo e dele no exercício da sua função laboral, diante de uma abordagem sobre o comportamento ético e responsável, tanto em relação à execução das suas atividades, quanto em relação à responsabilização individual para com o bem-estar coletivo . Para tal abordaremos os seguintes temas:"/>
         </Head>
         <Header/>
         <Menu/>
