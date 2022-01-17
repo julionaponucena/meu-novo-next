@@ -10,7 +10,8 @@ function Psicanalise_13 (){
         <>
         <Head>
             <title>A Cegueira Provocada Pelo Desejo De Não aceitar</title>
-           
+           <meta name="keywords" content="mecanismo de defesa"/>
+           <meta name="description" content="A psicanálise defende que todos nós desenvolvemos mecanismos de defesa em nosso inconsciente e o utilizamos diante da necessidade de nos proteger de alguma situação que consideramos ameaçadora. Quando nos sentimos ameaçados a colocamos em ação e, mesmo que temporariamente, temos nossas tensões psíquicas internas reduzidas."/>
         </Head>
         <Header/>
         <Menu/>

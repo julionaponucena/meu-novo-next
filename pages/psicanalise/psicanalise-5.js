@@ -11,6 +11,7 @@ function Psicanalise_05 (){
         <Head>
             <title>Caminho para a Ressigificação do Sofrimento</title>
             <meta name="keywords" content="sofrimento psiquico"/>
+            <meta name="description" content="Um dos elementos básicos para o sucesso do processo terapêutico está no estímulo ao desenvolvimento da capacidade de ressignificação dos fatos que provoca sofrimento ao paciente. Isso porque na maioria das vezes o sofrimento está associado à maneira como o indivíduo encara os eventos que estão lhe sucedendo. A ressignificação requer que a pessoa passe a enxergar a situação com mais clareza, desenvolvendo uma compreensão firme a respeito da verdade das coisas, como  de fato ela é, deixando de viver em função de como ela lhe parece ser."/>
         </Head>
         <Header/>
         <Menu/>

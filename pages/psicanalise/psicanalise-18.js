@@ -11,6 +11,7 @@ function Psicanalise_18 (){
         <Head>
             <title>Identifique a Causa Dos Problemas  De Relacionamentos Interpessoais</title>
             <meta name="keywords" content="problemas entre amigos,problemas no relacionamento"/>
+            <meta name="description" content="De maneira geral podemos afirmar os problemas  que uma pessoa enfrenta no seu relacionamento com as outras pessoas são causados pela sua intromissão nas tarefas de vida do outro e  que não lhes dizem respeito. Isso acontece porque ao se intrometer em assuntos cujo encaminhamento diz respeito às escolhas  e perspectivas de vida do outro, o intruso se coloca em posição de superioridade a ele, como se a sua visão de mundo fosse mais clara e precisa."/>
         </Head>
         <Header/>
         <Menu/>

@@ -11,6 +11,7 @@ function Psicanalise_09 (){
         <Head>
             <title>Mentes Sadias Geram Corpos Saudaveis</title>
             <meta name="keywords" content="viver em paz"/>
+            <meta name="description" content="Se não estivermos atentos àquilo que queremos e, sobretudo àquilo que precisamos para ter uma vida saudável e com qualidade, corremos assim o risco de nos  perdermos diante de tantas informações. isso porque juntamente com as boas informações, nos são passadas aquelas que prometem milagres, nos induzem a corridas por fórmulas existenciais mágicas que nos prometem sucesso sem esforço, dando vida a  um fenômeno  contraditório: na busca insana por conseguir uma boa qualidade de vida o indivíduo acaba desenvolvendo um comportamento neurótico, que poderá conduzi-lo ao desenvolvimento de estresse e outras patologias psíquicas e físicas dele resultantes."/>
         </Head>
         <Header/>
         <Menu/>

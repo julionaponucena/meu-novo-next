@@ -11,6 +11,7 @@ function Psicanalise_17 (){
         <Head>
             <title>Superioridade Disfarçada em Forma de Críticas e  Elogios</title>
             <meta name="keywords" content="como lidar com pessoas arrogantes"/>
+            <meta name="description" content="...é muito provável que qualquer julgamento expressa um sentimento  de superioridade cultivada por aquele que julga, na medida em que, ao elogiar, ele estará entrando mesmo que de forma inconsciente  em um relacionamento hierárquico, no qual ele se coloca acima de quem está sendo julgado."/>
         </Head>
         <Header/>
         <Menu/>

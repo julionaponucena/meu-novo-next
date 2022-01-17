@@ -11,6 +11,7 @@ function Psicanalise_10 (){
         <Head>
             <title>Breve Reflexão sobre a Realização Humana</title>
             <meta name="keywords" content="como descobrir o meu proposito"/>
+            <meta name="description" content="Um dos principais objetivos da terapia com a psicanálise é auxiliar o paciente a encontrar-se a partir do desvelamento das suas ações inconscientes, através do acesso a um maior conhecimento a respeito de si mesmo, ao conteúdo que configura o indivíduo para além do que ele próprio pensa a seu respeito. Trata-se de um processo de saída da representação idealizada que ele forma sobre o Ego para a compreensão daquilo que ele é na realidade. Esse desvelamento se torna importante, na medida em que durante nosso processo de inserção social, quando recebemos os ensinamentos para conseguirmos conviver com as demais pessoas, vamos registrando uma série de impressões da sociedade, juntamente com representações que formulamos sobre nós mesmos, as quais normalmente servem para encobrir nossas principais características e, se  não forem trazidas à luz da consciência, nos condenam a uma existência repleta de equívocos e, muitas vezes, perturbada. Essa constatação levou o psicanalista  Carl Jung a afirmar que “nós nascemos originais e morremos cópias”."/>
         </Head>
         <Header/>
         <Menu/>

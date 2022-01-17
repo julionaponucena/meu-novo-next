@@ -12,6 +12,7 @@ function Psicanalise_15 (){
         <Head>
             <title>Relação Entre Passado e Presente na Terapia Psicanalítica</title>
             <meta name="keywords" content="viver o presente"/>
+            <meta name="description" content="Embora a psicanálise se ampare na história do indivíduo com o intuito de ajudá-lo a compreender sua própria trajetória existencial e as possíveis razões que o formaram psiquicamente, ela tem uma visão para o momento presente com uma perspectiva para aquilo que o indivíduo pretende construir para a sua trajetória presente e futura."/>
         </Head>
         <Header/>
         <Menu/>

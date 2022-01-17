@@ -11,6 +11,7 @@ function Psicanalise_16 (){
         <Head>
             <meta name="keywords" content="educar com amor"/>
             <title>PRATIQUE EDUCAÇÃO COM BASE NO ENCORAJAMENTO</title>
+            <meta name="description" content="Infelizmente constatamos que muitos pais e educadores ainda estão presos em um modelo educativo no qual o apontamento dos erros e a aplicação de castigos  é visto como a maneira mais eficiente. Ledo engano, uma vez que normalmente a educação que privilegia o castigo peca por não possibilitar aos seus executores a clareza necessária que lhes possibilitará fazer a separação entre uma intervenção castradora e aquela que promove o encorajamento."/>
         </Head>
         <Header/>
         <Menu/>
