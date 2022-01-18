@@ -11,6 +11,7 @@ function Psicanalise_20 (){
         <Head>
             <title>O Sofrimento a Partir dos Relacionamentos Interpessoais</title>
             <meta name="keywords" content="dependencia do outro"/>
+            <meta name="description" content="...Com isso não desejo aqui afirmar que os relacionamentos são ruins ou destrutivos.....  Meu intuito é de que passemos a ficar mais atentos ao quanto estamos permitindo que as pessoas à nossa volta tenham poder de transformação naquilo que somos ou que desejamos para nossa vida. Se desejamos viver em plenitude a construção daquilo que projetamos para nós, é importante que reforcemos  o propósito de assumir o comando da nossa existência, por mais arriscado e desafiador que isso possa nos parecer."/>
         </Head>
         <Header/>
         <Menu/>

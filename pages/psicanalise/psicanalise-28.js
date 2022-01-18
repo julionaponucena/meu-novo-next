@@ -10,7 +10,8 @@ function Psicanalise_28 (){
         <>
         <Head>
             <title>Relação Entre Arrogância e Complexo de Inferioridade</title>
-            <meta name="keywords" content="complexo de infeerioridade"/>
+            <meta name="keywords" content="complexo de inferioridade"/>
+            <meta name="description" content="O sentimento de inferioridade é capaz de conduzir o indivíduo a formar sobre si mesmo uma imagem de impotência e de irrealização, provocando-lhe muito sofrimento em função disso, visto que esse sentimento contraria nossa tendência natural a buscar sempre a realização e a sensação de potência dela resultante."/>
         </Head>
         <Header/>
         <Menu/>

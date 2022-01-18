@@ -11,6 +11,7 @@ function Psicanalise_30 (){
         <Head>
             <title>A Prática da Psicoterapia e o Caminho da Cura</title>
             <meta name="keywords" content="processo terapêutico"/>
+            <meta name="description" content="Na prática, ao invés de apenas ordenar que o filho estude, por exemplo, podemos atuar sobre ele com o intuito de aumentar-lhe a autoconfiança objetivando que ele consiga enfrentar os seus desafios."/>
         </Head>
         <Header/>
         <Menu/>

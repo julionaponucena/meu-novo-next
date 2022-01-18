@@ -11,6 +11,7 @@ function Psicanalise_22 (){
         <Head>
             <title>Depressão e Falta de Sentido Existencial</title>
             <meta name="keywords" content="vazio interior"/>
+            <meta name="description" content="Um dos principais agentes causadores da depressão reside no fato de que muitas pessoas se deixam conduzir pelos acontecimentos que permeiam sua vida, sem se questionar abertamente sobre dois grandes objetivos que são comuns a todos nós:  construir as condições para a autossuficiência e viver em harmonia com a sociedade....  O caminho para a saída desse círculo é a construção da consciência por parte do indivíduo de que ele é dotado de condições potenciais que o capacitam a realizar, por ele mesmo, suas próprias tarefas de vida."/>
         </Head>
         <Header/>
         <Menu/>

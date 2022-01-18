@@ -11,6 +11,7 @@ function Psicanalise_35 () {
         <Head>
             <title>Terapia Online para adultos, adolescentes e casais.</title>
             <meta name="keywords" content="como deixar de sofrer"/>
+            <meta name="description" content=""/>
         </Head>
         <Header/>
         <Menu/>

@@ -11,6 +11,7 @@ function Psicanalise_25 (){
         <Head>
             <title>Preocupação Exagerada com a Imagem Exterior pode Gerar Conflito Interior</title>
             <meta name="keywords" content="vida social"/>
+            <meta name="description" content="...Cuidar para que nosso comportamento reproduza aquilo que de fato pensamos e sentimos é uma atitude libertadora, na medida em que permite que nos apresentemos para a vida em sociedade de maneira mais genuína e transparente, sem a necessidade de esconder as imperfeições que de uma forma ou de outra faz parte da constituição de todas as pessoas."/>
         </Head>
         <Header/>
         <Menu/>

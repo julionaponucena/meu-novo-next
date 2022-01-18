@@ -10,8 +10,9 @@ function Psicanalise_31 (){
     return (
         <>
         <Head>
-        <title>O Que Existe de Objetivo Nos Sentimentos De Inferioridade?</title>
-        <meta name="keywords" content="sentimento de inferioridade"/>
+            <title>O Que Existe de Objetivo Nos Sentimentos De Inferioridade?</title>
+            <meta name="keywords" content="sentimento de inferioridade"/>
+            <meta name="description" content="Existem muitas pessoas que desenvolvem uma imagem negativa de si mesmo, levando uma vida como se não tivessem nenhum valor ou, no máximo, que possuem um valor muito limitado. Essa visão normalmente é construída com base na subjetividade da relação que o indivíduo estabelece com os outros à sua volta, situação em que ele fica ligado àquilo que pensam ou que falam dele, desenvolvendo assim uma relação de dependência, de aceitação e reforço externo à suas atitudes."/>
         </Head>
         <Header/>
         <Menu/>

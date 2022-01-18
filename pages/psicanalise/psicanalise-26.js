@@ -11,6 +11,7 @@ function Psicanalise_26 (){
         <Head>
             <title>Ressignifique Seu Olhar Diante Da Vida e se Livre da Competição Compulsiva</title>
             <meta name="keywords" content="ressignificar a vida"/>
+            <meta name="description" content="...Se ao contrário disso, passarmos  a visualizar a humanidade e todos os seus componentes em um plano horizontal, compreenderemos que todos estamos caminhando em um mesmo plano, o que nos credencia a promover uma visão diferente e sem hierarquias entre nós humanos."/>
         </Head>
         <Header/>
         <Menu/>

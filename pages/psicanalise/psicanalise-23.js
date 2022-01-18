@@ -11,6 +11,7 @@ function Psicanalise_23 (){
         <Head>
             <title>Diminua a Ansiedade Praticando a Gestão de Incertezas</title>
             <meta name="keywords" content="necessidade de controle"/>
+            <meta name="description" content="...Uma medida eficaz que podemos adotar para lidar com a ansiedade é investir em ferramentas conscientes de gestão das tantas incertezas que permeiam o nosso cotidiano, marcado por planejamentos e metas definidas dentro de um espaço limítrofe de tempo e de ação."/>
         </Head>
         <Header/>
         <Menu/>

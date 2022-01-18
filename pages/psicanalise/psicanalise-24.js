@@ -11,6 +11,7 @@ function Psicanalise_24 (){
         <Head>
             <title>Admitir o Erro não é Sinal de Fraqueza e Muito Menos de Derrota</title>
             <meta name="keywords" content="admitir o erro"/>
+            <meta name="description" content="...Em situação assim, em que a luta pelo poder está no centro das relações, é comum observarmos que as pessoas têm um desgaste muito grande para manter suas convicções, ou ainda para provar ao outro que ela está certa, se tornando assim refém do seu próprio narcisismo, por encontrar-se obcessivamente centrada em sua própria figura."/>
         </Head>
         <Header/>
         <Menu/>

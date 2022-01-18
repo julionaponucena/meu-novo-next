@@ -11,6 +11,7 @@ function Psicanalise_27 (){
         <Head>
             <title>Por que Transformamos a Vida em uma Grande Competição?</title>
             <meta name="keywords" content="vida livre"/>
+            <meta name="description" content="...embora cada um de nós desenvolva sua própria caminhada, estamos todos nos movendo no mesmo plano e que, uma vez chegado a esse estágio de consciência, abandonamos a ideia de superioridade ou inferioridade que formamos em nossas relações com as outras pessoas e que tanto mal nos causa."/>
         </Head>
         <Header/>
         <Menu/>

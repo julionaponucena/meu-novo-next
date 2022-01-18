@@ -11,6 +11,7 @@ function Psicanalise_32 (){
         <Head>
             <title>Por Que Muitas Pessoas se Maltratam Apostando em seus Próprios &ldquo;Defeitos?&rdquo;</title>
             <meta name="keywords" content="autopunição"/>
+            <meta name="description" content=" tenho percebido que existe um número muito grande de pessoas que se martirizam porque a visão que possuem de si mesmas as levam a se ver como seres imperfeitos e cheios de defeitos... Isso ocorre em partes porque somos educados na base da correção daquilo que nossos educadores -  pais, professores, lideranças religiosas – consideravam ser nossa pior parte, apontando-a com muita frequência e como algo a ser modificado em nós, os nossos “defeitos.”"/>
         </Head>
         <Header/>
         <Menu/>
