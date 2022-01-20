@@ -9,8 +9,9 @@ function Filosofia_2 (){
     return(
         <>
             <Head>
-                <tilte></tilte>
+                <tilte>Sentir Raiva Sempre é Negativo?</tilte>
                 <meta name="keywords" content="como melhorar a raiva"/>
+                <meta name="description" content="...Para entrarmos nesse assunto é importante salientar que as emoções possuem um papel importante para a manutenção da nossa  saúde mental e para a preservação da  nossa própria vida..."/>
             </Head>
             <Header/>
             <Menu/>

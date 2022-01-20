@@ -7,8 +7,9 @@ import Footer from "../../include/footer";
 function Filosofia_05 (){
   return(   <>
     <Head>
-      <title></title>
+      <title>Conselhos de Sócrates para Plenificar nossa Existência</title>
       <meta name="keywords" content="filosofia de vida"/>
+      <meta name="description" content="...A sociedade atual, marcada pelo imediatismo e pela superficialidade, nos impele a retornar aos ensinamentos do velho mestre, sobretudo porque nos encontramos diante do grande desafio de conferir um significado à nossa existência..."/>
     </Head>
     <Header/>
     <Menu/>

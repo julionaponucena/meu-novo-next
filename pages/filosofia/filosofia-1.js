@@ -10,8 +10,9 @@ function Filosofia_01 (){
         <>
             
             <Head>
-                <title>TIMIDEZ: CAUSAS E FORMAS DE SUPERAÇÃO</title>
+                <title>Timidez: Causas e Formas de Superação</title>
                 <meta name="keywords" content="como superar a timidez"/>
+                <meta name="description" content="...A superação da timidez certamente auxilia na formação de  uma imagem mais positiva acerca de si mesmo, sendo essencial para o desenvolvimento de uma autoestima saudável..."/>
             </Head>
             <Header/>
             <Menu/>

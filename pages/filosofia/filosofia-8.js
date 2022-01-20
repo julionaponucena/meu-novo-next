@@ -9,8 +9,9 @@ function Filosofia_08 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Benefícios da Espiritualidade para o Bem-Estar Mental</title>
             <meta name="keywords" content="espiritualidade,bem-estar mental"/>
+            <meta name="description" content="...O redimensionamento que a busca pelo enobrecimento interior nos permite fazer acontece pelo fato de que uma postura mais espiritualizada diante da vida tem o potencial de conduzir o indivíduo a um posicionamento  para além de si mesmo e das suas próprias necessidades..."/>
         </Head>
         <Header/>
         <Menu/>

@@ -12,6 +12,7 @@ function Filosofia_04 (){
         <Head>
             <title>Psicologia do Indivíduo: Corpo e Mente São Inseparáveis</title>
             <meta name="keywords" content="corpo e mente"/>
+            <meta name="description" content="...Em sua origem a palavra individual tem o sentido de indivisível, o que significa dizer que ao olharmos para qualquer  pessoa devemos buscar enxergá-la em sua integralidade, não efetuando a costumeira separação entre mente e corpo, ou ainda separando a mente consciente da mente inconsciente..."/>
         </Head>
         <Header/>
         <Menu/>

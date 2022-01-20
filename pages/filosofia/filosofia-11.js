@@ -9,8 +9,9 @@ function Filosofia_11 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Sugestões para uma Boa Tomada de Decisão</title>
             <meta name="keywords" content="tomada de decisão"/>
+            <meta name="description" content="...Um problema se caracteriza por um desvio entre o que se espera acontecer e o que realmente está acontecendo...."/>
         </Head>
         <Header/>
         <Menu/>

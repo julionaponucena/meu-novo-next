@@ -8,8 +8,9 @@ import Titulo from "../../supertags/titulo";
 function Filosofia_09 (){
  return(    <>
         <Head>
-            <title></title>
+            <title>Diferença entre Ética e Moral</title>
             <meta name="keywords" content="diferença entre ética e moral"/>
+            <meta name="description" content="Moral:significa costumes ou regras que determinam a vida.Ética:É o processo feito pela pessoa de transformar em normas/regras práticas e valores surgidos no grupo e na cultura em que vive. "/>
         </Head>
         <Header/>
         <Menu/>

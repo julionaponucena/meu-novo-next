@@ -6,11 +6,14 @@ import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
 
 function Filosofia_13 (){
+    const palavra = "..Como não temos a capacidade de eliminar todas as nossas dificuldades, podemos correr nas farmácias e consultórios em busca dessa capacidade.."
     return (
         <>
+        {console.log(palavra.length)}
         <Head>
-            <title></title>
-            <meta name="keywords" content="doença psicoló"/>
+            <title>Quando o Remédio Causa Doenças</title>
+            <meta name="keywords" content="doença psicológica"/>
+            <meta name="description" content="..Como não temos a capacidade de eliminar todas as nossas dificuldades, podemos correr nas farmácias e consultórios em busca dessa capacidade.."/>
         </Head>
         <Header/>
         <Menu/>

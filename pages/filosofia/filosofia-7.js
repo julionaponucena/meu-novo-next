@@ -9,8 +9,9 @@ function Filosofia_07 (){
     return(
         <>
         <Head>
-            <title></title>
+            <title>Relação Entre a Auto Imagem e Qualidade de Vida</title>
             <meta name="keywords" content="autoimagem"/>
+            <meta name="description" content="...Olhando essa questão à luz da psicanálise, podemos afirmar que a imagem que a pessoa constrói a respeito de si mesma funciona como um importante influenciador da sua saúde  e bem estar emocional, uma vez que ela interfere de forma direta nas suas relações afetivas, sociais e emocionais..."/>
         </Head>
         <Header/>
         <Menu/>

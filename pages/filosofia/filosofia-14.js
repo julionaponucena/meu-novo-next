@@ -9,8 +9,9 @@ function Filosofia_14 (){
     return (
         <>
             <Head>
-                <title></title>
+                <title>Pensamentos Célebres</title>
                 <meta name="keywords" content="pensamentos célebres"/>
+                <meta name="description" content="frases de grandes pessoas da humanidade"/>
             </Head>
             <Header />
             <Menu />

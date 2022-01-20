@@ -9,8 +9,9 @@ function Filosofia_10 (){
     return(
         <>
         <Head>
-            <title></title>
+            <title>Planejar para Economizar Tempo e Energia</title>
             <meta name="keywords" content="gestão do tempo"/>
+            <meta name="description" content="...A grande sacada está na seguinte questão: entre você saber o que precisa ser feito e você realmente fazer, vale a pena investir um tempinho no planejamento..."/>
         </Head>
         <Header/>
         <Menu/>

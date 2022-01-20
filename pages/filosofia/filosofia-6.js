@@ -9,13 +9,14 @@ function Filosofia_06 (){
     return(
         <>
         <Head>
-            <title></title>
+            <title>Cultivar a Esperança pode te Fortalecer Diante das Dificuldades</title>
             <meta name="keywords" content="superar as dificuldades"/>
+            <meta name="description" content="...Podemos constatar o efeito da esperança na vida das pessoas que a cultivam pelas respostas  positivas e funcionais que elas são capazes de oferecer em momentos de exposição às mais variadas dificuldades enfrentadas por elas..."/>
         </Head>
         <Header/>
         <Menu/>
         <Principal>
-            <Titulo>CULTIVAR A ESPERANÇA PODE TE FORTALECER  DIANTE DAS DIFICULDADES</Titulo>
+            <Titulo>CULTIVAR A ESPERANÇA PODE TE FORTALECER DIANTE DAS DIFICULDADES</Titulo>
             <p>Há um velho ditado popular que diz que a esperança é a última que morre. Embora nem sempre conseguimos conferir realidade a esse ditado, é muito importante investir no desafio de manter viva a esperança, sobretudo porque é através dela que damos sentidos reais à nossa existência, visto que ela é capaz de nos proporcionar a necessária força de reação diante de cenários que nos são desfavoráveis.</p>
             <p>Podemos constatar o efeito da esperança na vida das pessoas que a cultivam pelas respostas  positivas e funcionais que elas são capazes de oferecer em momentos de exposição às mais variadas dificuldades enfrentadas por elas. Observamos que essas pessoas não se deixam abater facilmente, estão sempre em busca de uma saída, mesmo que ela aparentemente não exista. Além disso elas possuem o poder de contagiar aqueles que estão à sua volta, mobilizando-os a não desistir e não se desesperar. O termo desesperar é tratado aqui como o ato desprover-se de esperança. Em outras palavras, quando deixamos de nutrir a esperança, criamos um espaço que será preenchido por outros sentimentos, os quais podem potencializar atitudes destrutivas e disfuncionais, como aquelas tomadas em situação de desespero.</p>
             <p>Do ponto de vista psíquico, estudos revelam que pessoas que costumam cultivar a esperança possuem maior índice de desempenho nos estudos, no campo profissional e nos demais setores da vida, porque a postura positiva  pode produzir como resultado uma outra característica desejável a todos nós que é a resiliência. A resiliência consiste na capacidade que o indivíduo possui para lidar com situações adversas, de adaptar-se a situações novas, procurar saídas efetivas para os obstáculos, além de saber controlar-se diante de situações de pressão e estresse. Considerando que a vida não se faz somente de bons acontecimentos, podemos afirmar que a pessoa resiliente tem grandes possibilidades de conferir melhores condições à sua vida sob os mais variados aspectos.</p>

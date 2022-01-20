@@ -9,8 +9,9 @@ function Filosofia_03 (){
     return (
         <>
             <Head>
-                <title></title>
+                <title>A Arte de Viver a Alegria de ser uma Pessoa com Dignidade</title>
                 <meta name="keywords" content="a alegria de viver"/>
+                <meta name="description" content="...podemos realmente escolher e fazer o que queremos? Quase sempre não podemos escolher o que acontece conosco, mas podemos escolher o que fazer perante o que nos acontece..."/>
             </Head>
             <Header/>
             <Menu/>
