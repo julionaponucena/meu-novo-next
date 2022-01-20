@@ -9,8 +9,9 @@ function Psicanaliise_45 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Razões para Fazer Terapia 3</title>
             <meta name="keywords" content="razões para fazer terapia"/>
+            <meta name="description" content="...É neste sentido que Jung diz “libertar-se da psique infantil após um longo trabalho efetuado”, ou seja, conseguir seguir o desenvolvimento psíquico normal, que exige mais cedo ou mais tarde que rompamos a ligação simbiótica com os pais – e, mais frequentemente, com a mãe..."/>
         </Head>
         <Header/>
         <Menu/>

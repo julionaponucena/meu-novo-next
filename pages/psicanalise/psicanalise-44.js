@@ -9,8 +9,9 @@ function Psicanalise_44 () {
     return (
         <>
         <Head>
-            <title></title>
+            <title>Razão para Fazer Análise: Sair de uma Condição Difícil</title>
             <meta name="keywords" content="razões para fazer terapia"/>
+            <meta name="description" content="..A maioria das pessoas procura o consultório porque está em um momento complicado...Nessas situações a ajuda de alguém preparado para ouvir..é de fundamental importância..."/>
         </Head>
         <Header/>
         <Menu/>

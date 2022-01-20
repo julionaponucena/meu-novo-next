@@ -11,6 +11,7 @@ function Psicanalise_36 () {
         <Head>
             <title>Você se Sente Bem do Jeito que Está?</title>
             <meta name="keywords" content="processo de mudança"/>
+            <meta name="description" content="Embora entendamos  que aquilo que foi registrado em nossa estrutura psíquica na infância acompanha o indivíduo ao longo de toda a sua vida, entendemos também que essa estrutura é dotada de  plasticidade a qual permite  a realização dos devidos ajustes...."/>
         </Head>
         <Header/>
         <Menu/>

@@ -9,8 +9,9 @@ function Psicanalise_46 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Razões para Fazer Terapia em Psicanálise 2</title>
             <meta name="keywords" content="razões para fazer terapia"/>
+            <meta name="description" content="...Nestes períodos, reconhecer o que está faltando no ponto de vista da consciência é fundamental para a cura."/>
         </Head>
         <Header/>
         <Menu/>

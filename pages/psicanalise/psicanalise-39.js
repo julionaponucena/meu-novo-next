@@ -9,8 +9,9 @@ function Psicanalise_39 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Reflexão Sobre os Traumas e Nossa Condição Existencial</title>
             <meta name="keywords" content="traumas psíquicos"/>
+            <meta name="description" content="..Se levarmos o que é proposto por essa armadilha conceitual a sério, nos condenamos a uma visão determinista, passando a considerar que já estamos prontos e que não nos resta outra saída a não ser conviver com o que me resultou da nossa história...."/>
         </Head>
         <Header/>
         <Menu/>

@@ -9,8 +9,9 @@ function Psicanalise_41 () {
     return (
         <>
         <Head>
-            <title></title>
+            <title>Psicanálise: Ajuda para Enfrentar a Dificuldade de Interpretar Nossos Sentimentos e Emoções</title>
             <meta name="keywords" content="autocontrole emocional"/>
+            <meta name="description" content="Uma das questões recorrentes que os partilhantes deixam transparecer durante a análise é a dificuldade que eles apresentam em identificar seus sentimentos e emoções diante daquilo que estão enfrentando como possível problema em sua vida..."/>
         </Head>
         <Header/>
         <Menu/>

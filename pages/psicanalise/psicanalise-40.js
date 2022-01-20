@@ -9,8 +9,9 @@ function Psicanalise_40 () {
     return (
         <>
         <Head>
-            <title></title>
+            <title>Relação Entre Passado e Presente na Terapia Psicanalítica</title>
             <meta name="keywords" content="liberte-se do passado"/>
+            <meta name="description" content="Embora a psicanálise se ampare na história.... ela tem uma visão para o momento presente com uma perspectiva para aquilo que o indivíduo pretende construir para a sua trajetória presente e futura...."/>
         </Head>
         <Header/>
         <Menu/>

@@ -9,8 +9,9 @@ function Psicanalise_42 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Psicanálise para Mudança na &ldquo;Predestinação&rdquo;</title>
             <meta name="keywords" content="assuma o controle da sua vida"/>
+            <meta name="description" content="...Podemos mudar tranquilamente para uma mudança nas condições de vida. Por exemplo, um paciente procura a terapia porque não sabe o que quer fazer em sua profissão..."/>
         </Head>
         <Header/>
         <Principal>
