@@ -73,11 +73,7 @@ export default function Menu ()
                                     <a>Psicanálise: Caminho Para a Ressignificação Do sofrimento</a>
                                 </Link>
                             </li>
-                            <li> 
-                                <Link href="/psicanalise/psicanalise-6">
-                                    <a>Depressão e Ansiedade: O Valor De Viver no Momento Presente</a>
-                                </Link>
-                                </li>
+                            
                                 <li>
                                 <Link href="/psicanalise-menu">
                                     <a>Ver mais</a>
