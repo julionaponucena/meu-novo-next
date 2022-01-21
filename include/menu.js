@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { useState } from "react"
-import {FaAngleRight} from "react-icons/fa"
+import Image from "next/image"
 import MenuLista from "../supertags/menu-list"
 export default function Menu ()
 {
@@ -118,10 +118,10 @@ export default function Menu ()
                 
                 <div className="redes-sociais inside-menu">
                         <a id="facebook" target="_blank" href="https://www.facebook.com/isaltosp">
-                            <img src="/facebook-icon.png"></img>
+                            <Image src="/facebook-icon.png" width={90} height={90} alt="icone do facebook"/>
                         </a>
                         <a  id="instagram" target="_blank" href="https://www.instagram.com/psicanalistaaparecidoalcantara/">
-                            <img src="/Instagram-Icon.png" alt="Instagram"></img>
+                            <Image src="/Instagram-Icon.png" width={90} height={90} alt="icone do instagram"/>
                         </a>
                 </div>
             </div>    
