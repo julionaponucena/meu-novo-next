@@ -5,8 +5,8 @@ class MyDocument extends Document{
         return(
             <Html Lang="pt-br">
                 <Head>
-                <link rel="shortcut icon" href="/logo-mente.png" type="imagem/x-icon"/>
-                
+                    <link rel="shortcut icon" href="/logo-mente.png" type="imagem/x-icon"/>
+                    <meta name="author" content="Júlio Naponucena de Alcântara"/>
                 </Head>
                 <body>
                     <Main/>
