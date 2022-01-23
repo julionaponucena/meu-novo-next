@@ -49,7 +49,7 @@
   cursor:pointer;
 }
    
-@media (min-width: 517px){ 
+@media (min-width: 891px){ 
  /* .menu ul {
     display:flex;
     justify-content: space-around;
@@ -63,10 +63,7 @@
     display:flex;
     justify-content: space-around;
   }
-.menu a span{
-  
-  vertical-align: top;
-}
+
   /*.menu-itens > ul > li {
     display:inline-block;
     vertical-align: top;
@@ -104,7 +101,8 @@
   }
   .icone{
     transform: rotate(90deg);
-    font-size: 30px;
+    font-size: 25px;
+    vertical-align: middle;
   }
   .botao-abrir{
     display:none;
@@ -121,7 +119,7 @@
     to {opacity:1}
   }
  
-@media screen and (max-width:550px) {
+@media screen and (max-width:890px) {
   
 
   .menu-itens > ul{
@@ -150,6 +148,7 @@
     top:0;
     transition:width 0.5s;
     height: 100%;
+    z-index: 2;
   }
   .botao-abrir{
     
