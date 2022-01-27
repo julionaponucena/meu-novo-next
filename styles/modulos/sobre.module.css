@@ -30,8 +30,25 @@ padding: 0;
 border:solid 15px blue;
 width:100%;
 }
-
-
+.inputs{
+    
+    border-radius: 10px;
+    background-color: #946609;
+    display: block;
+    margin:auto;
+}
+.form{
+    margin:auto;
+    width:300px;
+    background-color: #0064FA;
+    padding: 20px 0;
+    border-radius: 20px;
+}
+.label{
+    display: block;
+    margin: auto;
+    width:250px;
+}
 @keyframes aparecer {
     from{opacity:0;}
     to{opacity:1;}
