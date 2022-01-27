@@ -2,10 +2,39 @@ import Header from "../include/header"
 import Menu from "../include/menu"
 import Footer from "../include/footer"
 import style from "../styles/modulos/sobre.module.css"
-
+import { useState } from "react"
 import Image from "next/image";
 
 function Sobre (){
+    const [nome,setNome] = useState('')
+    const [email,setEmail] = useState('')
+    const [descricao,setDescricao] = useState('')
+    const [sucess,setSucess] = useState(false)
+    function onChangeNome (evt){
+        setNome(evt.target.value)   
+    }
+    function onChangeEmail (evt){
+        setEmail(evt.target.value)
+    }
+    function onChangeDescricao (evt) {
+        setDescricao(evt.target.value)
+    }
+    async function sendEmail (evt){
+        evt.preventDefault()
+        try{
+            const response = await fetch('https://meu-django.herokuapp.com/email/',{
+                method:'POST',
+                headers:{
+                    Accept:'application/json',
+                },
+                body:JSON.stringify({nome,email,descricao})
+            })
+            const json = await response.json()
+            setSucess(true)
+        }catch(err){
+            console.log(err)
+        }
+    }
     return(
         <>
            
@@ -33,7 +62,21 @@ function Sobre (){
 
 
             </main>
-
+            <form onSubmit={sendEmail} className={style.form}>
+                <div>
+                    <label className={style.label}> Digite seu nome:</label>
+                    <input onChange={onChangeNome} className={style.inputs}/>
+                </div>
+                <div>
+                    <label className={style.label}>Digite seu e-mail:</label>
+                    <input onChange={onChangeEmail} className={style.inputs} type="email"/>
+                </div>
+                <div>
+                    <label className={style.label}>Digite seu comentário:</label>
+                    <textarea onChange={onChangeDescricao} className={style.inputs}/>
+                </div>
+                <button type="submit">Enviar</button>
+            </form>
             <Footer/>
         </>
     )
