@@ -30,7 +30,7 @@ function Sobre (){
                 },
                 body:JSON.stringify({nome,email,descricao})
             })
-            const json = await response.json()
+            
             setSucess(true)
         }catch(err){
             console.log(err)
