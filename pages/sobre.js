@@ -26,7 +26,8 @@ function Sobre (){
                 method:'POST',
                 headers:{
                     Accept:'application/json',
-                    'Content-type': 'application/json'
+                    'Content-type': 'application/json',
+                    'X-CSRF-TOKEN':'porfavordacertovai'
                 },
                 body:JSON.stringify({nome,email,descricao})
             })
