@@ -111,7 +111,7 @@ export default function Menu ()
                
                     <li>
                         <Link href="/sobre">
-                            <a className="link-horizontal">Sobre</a>
+                            <a className="link-horizontal">Autor</a>
                         </Link>
                     </li>
                 </ul>
