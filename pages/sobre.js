@@ -26,6 +26,7 @@ function Sobre (){
                 method:'POST',
                 headers:{
                     Accept:'application/json',
+                    'Content-type': 'application/json'
                 },
                 body:JSON.stringify({nome,email,descricao})
             })
