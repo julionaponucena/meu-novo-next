@@ -23,7 +23,7 @@ function Sobre (){
         evt.preventDefault()
         try{
             const response = await fetch('https://meu-django.herokuapp.com/email/',{
-                method:'POST',
+                method:'GET',
                 headers:{
                     Accept:'application/json',
                     'Content-type': 'application/json',
