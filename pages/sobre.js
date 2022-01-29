@@ -6,21 +6,7 @@ import { useState } from "react"
 import Image from "next/image";
 import Head from "next/head"
 function Sobre (){
-    /*<form onSubmit={sendEmail} className={style.form}>
-                <div>
-                    <label className={style.label}> Digite seu nome:</label>
-                    <input onChange={onChangeNome} className={style.inputs}/>
-                </div>
-                <div>
-                    <label className={style.label}>Digite seu e-mail:</label>
-                    <input onChange={onChangeEmail} className={style.inputs} type="email"/>
-                </div>
-                <div>
-                    <label className={style.label}>Digite seu comentário:</label>
-                    <textarea onChange={onChangeDescricao} className={style.inputs}/>
-                </div>
-                <button type="submit">Enviar</button>
-            </form> */
+    /**/
     const [nome,setNome] = useState('')
     const [email,setEmail] = useState('')
     const [descricao,setDescricao] = useState('')
@@ -81,6 +67,22 @@ function Sobre (){
 
 
             </main>
+
+            <form onSubmit={sendEmail} className={style.form}>
+                <div>
+                    <label className={style.label}> Digite seu nome:</label>
+                    <input onChange={onChangeNome} className={style.inputs}/>
+                </div>
+                <div>
+                    <label className={style.label}>Digite seu e-mail:</label>
+                    <input onChange={onChangeEmail} className={style.inputs} type="email"/>
+                </div>
+                <div>
+                    <label className={style.label}>Digite seu comentário:</label>
+                    <textarea onChange={onChangeDescricao} className={style.inputs}/>
+                </div>
+                <button type="submit">Enviar</button>
+            </form> 
             
             <Footer/>
         </>
