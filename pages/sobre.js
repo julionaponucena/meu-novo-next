@@ -28,11 +28,12 @@ function Sobre (){
                 headers:{
                     Accept:'application/json',
                     'Content-type': 'application/json',
-                    'X-CSRF-TOKEN':'porfavordacertovai'
+                
                 },
                 body:JSON.stringify({nome,email,descricao})
             })
-            
+            const json = await response.json()
+            console.log(json)
             setSucess(true)
         }catch(err){
             console.log(err)
