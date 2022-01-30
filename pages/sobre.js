@@ -23,7 +23,7 @@ function Sobre (){
     async function sendEmail (evt){
         evt.preventDefault()
         try{
-            const response = await fetch('https://localhost:8000/email/token',{
+            const response = await fetch('https://meu-django.herokuapp.com/email/token',{
                 method:'POST',
                 headers:{
                     Accept:'application/json',
