@@ -28,7 +28,8 @@ function Sobre (){
                 headers:{
                     Accept:'application/json',
                     'Content-type': 'application/json',
-                    'X-CSRFToken':'{{csrf_token}}'
+                    'X-CSRFToken':'{{csrf_token}}',
+                    csfrmiddlewaretoken:'{{csrf_token}}'
                 },
                 body:JSON.stringify({saudacao:'Olá!'})
             })
