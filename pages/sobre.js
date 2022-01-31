@@ -32,7 +32,7 @@ function Sobre (){
                    
                 },
                 data:{ csfrmiddlewaretoken:'{{csrf_token}}'},
-                body:JSON.stringify({saudacao:'Olá!'})
+                body:JSON.stringify({nome,email,descricao})
             })
             const json =await response.json()
             console.log(json)
