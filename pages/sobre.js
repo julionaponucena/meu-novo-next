@@ -28,11 +28,11 @@ function Sobre (){
                 headers:{
                     Accept:'application/json',
                     'Content-type': 'application/json',
-                
+                    'X-CSRFToken':'{{csrf_token}}'
                 },
                 
             })
-            const json = response.json()
+            const json =await response.json()
             console.log(json)
             setSucess(true)
         }catch(err){
