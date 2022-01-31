@@ -29,8 +29,9 @@ function Sobre (){
                     Accept:'application/json',
                     'Content-type': 'application/json',
                     'X-CSRFToken':'{{csrf_token}}',
-                    csfrmiddlewaretoken:'{{csrf_token}}'
+                   
                 },
+                data:{ csfrmiddlewaretoken:'{{csrf_token}}'},
                 body:JSON.stringify({saudacao:'Olá!'})
             })
             const json =await response.json()
