@@ -23,14 +23,14 @@ function Sobre (){
     async function sendEmail (evt){
         evt.preventDefault()
         try{
-            const response = await fetch('https://meu-django.herokuapp.com/email/token',{
+            const response = await fetch('https://meu-django.herokuapp.com/email/enviar',{
                 method:'POST',
                 headers:{
                     Accept:'application/json',
                     'Content-type': 'application/json',
                     'X-CSRFToken':'{{csrf_token}}'
                 },
-                
+                body:JSON.stringify({saudacao:'Olá!'})
             })
             const json =await response.json()
             console.log(json)
