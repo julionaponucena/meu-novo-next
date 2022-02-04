@@ -25,7 +25,7 @@ function Sobre (){
         evt.preventDefault()
         
         try{
-            fetch('http://127.0.0.1:8000/email/enviar',{
+            fetch('https://meu-django.herokuapp.com/email/enviar',{
                 method:'POST',
                 headers:{
                     Accept:'application/json',
