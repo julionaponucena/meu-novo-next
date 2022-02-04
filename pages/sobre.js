@@ -11,6 +11,7 @@ function Sobre (){
     const [email,setEmail] = useState('')
     const [descricao,setDescricao] = useState('')
     const [sucess,setSucess] = useState(false)
+    
     function onChangeNome (evt){
         setNome(evt.target.value)   
     }
@@ -20,23 +21,24 @@ function Sobre (){
     function onChangeDescricao (evt) {
         setDescricao(evt.target.value)
     }
-    async function sendEmail (evt){
+     function sendEmail (evt){
         evt.preventDefault()
+        
         try{
-            const response = await fetch('https://meu-django.herokuapp.com/email/enviar',{
+            fetch('http://127.0.0.1:8000/email/enviar',{
                 method:'POST',
                 headers:{
                     Accept:'application/json',
                     'Content-type': 'application/json',
-                    'X-CSRFToken':'{{csrf_token}}',
+                    
                    
                 },
-                data:{ csfrmiddlewaretoken:'{{csrf_token}}'},
                 body:JSON.stringify({nome,email,descricao})
-            })
-            const json =await response.json()
-            console.log(json)
-            setSucess(true)
+             
+            }).then(()=>setSucess(true))
+            
+            
+            
         }catch(err){
             console.log(err)
         }
@@ -71,7 +73,8 @@ function Sobre (){
 
 
             </main>
-
+            {sucess && <h2>Obrigado. sua mensagem foi encaminhada com sucesso!</h2>}
+            { !sucess &&
             <form onSubmit={sendEmail} className={style.form}>
                 <div>
                     <label className={style.label}> Digite seu nome:</label>
@@ -87,7 +90,7 @@ function Sobre (){
                 </div>
                 <button type="submit">Enviar</button>
             </form> 
-            
+}
             <Footer/>
         </>
     )
