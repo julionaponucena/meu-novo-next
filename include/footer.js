@@ -1,12 +1,59 @@
 import style from '../styles/modulos/footer.module.css'
 import Image from 'next/image'
+import { useForm } from 'react-hook-form'
+import { useState } from 'react'
 function Footer (){
+  const {register,handleSubmit,formState:errors} = useForm()
+  const [sucess,setSucess] = useState(false)
+  function enviarMensagem(dados) {
+    fetch('http://localhost:8000/email/enviar',{
+                method:'POST',
+                headers:{
+                    Accept:'application/json',
+                    'Content-type': 'application/json',
+                    
+                   
+                },
+                body:JSON.stringify({
+                  nome:dados.nome,
+                  email:dados.email,
+                  descricao:dados.descricao
+                })
+             
+            }).then(()=>setSucess(true))
+            .catch(err=>console.log(err))
+
+            
+  }
     return(
       
         <><footer className={style.footer}>
           <div className={style.footerContainer}>
             <div className={style.containerItem}>
               <p className={style.nomeSite}>Site Restauramente</p><Image src="/logo-mente.png" width={30} height={30}/>
+              {sucess && 
+              <h2>Obrigado Sua mensagem foi encaminhada com sucesso!</h2>
+              }
+              {!sucess &&
+              <>
+              <h2 className={style.formTitulo}>Digite aqui o seu comentário:</h2>
+              <form onSubmit={handleSubmit(enviarMensagem)}  className={style.form}>
+                <div>
+                    <label className={style.label}> Digite seu nome:</label>
+                    <input name="nome" {...register('nome')} className={style.inputs}/>
+                </div>
+                <div>
+                    <label className={style.label}>Digite seu e-mail:</label>
+                    <input name="email" {...register('email')} className={style.inputs} type="email"/>
+                </div>
+                <div>
+                    <label className={style.label} >Digite seu comentário:</label>
+                    <textarea name="descricao" {...register('descricao')}  className={style.descricao}/>
+                </div>
+                <button type="submit">Enviar</button>
+            </form>
+            </> 
+              }
             </div>
             <div className={style.descricaoAutor}>
               <Image src="/terapia-online4.jpg" width={660} height={240} quality={100} layout='responsive'/>
