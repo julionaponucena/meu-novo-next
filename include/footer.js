@@ -30,7 +30,7 @@ function Footer (){
         <><footer className={style.footer}>
           <div className={style.footerContainer}>
             <div className={style.containerItem}>
-              <p className={style.nomeSite}>Site Restauramente</p><Image src="/logo-mente.png" width={30} height={30}/>
+             
               {sucess && 
               <h2>Obrigado Sua mensagem foi encaminhada com sucesso!</h2>
               }
@@ -50,10 +50,11 @@ function Footer (){
                     <label className={style.label} >Digite seu comentário:</label>
                     <textarea name="descricao" {...register('descricao')}  className={style.descricao}/>
                 </div>
-                <button type="submit">Enviar</button>
+                <button className={style.botao} type="submit">Enviar</button>
             </form>
             </> 
               }
+              <p className={style.nomeSite}>Site Restauramente</p><Image src="/logo-mente.png" width={30} height={30}/>
             </div>
             <div className={style.descricaoAutor}>
               <Image src="/terapia-online4.jpg" width={660} height={240} quality={100} layout='responsive'/>
