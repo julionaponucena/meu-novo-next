@@ -6,7 +6,7 @@ function Footer (){
   const {register,handleSubmit,formState:errors} = useForm()
   const [sucess,setSucess] = useState(false)
   function enviarMensagem(dados) {
-    fetch('https://meu-django.herokuapp.com/email/enviar',{
+    fetch('http://localhost:8000/email/enviar',{
                 method:'POST',
                 headers:{
                     Accept:'application/json',
