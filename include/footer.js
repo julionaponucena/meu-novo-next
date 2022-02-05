@@ -36,7 +36,7 @@ function Footer (){
               }
               {!sucess &&
               <>
-              <h2 className={style.formTitulo}>Digite aqui o seu comentário:</h2>
+              <h2 className={style.formTitulo}>Digite aqui o seu comentário e as suas dúvidas:</h2>
               <form onSubmit={handleSubmit(enviarMensagem)}  className={style.form}>
                 <div>
                     <label className={style.label}> Digite seu nome:</label>
