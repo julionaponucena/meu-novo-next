@@ -279,6 +279,12 @@ const Artigo = [{
     titulo:'POR QUE FAZER TERAPIA COM PSICANÁLISE?',
     link:'psicanalise-49',
     alt:'pessoa tendo terapia com um psicanalista'
+},
+{
+    img:'maos-dadas2.jpg',
+    titulo:'TERAPIA DE CASAL PARA A CONSTRUÇÃO DA HARMONIA CONJUGAL',
+    link:'psicanalise-50',
+    alt:'duas pessoas de mãos dadas'
 }
 ]
 
