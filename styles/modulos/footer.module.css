@@ -68,6 +68,37 @@
     text-decoration: none;
     
   }
+  .inputs{
+    
+    border-radius: 10px;
+    background-color: #946609;
+    display: block;
+    margin:auto;
+    height: 30px;
+    width:200px ;
+}
+.descricao{
+    height: 100px;
+    background-color: #946609;
+    border-radius: 10px;
+    width:240px;
+    font-size: 15px;
+}
+.form{
+    margin:auto;
+    width:300px;
+    
+    padding: 20px 0;
+    border-radius: 20px;
+}
+.label{
+    display: block;
+    margin: auto;
+    width:250px;
+}
+.formTitulo{
+    font-size: 20px;
+}
 
 @keyframes apresentar {
     0%{opacity: 0;}
