@@ -75,6 +75,16 @@ const artigoFilosofia = [{
     titulo:'QUANDO O REMÉDIO CAUSA DOENÇAS',
     link:'filosofia-13',
     alt:'varias capsulas de remedios formando o mapa mundi'
+},
+{
+    img:'pensamento-ideia.jpg',
+    titulo:'PENSAMENTOS CÉLEBRES',
+    link:'filosofia-14'
+},
+{
+    img:'pessoa-feliz.jpg',
+    titulo:'CONCILIE SUAS BUSCAS EXISTENCIAIS COM A FELICIDADE',
+    link:'filosofia-15'
 }
 
 ]
