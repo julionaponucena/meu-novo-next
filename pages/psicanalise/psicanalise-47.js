@@ -9,7 +9,7 @@ function Psicanalise_47 (){
     return (
         <>
         <Head>
-            <title></title>
+            <title>Razões para Fazer Terapia, Segundo Jung</title>
             <meta name="keywords" content="razões para fazer terapia"/>
             <meta name="description" content="Jung faz a seguinte afirmação:“No processo analítico constata-se um desenvolvimento, um progresso em direção a uma certa meta ou fim cuja natureza enigmática me ocupou durante anos a fio.”"/>
         </Head>
