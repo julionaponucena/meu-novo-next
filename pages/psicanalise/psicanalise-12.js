@@ -9,7 +9,7 @@ function Psicanalise_12 (){
     return (
         <>
         <Head>
-            <title>PERDÃO E AUTOPERDÃO: SEUS BENEFÍCIOS PARA A SAÚDE FÍSICA E MENTAL</title>
+            <title>Perdão e Autoperdão: Seus Benefícios Para a Saúde Física e Mental</title>
             <meta name="keywords" content="perdao,autoperdao"/>
             <meta name="description" content="Embora a prática do perdão não seja um exercício fácil, ela é fundamental para aqueles que desejam preservar sua saúde física e mental. Sentimos dificuldade em perdoar porque normalmente quando uma pessoa nos magoa ou nos prejudica ela provoca dores emocionais que facilmente nos colocam em um ciclo de raiva e ressentimento, despertando em nós a reação instintiva de desejar devolver com a mesma moeda o mal que julgamos ter recebido. Para reforçar ainda mais a dificuldade do exercício do perdão, contamos com uma cultura que normalmente nos leva a encarar essa atitude como um gesto de fraqueza, como marca de alguém que de alguma forma está fugindo do confronto."/>
         </Head>
