@@ -16,7 +16,7 @@ function home (){
  return(<>  
             <Head>
                 <title>Restauramente</title>
-                <meta name="keywords" content="alma humana,autoconhecimento"/>
+                <meta name="keywords" content="Restauramente,alma humana,autoconhecimento"/>
                 <meta name="description" content="Aqui você encontrará conteúdos que tratam dos diversos aspectos da alma humana, como suas emoções, seus sentimentos, pensamentos e atitudes deles advindos, assuntos desenvolvidos com o objetivo de auxiliá-lo em sua busca por entender o ser humano na sua complexidade e inteireza."/>
             </Head>
             <Header/>
