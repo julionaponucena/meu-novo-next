@@ -285,6 +285,12 @@ const Artigo = [{
     titulo:'TERAPIA DE CASAL PARA A CONSTRUÇÃO DA HARMONIA CONJUGAL',
     link:'psicanalise-50',
     alt:'duas pessoas de mãos dadas'
+},
+{
+    img:'pessoa-triste.jpg',
+    titulo:'INFELICIDADE: ESCOLHA E GANHO SECUNDÁRIO',
+    link:'psicanalise-51',
+    alt:'pessoa encolhida chorando'
 }
 ]
 
