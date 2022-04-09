@@ -1,3 +1,4 @@
+import Head from "next/head"
 import Header from "../include/header";
 import Menu from "../include/menu";
 import Footer from "../include/footer";
@@ -8,7 +9,9 @@ import HeadConfig from "../include/head";
 function PsicanaliseMenu (){
     return(
         <>
-            <HeadConfig/>
+            <Head>
+                <title>Artigos sobre Psicanálise</title>
+            </Head>
             <Header/>
             <Menu/>
             <ContainerMenu titulo="Psicanálise">
