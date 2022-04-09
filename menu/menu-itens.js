@@ -291,6 +291,12 @@ const Artigo = [{
     titulo:'INFELICIDADE: ESCOLHA E GANHO SECUNDÁRIO',
     link:'psicanalise-51',
     alt:'pessoa encolhida chorando'
+},
+{
+    img:'pessoa-culpada.jpg',
+    titulo:'A BUSCA PELO PRAZER E A CULPA REPARADORA',
+    link:'psicanalise-52',
+    alt:'pessoa com o sentimento de culpa'
 }
 ]
 
