@@ -2,6 +2,8 @@ import UseTempo from "../hooks/usetempo";
 import imagensItens from "./janela-itens";
 import Image from "next/image";
 import style from "../styles/modulos/slide.module.css"
+import {FaAngleLeft,FaAngleRight} from "react-icons/fa"
+
 function JanelaSlide (){
     
     const [tempo,setTempo] = UseTempo(0,3000,imagensItens.length-1)
@@ -27,11 +29,11 @@ function JanelaSlide (){
     
     return(
         <div className={style.containerSlide}>
-            <button className={style.botao} onClick={voltar}>{'<'}</button>
+            <FaAngleLeft className={style.botao} onClick={voltar}/>
             <div className={style.containerFoto}>
-                <Image src={`/slide/${imagensItens[tempo].nome}`} width={300} height={225}alt={imagensItens[tempo].alt} objectFit="cover" className={style.foto}/>   
+                <Image src={`/slide/${imagensItens[tempo].nome}`} width={300} height={225}alt={imagensItens[tempo].alt} objectFit="cover" layout="responsive" className={style.foto} loading={tempo == 0 ? "eager" : "lazy"}/>   
             </div>
-            <button className={style.botao} onClick={avancar}>{'>'}</button>
+            <FaAngleRight className={style.botao} onClick={avancar}/>
         </div>
     )
 }
