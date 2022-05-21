@@ -31,7 +31,7 @@ function JanelaSlide (){
         <div className={style.containerSlide}>
             <FaAngleLeft className={style.botao} onClick={voltar}/>
             <div className={style.containerFoto}>
-                <Image src={`/slide/${imagensItens[tempo].nome}`} width={300} height={225}alt={imagensItens[tempo].alt} objectFit="cover" layout="responsive" className={style.foto} loading={tempo == 0 ? "eager" : "lazy"}/>   
+                <Image src={`/slide/${imagensItens[tempo].nome}`} width={300} height={225}alt={imagensItens[tempo].alt} objectFit="cover" layout="responsive" className={style.foto} loading="eager"/>   
             </div>
             <FaAngleRight className={style.botao} onClick={avancar}/>
         </div>
