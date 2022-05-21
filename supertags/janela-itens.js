@@ -109,9 +109,26 @@ const imagensItens = [{
 {
     nome:'galera-abracando.jpg',
     alt:'pessoas se abraçando'
-},{
+},
+{
     nome:'galera-circulo2.jpg',
     alt:'bate-papo em roda'
+},
+{
+    nome:'palestra5.jpeg',
+    alt:'pessoas assistindo uma palestra do professor aparecido'
+},
+{
+    nome:'palestra6.jpeg',
+    alt:'pessoas assistindo uma palestra do professor aparecido'
+},
+{
+    nome:'palestra7.jpeg',
+    alt:'pessoas assistindo uma palestra do professor aparecido'
+},
+{
+    nome:'palestra9.jpeg',
+    alt:'Pessoas assistindo uma paletra do professor aparecido'
 }
 ]
 
