@@ -59,11 +59,7 @@ function Footer (){
             <div className={style.descricaoAutor}>
               <Image src="/terapia-online4.jpg" width={660} height={240} quality={100} layout='responsive'/>
             </div>
-            <div className={style.redesFooter}>
-              <h3>Siga-nos nas redes sociais</h3>
-              <a href="https://www.instagram.com/psicanalistaaparecidoalcantara/" target="_blank" rel="norrefer">Instagram</a>
-              <a href="https://www.facebook.com/isaltosp" target="_blank" rel="norrefer">Facebook</a>
-            </div>
+           
            
           </div>
 
