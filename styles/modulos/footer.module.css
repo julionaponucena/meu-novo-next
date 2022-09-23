@@ -71,7 +71,8 @@
   .inputs{
     
     border-radius: 10px;
-    background-color: #946609;
+    background-color: #ebeff5;
+    color:black;
     display: block;
     margin:auto;
     height: 30px;
@@ -79,7 +80,8 @@
 }
 .descricao{
     height: 100px;
-    background-color: #946609;
+    background-color: #ebeff5;
+    color:black;
     border-radius: 10px;
     width:240px;
     font-size: 15px;
@@ -87,27 +89,32 @@
 .form{
     margin:auto;
     width:300px;
-    background-color: rgb(40, 40, 250);
+    background-color: /*rgb(40, 40, 250)*/coral;
     padding: 20px 0;
     border-radius: 20px;
     margin:10px 0;
+    position:relative;
 }
 .label{
     display: block;
     margin: auto;
     width:250px;
+    color:black;
 }
 .formTitulo{
     font-size: 20px;
     width: 300px;
 }
 .botao{
-    background-color: rgb(83, 83, 126);
-    color: white;
+    background-color: /*rgb(83, 83, 126)*/#ebeff5;
+    color: black;
     border-radius: 10px;
     cursor: pointer;
     margin: 10px;
     font-size: 20px;
+    position:absolute;
+    bottom:0;
+    right:20px;
 }
 
 @keyframes apresentar {
