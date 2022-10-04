@@ -1,0 +1,11 @@
+{
+    "name":"Restauramente",
+    "short_name":"Restaura",
+    "description":"Acompanhe todos os artigos do site Restauramente",
+    "theme_color":"#ebeff5",
+    "background_color":"#1E90FF",
+    "display":"standalone",
+    "lang":"pt-BR",
+    "scope":"/",
+    "start_url":"/"
+}
