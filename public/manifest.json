@@ -6,16 +6,53 @@
     "background_color":"#1E90FF",
     "display":"standalone",
     "lang":"pt-BR",
-    "orientation":"landscape-secondary",
+    "orientation":"landscape",
+    "categories":["education","lifestyle"],
     "scope":"/",
     "start_url":"/",
     "icons":[
         {
             "src":"/icons/android-chrome-192x192.png",
-            "sizes":"192x192","type":"image/png"
+            "sizes":"192x192","type":"image/png",
+            "purpose":"any"
         },
         {
-            "src":"/icons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"
+            "src":"/icons/android-chrome-512x512.png","sizes":"512x512","type":"image/png",
+            "purpose":"any"
+        }
+    ],
+    "shortcuts":[
+        {
+            "src":"/icons/android-chrome-192x192.png",
+            "sizes":"192x192","type":"image/png",
+            "purpose":"any"
+        },
+        {
+            "src":"/icons/android-chrome-512x512.png","sizes":"512x512","type":"image/png",
+            "purpose":"any"
+        }
+    ],
+    "screenshots":[
+        {
+            "src":"/screenshots/home-screen.webp",
+            "sizes":"520x1200",
+            "type":"image/webp",
+            "plataform":"wide",
+            "label":"Tela Principal"
+        },
+        {
+            "src":"/screenshots/home-screen2.webp",
+            "sizes":"520x1200",
+            "type":"image/webp",
+            "plataform":"wide",
+            "label":"Artigos do app"
+        },
+        {
+            "src":"/screenshots/curso-screen.webp",
+            "sizes":"520x1200",
+            "type":"image/webp",
+            "plataform":"wide",
+            "label":"Posts de Cursos"
         }
     ]
 }
