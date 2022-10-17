@@ -3,7 +3,7 @@ import Document, { Html,Head,Main,NextScript } from "next/document";
 class MyDocument extends Document{
     render(){
         return(
-            <Html Lang="pt-br">
+            <Html lang="pt-br">
                 <Head>
                     <meta
                     name='viewport'
