@@ -6,7 +6,7 @@
     "background_color":"#1E90FF",
     "display":"standalone",
     "lang":"pt-BR",
-    "orientation":"landscape",
+    "orientation":"landscape-secondary",
     "scope":"/",
     "start_url":"/",
     "icons":[
