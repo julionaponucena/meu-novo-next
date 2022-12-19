@@ -10,6 +10,7 @@ function Psicanalise53(){
     return (
         <>
             <Head>
+                <title>Quanto Custa uma Sessão de Terapia?</title>
                 <meta type="keywords" content="importancia da terapia"/>
                 <meta type="description" content="embora as sessões de terapia possam nos trazer alguns custos... é confortável para afirmar que a relação custo benefício tende a ser muito lucrativa.."/>
             </Head>
