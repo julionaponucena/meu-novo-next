@@ -6,10 +6,12 @@ import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
 
 function Psicanalise53(){
+
     return (
         <>
             <Head>
-
+                <meta type="keywords" content="importancia da terapia"/>
+                <meta type="description" content="embora as sessões de terapia possam nos trazer alguns custos... é confortável para afirmar que a relação custo benefício tende a ser muito lucrativa.."/>
             </Head>
             <Header/>
             <Menu/>

@@ -297,6 +297,11 @@ const Artigo = [{
     titulo:'A BUSCA PELO PRAZER E A CULPA REPARADORA',
     link:'psicanalise-52',
     alt:'pessoa com o sentimento de culpa'
+},
+{
+    img: 'terapeuta.jpg',
+    titulo:'QUANTO CUSTA UMA SESSÃO DE TERAPIA?',
+    link:'psicanalise-53'
 }
 ]
 
