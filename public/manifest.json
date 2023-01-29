@@ -7,7 +7,7 @@
     "display":"standalone",
     "lang":"pt-BR",
     "dir":"ltr",
-    "orientation":"portrait-secondary",
+    "orientation":"Any",
     "categories":["education","lifestyle"],
     "scope":"/",
     "start_url":"/",
