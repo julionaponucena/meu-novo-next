@@ -301,7 +301,14 @@ const Artigo = [{
 {
     img: 'terapeuta.jpg',
     titulo:'QUANTO CUSTA UMA SESSÃO DE TERAPIA?',
-    link:'psicanalise-53'
+    link:'psicanalise-53',
+    alt:'paciente e terapeuta em uma consulta'
+},
+{
+    img:'brain-mind.jpg',
+    titulo:'JANEIRO BRANCO: OPORTUNIDADE PARA CUIDAR MELHOR DA SAÚDE MENTAL',
+    link:'psicanalise-54',
+    alt:'protesto a favor da saúde mental'
 }
 ]
 
