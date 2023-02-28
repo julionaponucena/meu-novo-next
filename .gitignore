@@ -36,3 +36,4 @@ yarn-error.log*
 sitemap.xml
 workbox*.js
 sw.js
+.env
