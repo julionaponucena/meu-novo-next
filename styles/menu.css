@@ -17,12 +17,12 @@
 .menu a {
   text-decoration: none;
   color: white;
-  font-size: 25px;
+  font-size: 20px;
   list-style: none;
   font-family: monospace,serif;
 } 
 .menu ul li {
-  font-size:25px;
+  
   color:white;
   font-weight: bold;
 }
@@ -64,6 +64,10 @@
     justify-content: space-around;
   }
 
+  .menu ul li ul li {
+    border: white 10px 0 10px 0 solid;
+  }
+
   /*.menu-itens > ul > li {
     display:inline-block;
     vertical-align: top;
@@ -86,9 +90,7 @@
   .menu ul ul li {
     border-bottom: solid 1px white; 
   }
-  .menu a {
-    font-size: 20px;
-  }
+
   .big-menu:hover > a{
     animation-name:mudar-cor;
     animation-duration:1s;
@@ -181,6 +183,7 @@
   }
   .menu ul ul li {
     text-align: center;
+    border-bottom: solid 1px white;
   }
   .hide{
   
