@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_04 () {
     return (
@@ -13,6 +14,7 @@ function Curso_04 () {
            <meta name="keywords" content="formação de docentes" />
            <meta name="description" content="Para aprofundar a consciência e a vivencia de um valor, é necessário perceber a conexão entre o que está acontecendo no presente e o que queremos aprender. Também é importante compreender os sentimentos e as emoções que vêm à tona quando nos colocamos em relação com os outros e conosco mesmos."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

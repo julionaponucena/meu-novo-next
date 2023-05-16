@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_12 (){
     return (
@@ -13,6 +14,7 @@ function Filosofia_12 (){
             <meta name="keywords" content="conheça a si mesmo"/>
             <meta name="description" content="...O mais difícil é justamente conhecer a si mesmo; para isto é indispensável muita sinceridade, pois temos tendências a só procurar nossas qualidades e estarmos convencidos de que os outros é que erram..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

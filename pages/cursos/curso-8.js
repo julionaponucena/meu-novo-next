@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_08 (){
     return (
@@ -14,6 +15,7 @@ function Curso_08 (){
             <meta name="description" content="Os temas e problemas trabalhados no decorrer da História da Filosofia sempre estiveram vinculados aos temas e problemas do cotidiano de cada época. Seus instrumentos de leitura de textos e contextos foram utilizados como forma de lidar com as questões suscitadas no decorrer da História. Diante das questões de nosso tempo, pode a filosofia nos oferecer instrumentos para lidar com nossas inquietações?"/>
         </Head>
         <Header/>
+        <ScriptAnalytics/>
         <Menu/>
         <Principal>
             <Titulo>Autoconhecimento através da História da Filosofia</Titulo>

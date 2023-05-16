@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Psicanalise_03 (){
     return(
@@ -13,6 +14,7 @@ function Psicanalise_03 (){
             <meta name="keywords" content="bem estar coletivo"/>
             <meta name="description" content="Embora cada um de nós tenha maiores condições de encontrar a realização na medida em que assume o protagonismo da própria vida, é importante que entendamos que não somos mais que um membro de uma comunidade maior, condição a ser considerado por aquele que deseja encontrar sua realização e, ao mesmo tempo, manter sua integridade psíquica e social. Ao invés de se ver como protagonista da própria vida, algumas pessoas se posicionam como protagonistas do mundo, o que as leva a agir em suas relações interpessoais como se todos estivessem a serviço das suas necessidades, adotando a máxima de que ele veio ao mundo para ser servido."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

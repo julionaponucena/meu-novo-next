@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_09 (){
     return (
@@ -14,6 +15,7 @@ function Curso_09 (){
             <meta name="description" content="O curso Entendendo a educação à luz da Filosofia Clínica  apresentará o instrumental da Filosofia Clínica como uma forma de leitura das questões educacionais, tendo em vista a construção de metodologias e materiais adequados às necessidades de cada contexto."/>
         </Head>
         <Header/>
+        <ScriptAnalytics/>
         <Menu/>
         <Principal>
             <Titulo>Entendendo a educação à luz da Filosofia Clínica</Titulo>

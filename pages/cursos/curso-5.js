@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_05 (){
     return (
@@ -13,6 +14,7 @@ function Curso_05 (){
             <meta name="keywords" content="relacionamento interpessoal no ambiente de trabalho"/>
             <meta name="description" content="O caminho mais rápido na construção da imagem positiva da instituição, desde o início das suas atividades, é o trabalho de relações humanas, o qual deve primar pela busca da alta qualidade, junto ao seu público interno, sendo esta a meta do presente projeto."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

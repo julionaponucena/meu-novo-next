@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_07 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_07 (){
             <meta name="keywords" content="autovalor"/>
             <meta name="description" content="Tanto em nossos relacionamentos interpessoais quanto nos intrapessoais pode ocorrer de desenvolvermos uma crença de desvalor a nosso respeito. Essa crença tende a nos diminuir de tal forma que as atitudes que tomamos são encaminhadas para reforçá-la, transformando-nos em pessoas irrealizadas e consequentemente, infeliz. Isso ocorre porque temos uma tendência a desenvolver relacionamentos verticais com as outras pessoas, comparando-nos a elas, de forma que em alguns casos as colocamos acima de nós e em outros abaixo, criando assim um círculo inconsciente de competição, de forma que a luta que travamos em vida não está necessariamente a serviço do nosso próprio crescimento pessoal, mas para atender a necessidade de superar as outras pessoas. Junto a esse sentimento forma-se um outro atrelado à necessidade de reconhecimento externo, o que nos torna dependente da aprovação das outras pessoas."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

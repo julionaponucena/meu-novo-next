@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_15 (){
     return (
@@ -13,6 +14,7 @@ function Filosofia_15 (){
             <meta name="keywords"content="como ser feliz na vida"/>
             <meta name="description" content="Ao contrário, observamos que em muitas ocasiões  o resultado das nossas ações nos faz infelizes e insatisfeitos, produzindo em nós sofrimento e dissabor. A questão é: por quê, apesar de atuarmos visando a felicidade nem sempre a conquistamos?"/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

@@ -5,6 +5,7 @@ import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
 import Image from "next/image";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_04 (){
     return (
@@ -14,6 +15,7 @@ function Filosofia_04 (){
             <meta name="keywords" content="corpo e mente"/>
             <meta name="description" content="...Em sua origem a palavra individual tem o sentido de indivisível, o que significa dizer que ao olharmos para qualquer  pessoa devemos buscar enxergá-la em sua integralidade, não efetuando a costumeira separação entre mente e corpo, ou ainda separando a mente consciente da mente inconsciente..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

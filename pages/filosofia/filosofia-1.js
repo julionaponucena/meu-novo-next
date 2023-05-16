@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head"
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_01 (){
     return (
@@ -14,6 +15,7 @@ function Filosofia_01 (){
                 <meta name="keywords" content="como superar a timidez"/>
                 <meta name="description" content="...A superação da timidez certamente auxilia na formação de  uma imagem mais positiva acerca de si mesmo, sendo essencial para o desenvolvimento de uma autoestima saudável..."/>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <Principal>

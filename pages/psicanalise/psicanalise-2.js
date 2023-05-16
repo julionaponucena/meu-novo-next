@@ -4,6 +4,7 @@ import Menu from "../../include/menu.js"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal.js"
 import Titulo from "../../supertags/titulo.js"
+import ScriptAnalytics from "../../scripts/script-analytics.js"
 
 function Psicanalise_02 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_02 (){
                 <meta name="keywords" content="autosuperacao"/>
                 <meta name="description" content="Um famoso filósofo francês de nome Jean Paul Sartre defendia que “não importa o que a vida fez com a pessoa, mas sim o que ela faz com aquilo que fizeram dela.” Com isso ele desejava anunciar que em nossa trajetória existencial somos expostos a diversos acontecimentos, os quais de uma forma ou de outra afetam nossa vida e a forma de nos posicionarmos diante dela. Ele afirma que apesar disso, a decisão sobre o que fazer com o resultado desses acontecimentos no fim será sempre do indivíduo. Em outras palavras podemos afirmar que os eventos que experimentamos em nossas vidas não passam sem deixar suas marcas em nós, marcas estas que se tornam ferramentas que tanto podem ser utilizadas por nós para nos destruir, quanto para nos fortalecer e nos impulsionar a uma reconstrução de nós mesmos."/>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <Principal>

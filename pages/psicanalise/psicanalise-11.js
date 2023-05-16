@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanlise_11 (){
     return (
@@ -13,6 +14,7 @@ function Psicanlise_11 (){
             <meta name="keywords" content="dor da perda"/>
             <meta name="description" content="Lidar com a perda de alguém é sempre muito difícil, representa momentos de muita dor e sofrimento.  Quando sofremos perdas significativas ficamos propensos ao desenvolvimento de várias manifestações emocionais como raiva, ansiedade, culpa, além de nos enchermos de dúvidas em relação ao futuro, visto que o abalo em função de uma perda importante é capaz de nos fazer sentir como se o nosso próprio chão nos fosse tirado. O resultado imediato desse turbilhão de emoções que acomete o enlutado normalmente é que ele se afaste das pessoas do seu convívio, se fechando em torno de si mesmo e dos seus pensamentos, deixando inclusive de gostar das atividades que antes eram prazerosas, sobretudo se elas eram realizadas na companhia da pessoa que não pode mais se fazer presente."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

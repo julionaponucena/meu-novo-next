@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_08 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_08 (){
             <meta name="keywords" content="me sinto incapaz"/>
             <meta name="description" content="Na afirmação de Alfred Adler “não somos determinados por nossas experiências, mas o sentido que damos a elas é autodeterminante.” Com isso esse importante psicólogo contemporâneo de Freud pretende nos alertar para o risco da armadilha conceitual que tendemos a criar para nós mesmos no sentido de atribuir à nossa vida pregressa as razões pelas quais  vivemos da forma como nos encontramos atualmente. Se levarmos o que é proposto por essa armadilha conceitual a sério, nos condenamos a uma visão determinista, passando a considerar que já estamos prontos e que não nos resta outra saída a não ser conviver com o que me resultou da nossa história. Em outras palavras, passamos a viver como se não houvesse nada a fazer para mudar o nosso destino, mesmo que a vida que levamos não nos agrade e nos provoca sofrimento."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

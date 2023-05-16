@@ -4,6 +4,7 @@ import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
 import Principal from "../../supertags/principal";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_2 (){
     return(
@@ -13,6 +14,7 @@ function Filosofia_2 (){
                 <meta name="keywords" content="como melhorar a raiva"/>
                 <meta name="description" content="...Para entrarmos nesse assunto é importante salientar que as emoções possuem um papel importante para a manutenção da nossa  saúde mental e para a preservação da  nossa própria vida..."/>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <Principal>

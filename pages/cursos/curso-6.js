@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_06 () {
     return (
@@ -14,6 +15,7 @@ function Curso_06 () {
             <meta name="description" content="Objetivo: Oferecer subsídios para a reflexão acerca do papel da educação na visão de Aristóteles, aplicada à atualidade, como forma de construir o indivíduo virtuoso, condição necessária para o exercício de uma existência plena. Espera-se que a partir do tema desenvolvido os gestores passem a compreender (ou reforcem sua compreensão) que a função por excelência da escola está no aspecto pedagógico."/>
         </Head>
         <Header/>
+        <ScriptAnalytics/>
         <Menu/>
         <Principal>
             <Titulo>A EVOLUÇÃO NA GESTÃO DE PESSOAS</Titulo>
