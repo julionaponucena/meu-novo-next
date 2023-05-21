@@ -10,7 +10,7 @@ function ScriptAnalytics(){
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
 
-                gtag('config', 'G-P28978P59N');`
+                gtag('config', 'G-P28978P59N', { 'cookieFlags': 'SameSite=None; Secure' });`
                 }
             </Script>
         </>
