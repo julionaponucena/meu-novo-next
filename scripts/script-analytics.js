@@ -3,14 +3,14 @@ import Script from "next/script";
 function ScriptAnalytics(){
     return (
         <>
-         <Script src="https://www.googletagmanager.com/gtag/js?id=G-P28978P59N"/>
+         <Script src={`https://www.googletagmanager.com/gtag/js?${process.env.GA_MEASUREMENT_ID}`}/>
             <Script id='google-analytics'>
                 {
                 `window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
 
-                gtag('config', 'G-P28978P59N', { 'cookieFlags': 'SameSite=None; Secure' });`
+                gtag('config', ${process.env.GA_MEASUREMENT_ID}, { cookie_flags: 'SameSite=None; Secure' });`
                 }
             </Script>
         </>
