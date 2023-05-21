@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_26 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_26 (){
             <meta name="keywords" content="ressignificar a vida"/>
             <meta name="description" content="...Se ao contrário disso, passarmos  a visualizar a humanidade e todos os seus componentes em um plano horizontal, compreenderemos que todos estamos caminhando em um mesmo plano, o que nos credencia a promover uma visão diferente e sem hierarquias entre nós humanos."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

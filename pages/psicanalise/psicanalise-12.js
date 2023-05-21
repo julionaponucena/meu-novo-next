@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_12 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_12 (){
             <meta name="keywords" content="perdao,autoperdao"/>
             <meta name="description" content="Embora a prática do perdão não seja um exercício fácil, ela é fundamental para aqueles que desejam preservar sua saúde física e mental. Sentimos dificuldade em perdoar porque normalmente quando uma pessoa nos magoa ou nos prejudica ela provoca dores emocionais que facilmente nos colocam em um ciclo de raiva e ressentimento, despertando em nós a reação instintiva de desejar devolver com a mesma moeda o mal que julgamos ter recebido. Para reforçar ainda mais a dificuldade do exercício do perdão, contamos com uma cultura que normalmente nos leva a encarar essa atitude como um gesto de fraqueza, como marca de alguém que de alguma forma está fugindo do confronto."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

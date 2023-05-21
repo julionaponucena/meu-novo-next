@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_43 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_43 (){
             <meta name="keywords" content="dor existencial"/>
             <meta name="description" content="No dia-a-dia do consultório muitos sintomas psíquicos são frequentes e parecidos. Porém, para quem está com um sintoma...desenvolve dificuldades que comprometem a atuação  em muitas áreas da  vida do indivíduo, como na área profissional, de relacionamentos, área espiritual, etc.."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

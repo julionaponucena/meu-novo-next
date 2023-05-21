@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function psicanalise_52(){
     return(
@@ -13,6 +14,7 @@ function psicanalise_52(){
             <meta name="keywords" content="arrependimento sentimento de culpa"/>
             <meta name="description" content="...Na abordagem da psicanálise esse instrumento de controle e autocensura da qual muitos buscam escapar é chamado de SUPEREGO, enquanto que o mecanismo psíquico que  impulsiona as pessoas à busca pelo prazer e pela satisfação imediata dos seus instintos recebe o nome de ID..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

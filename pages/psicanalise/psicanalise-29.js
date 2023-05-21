@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_29 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_29 (){
             <meta name="keywords" content="potencialidade"/>
             <meta name="description" content="...Olhando pelo aspecto da nossa formação psíquica, podemos afirmar que o indivíduo, quando chega nesse mundo, dado à sua situação de total dependência, situa-se como ser totalmente impotente. Ao mesmo tempo, ele possui o desejo universal de escapar desse estado de impotência, lançando-se em  busca por aquilo que Alfred Adler chama de “busca de superioridade”, ou seja, a busca por um estado ideal."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

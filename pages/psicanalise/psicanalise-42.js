@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_42 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_42 (){
             <meta name="keywords" content="assuma o controle da sua vida"/>
             <meta name="description" content="...Podemos mudar tranquilamente para uma mudança nas condições de vida. Por exemplo, um paciente procura a terapia porque não sabe o que quer fazer em sua profissão..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Principal>
             <Titulo>PSICANÁLISE PARA MUDANÇA NA &ldquo;PREDESTINAÇÃO&rdquo;</Titulo>

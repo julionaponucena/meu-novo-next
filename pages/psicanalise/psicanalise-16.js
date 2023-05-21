@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_16 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_16 (){
             <title>PRATIQUE EDUCAÇÃO COM BASE NO ENCORAJAMENTO</title>
             <meta name="description" content="Infelizmente constatamos que muitos pais e educadores ainda estão presos em um modelo educativo no qual o apontamento dos erros e a aplicação de castigos  é visto como a maneira mais eficiente. Ledo engano, uma vez que normalmente a educação que privilegia o castigo peca por não possibilitar aos seus executores a clareza necessária que lhes possibilitará fazer a separação entre uma intervenção castradora e aquela que promove o encorajamento."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

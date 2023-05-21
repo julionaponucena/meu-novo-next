@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_13 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_13 (){
            <meta name="keywords" content="mecanismo de defesa"/>
            <meta name="description" content="A psicanálise defende que todos nós desenvolvemos mecanismos de defesa em nosso inconsciente e o utilizamos diante da necessidade de nos proteger de alguma situação que consideramos ameaçadora. Quando nos sentimos ameaçados a colocamos em ação e, mesmo que temporariamente, temos nossas tensões psíquicas internas reduzidas."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

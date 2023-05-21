@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_49 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_49 (){
             <meta name="keywords" content="psicanalise ou terapia"/>
             <meta name="description " content="...Se optar pelo tratamento com um psicanalista a pessoa poderá ser conduzida a investigar suas memórias e experiências desde a infância até o presente, percorrendo um caminho de investigação acerca daqueles elementos que o tornaram a pessoa que ela é hoje e que podem ter lhe  provocado alguns dos seguintes sintomas, dentre outros"/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

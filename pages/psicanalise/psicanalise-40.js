@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_40 () {
     return (
@@ -13,6 +14,7 @@ function Psicanalise_40 () {
             <meta name="keywords" content="liberte-se do passado"/>
             <meta name="description" content="Embora a psicanálise se ampare na história.... ela tem uma visão para o momento presente com uma perspectiva para aquilo que o indivíduo pretende construir para a sua trajetória presente e futura...."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

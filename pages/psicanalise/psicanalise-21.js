@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_21 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_21 (){
             <meta name="keywords" content="qual proposito da vida"/>
             <meta name="description" content="Um dos pressupostos básicos a ser considerado por aquelas pessoas que pretendem atribuir significado à sua vida é que elas devem se dedicar a identificar quais são suas tarefas de vida.... Infelizmente, com o decorrer da própria história muitos indivíduos acabam se perdendo em relação a essas tarefas, situação na qual eles acabam adotando medidas  evitativas, criando para si mesmo uma série de álibis que os levam a justificar a ausência de compromisso para com elas próprias."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

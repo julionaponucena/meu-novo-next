@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanaliise_45 (){
     return (
@@ -13,6 +14,7 @@ function Psicanaliise_45 (){
             <meta name="keywords" content="razões para fazer terapia"/>
             <meta name="description" content="...É neste sentido que Jung diz “libertar-se da psique infantil após um longo trabalho efetuado”, ou seja, conseguir seguir o desenvolvimento psíquico normal, que exige mais cedo ou mais tarde que rompamos a ligação simbiótica com os pais – e, mais frequentemente, com a mãe..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

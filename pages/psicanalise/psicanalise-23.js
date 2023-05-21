@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_23 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_23 (){
             <meta name="keywords" content="necessidade de controle"/>
             <meta name="description" content="...Uma medida eficaz que podemos adotar para lidar com a ansiedade é investir em ferramentas conscientes de gestão das tantas incertezas que permeiam o nosso cotidiano, marcado por planejamentos e metas definidas dentro de um espaço limítrofe de tempo e de ação."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

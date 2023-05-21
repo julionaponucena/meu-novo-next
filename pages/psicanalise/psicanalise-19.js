@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_19 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_19 (){
             <meta name="keywords" content="necessidade de aprovação psicanálise"/>
             <meta name="description" content="...O caminho para se libertar dessa necessidade passa pelo reconhecimento das próprias qualidades, independentemente de serem ou não percebidas pelos outros, ocasião em que a pessoa se assenhora de si a partir daquilo que ela pode lhe oferecer, bem como àqueles que a cercam. Assim ela começa a andar por caminhos mais seguros alcançando mais satisfação diante da vida, amparando-se em suas próprias conquistas. O ponto de partida normalmente passa pela tomada de consciência de si  e das buscas por aquilo que realmente contribuem para o engrandecimento e fortalecimento do indivíduo como um todo."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

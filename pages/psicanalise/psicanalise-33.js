@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_33 (){
    
@@ -15,6 +16,7 @@ function Psicanalise_33 (){
             <meta name="keywords" content="viver o presente"/>
             <meta name="description" content="É notório que na psicanálise é muito recorrente a questão dos traumas construídos ao longo da nossa história, de modo particular na infância. Isso não significa que precisamos ficar presos àquilo que aconteceu conosco no passado..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

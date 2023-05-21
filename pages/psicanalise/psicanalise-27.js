@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_27 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_27 (){
             <meta name="keywords" content="vida livre"/>
             <meta name="description" content="...embora cada um de nós desenvolva sua própria caminhada, estamos todos nos movendo no mesmo plano e que, uma vez chegado a esse estágio de consciência, abandonamos a ideia de superioridade ou inferioridade que formamos em nossas relações com as outras pessoas e que tanto mal nos causa."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_34 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_34 (){
             <meta name="keywords" content="inflexibilidade"/>
             <meta name="description" content="O estilo de vida não é imutável. O problema é que para mudá-lo, de forma que a vida possa ser mais feliz e realizada, exige um certo esforço que nem todos estão dispostos a fazer."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

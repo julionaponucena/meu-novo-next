@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_17 (){
     return(
@@ -13,6 +14,7 @@ function Psicanalise_17 (){
             <meta name="keywords" content="como lidar com pessoas arrogantes"/>
             <meta name="description" content="...é muito provável que qualquer julgamento expressa um sentimento  de superioridade cultivada por aquele que julga, na medida em que, ao elogiar, ele estará entrando mesmo que de forma inconsciente  em um relacionamento hierárquico, no qual ele se coloca acima de quem está sendo julgado."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

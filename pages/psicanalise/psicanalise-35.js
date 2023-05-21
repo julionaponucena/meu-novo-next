@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_35 () {
     return (
@@ -13,6 +14,7 @@ function Psicanalise_35 () {
             <meta name="keywords" content="como deixar de sofrer"/>
             <meta name="description" content="...Se pararmos para refletir um pouco que seja sobre a verdadeira felicidade e suas raízes, verificaremos que as pessoas que são de fato felizes, construíram essa condição percorrendo um longo caminho, durante o qual o principal investimento foi na consolidação do seu “eu,”  através de um trabalho de intensa construção e reconstrução interna..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

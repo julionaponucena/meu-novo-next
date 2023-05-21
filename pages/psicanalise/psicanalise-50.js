@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function psicanalise_50 (){
     return(
@@ -13,6 +14,7 @@ function psicanalise_50 (){
                 <meta name="description" content="...Em nossa prática percebemos que existe uma dificuldade muito grande por parte dos casais em admitir a existência de alguma  dificuldade em seu relacionamento, como se ao admiti-la eles estivessem admitindo o fracasso do próprio relacionamento."/>
                 <title>Terapia De Casal Para a Construção da Harmonia Conjugal</title>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <Principal>
