@@ -4,6 +4,7 @@ import Footer from '../include/footer'
 import Header from '../include/header'
 import Menu from '../include/menu'
 import JanelaSlide from '../supertags/janela'
+import ScriptAnalytics from '../scripts/script-analytics'
 
 
 import Link from 'next/dist/client/link'
@@ -19,6 +20,7 @@ function home (){
                 <meta name="keywords" content="Restauramente,alma humana,autoconhecimento"/>
                 <meta name="description" content="Aqui você encontrará conteúdos que tratam dos diversos aspectos da alma humana, como suas emoções, seus sentimentos, pensamentos e atitudes deles advindos, assuntos desenvolvidos com o objetivo de auxiliá-lo em sua busca por entender o ser humano na sua complexidade e inteireza."/>
             </Head>
+           <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <main className="principal">

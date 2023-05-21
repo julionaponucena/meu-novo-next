@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_06 (){
     return(
@@ -13,6 +14,7 @@ function Psicanalise_06 (){
             <meta name="keywords" content="ansiedade, excesso de futuro,excesso de passado"/>
             <meta name="description" content="Boa parte das pessoas costumam apresentar queixas de ansiedade, fator que acarreta prejuízos ao seu bem-estar físico e psíquico. Tais prejuízos existem porque a ansiedade conduz o indivíduo ao desenvolvimento de comportamentos disfuncionais por provocar um deslocamento do seu pensamento e energia para eventos futuros, ao invés de contribuir para que ele se fixe nas demandas do momento presente. Ao se deslocar para o futuro, ambiente em que não possui o menor controle, a pessoa experimenta uma sensação de impotência a qual pode conduzi-la ao desenvolvimento de extrema angústia e incertezas, provocando os sintomas que permeiam a ansiedade, como taquicardia, sudorese, respiração ofegante, tensão muscular, irritabilidade, entre outros."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_09 (){
  return(    <>
@@ -12,6 +13,7 @@ function Filosofia_09 (){
             <meta name="keywords" content="diferença entre ética e moral"/>
             <meta name="description" content="Moral:significa costumes ou regras que determinam a vida.Ética:É o processo feito pela pessoa de transformar em normas/regras práticas e valores surgidos no grupo e na cultura em que vive. "/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

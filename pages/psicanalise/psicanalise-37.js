@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_37 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_37 (){
             <meta name="keywords" content="como controlar a raiva"/>
             <meta name="description" content="Embora exista uma forma peculiar de manifestação que é própria de cada indivíduo, podemos afirmar que tal sentimento possui uma única raiz que é a incapacidade do indivíduo de lidar com suas próprias frustrações."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

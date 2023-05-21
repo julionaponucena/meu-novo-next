@@ -5,6 +5,7 @@ import Menu from "../include/menu"
 import Footer from "../include/footer"
 import artigoCursos from "../menu/curso-itens"
 import ContainerMenu from "../menu/container-menu";
+import ScriptAnalytics from "../scripts/script-analytics"
 
 function CursoMenu (){
     return(
@@ -12,6 +13,7 @@ function CursoMenu (){
             <Head>
                 <title>Cursos</title>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <ContainerMenu titulo="CURSOS">

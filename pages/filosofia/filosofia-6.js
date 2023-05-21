@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Principal from "../../supertags/principal";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_06 (){
     return(
@@ -13,6 +14,7 @@ function Filosofia_06 (){
             <meta name="keywords" content="superar as dificuldades"/>
             <meta name="description" content="...Podemos constatar o efeito da esperança na vida das pessoas que a cultivam pelas respostas  positivas e funcionais que elas são capazes de oferecer em momentos de exposição às mais variadas dificuldades enfrentadas por elas..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

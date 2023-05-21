@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_39 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_39 (){
             <meta name="keywords" content="traumas psíquicos"/>
             <meta name="description" content="..Se levarmos o que é proposto por essa armadilha conceitual a sério, nos condenamos a uma visão determinista, passando a considerar que já estamos prontos e que não nos resta outra saída a não ser conviver com o que me resultou da nossa história...."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

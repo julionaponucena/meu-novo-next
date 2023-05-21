@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_36 () {
     return (
@@ -13,6 +14,7 @@ function Psicanalise_36 () {
             <meta name="keywords" content="processo de mudança"/>
             <meta name="description" content="Embora entendamos  que aquilo que foi registrado em nossa estrutura psíquica na infância acompanha o indivíduo ao longo de toda a sua vida, entendemos também que essa estrutura é dotada de  plasticidade a qual permite  a realização dos devidos ajustes...."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

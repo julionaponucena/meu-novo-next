@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_25 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_25 (){
             <meta name="keywords" content="vida social"/>
             <meta name="description" content="...Cuidar para que nosso comportamento reproduza aquilo que de fato pensamos e sentimos é uma atitude libertadora, na medida em que permite que nos apresentemos para a vida em sociedade de maneira mais genuína e transparente, sem a necessidade de esconder as imperfeições que de uma forma ou de outra faz parte da constituição de todas as pessoas."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

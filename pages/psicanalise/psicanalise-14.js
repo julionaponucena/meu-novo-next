@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_14 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_14 (){
             <meta name="keywords" content="autoaceitacao"/>
             <meta name="description" content="Em sua trajetória existencial muitas pessoas constroem um nível de autoconsciência que, ao invés de auxiliá-lo em na condução da sua vida, podem funcionar como verdadeiros empecilhos, uma vez que impedem o seu comportamento de forma espontânea. Ao perder a espontaneidade, o indivíduo passa a agir de forma engessada e  enrijecida. Em casos assim, é necessário que se promova a mudança do apego do eu – auto interesse – migrando   para a preocupação com os outros – interesse social. "/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

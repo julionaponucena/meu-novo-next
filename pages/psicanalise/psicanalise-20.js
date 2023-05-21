@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_20 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_20 (){
             <meta name="keywords" content="dependencia do outro"/>
             <meta name="description" content="...Com isso não desejo aqui afirmar que os relacionamentos são ruins ou destrutivos.....  Meu intuito é de que passemos a ficar mais atentos ao quanto estamos permitindo que as pessoas à nossa volta tenham poder de transformação naquilo que somos ou que desejamos para nossa vida. Se desejamos viver em plenitude a construção daquilo que projetamos para nós, é importante que reforcemos  o propósito de assumir o comando da nossa existência, por mais arriscado e desafiador que isso possa nos parecer."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

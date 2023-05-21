@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_01 (){
     return (
@@ -14,6 +15,7 @@ function Curso_01 (){
             <meta name="description" content="Muito se tem falado e debatido sobre a importância do preparo técnico do professor, afim de que ele possa exercer com eficiência o seu nobre papel na condução do trabalho pedagógico. Juntamente com essa demanda existe uma outra que, embora nem sempre é colocada de maneira explícita, ela se apresenta a qualquer profissional como uma condição básica para o sucesso do seu trabalho que é a condição de gerenciar suas próprias emoções."/>
         </Head>
         <Header/>
+        <ScriptAnalytics/>
         <Menu/>
         <Principal>
             <Titulo>CONTRIBUIÇÃO DA PSICANÁLISE PARA A EDUCAÇÃO EMOCIONAL DOS EDUCADORES</Titulo>

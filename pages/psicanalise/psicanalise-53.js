@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise53(){
 
@@ -14,6 +15,7 @@ function Psicanalise53(){
                 <meta type="keywords" content="importancia da terapia"/>
                 <meta type="description" content="embora as sessões de terapia possam nos trazer alguns custos... é confortável para afirmar que a relação custo benefício tende a ser muito lucrativa.."/>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <Principal>

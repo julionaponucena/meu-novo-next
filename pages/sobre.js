@@ -5,6 +5,7 @@ import style from "../styles/modulos/sobre.module.css"
 import { useState } from "react"
 import Image from "next/image";
 import Head from "next/head"
+import ScriptAnalytics from "../scripts/script-analytics"
 function Sobre (){
     /**/
     const [nome,setNome] = useState('')
@@ -46,6 +47,7 @@ function Sobre (){
     }
     return(
         <>
+            <ScriptAnalytics/>
             <Head>
                 <title>Autor</title>    
             </Head> 

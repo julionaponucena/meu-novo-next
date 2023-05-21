@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_14 (){
     return (
@@ -13,6 +14,7 @@ function Filosofia_14 (){
                 <meta name="keywords" content="pensamentos célebres"/>
                 <meta name="description" content="frases de grandes pessoas da humanidade"/>
             </Head>
+            <ScriptAnalytics/>
             <Header />
             <Menu />
             <Principal>

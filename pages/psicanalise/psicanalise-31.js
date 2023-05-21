@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 
 function Psicanalise_31 (){
@@ -14,6 +15,7 @@ function Psicanalise_31 (){
             <meta name="keywords" content="sentimento de inferioridade"/>
             <meta name="description" content="Existem muitas pessoas que desenvolvem uma imagem negativa de si mesmo, levando uma vida como se não tivessem nenhum valor ou, no máximo, que possuem um valor muito limitado. Essa visão normalmente é construída com base na subjetividade da relação que o indivíduo estabelece com os outros à sua volta, situação em que ele fica ligado àquilo que pensam ou que falam dele, desenvolvendo assim uma relação de dependência, de aceitação e reforço externo à suas atitudes."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

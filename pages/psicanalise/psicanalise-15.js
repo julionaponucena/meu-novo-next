@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 
 function Psicanalise_15 (){
@@ -14,6 +15,7 @@ function Psicanalise_15 (){
             <meta name="keywords" content="viver o presente"/>
             <meta name="description" content="Embora a psicanálise se ampare na história do indivíduo com o intuito de ajudá-lo a compreender sua própria trajetória existencial e as possíveis razões que o formaram psiquicamente, ela tem uma visão para o momento presente com uma perspectiva para aquilo que o indivíduo pretende construir para a sua trajetória presente e futura."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

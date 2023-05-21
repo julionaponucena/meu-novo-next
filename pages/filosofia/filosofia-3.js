@@ -4,6 +4,7 @@ import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
 import Principal from "../../supertags/principal";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_03 (){
     return (
@@ -13,6 +14,7 @@ function Filosofia_03 (){
                 <meta name="keywords" content="a alegria de viver"/>
                 <meta name="description" content="...podemos realmente escolher e fazer o que queremos? Quase sempre não podemos escolher o que acontece conosco, mas podemos escolher o que fazer perante o que nos acontece..."/>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <Principal>

@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 function Psicanalise_04 (){
     return (
         <>
@@ -12,6 +13,7 @@ function Psicanalise_04 (){
             <meta name="keywords" content="problemas emocionais"/>
             <meta name="description" content="Uma das questões recorrentes que os partilhantes deixam transparecer durante a análise é a dificuldade que eles apresentam em identificar seus sentimentos e emoções diante daquilo que estão enfrentando como possível problema em sua vida. Uso aqui o termo possível problema, porque, diante da condição de se visualizar com clareza o que está lhe ocorrendo, o indivíduo pode incorrer em um erro  muito comum que é o de atribuir significados equivocados aos seus eventos existenciais, situação nas quais eventos que notadamente são oportunidade para seu crescimento e fortalecimento, ganham o status de algo penoso e prejudicial. Tudo porque a pessoa teima em observar o que está acontecendo somente com o olhar da objetividade racional e fenomenológica"/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

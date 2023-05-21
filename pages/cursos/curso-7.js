@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_07 (){
     return (
@@ -14,6 +15,7 @@ function Curso_07 (){
             <meta name="description" content="O objetivo principal deste curso é  melhorar as relações humanas, do indivíduo consigo mesmo e dele no exercício da sua função laboral, diante de uma abordagem sobre o comportamento ético e responsável, tanto em relação à execução das suas atividades, quanto em relação à responsabilização individual para com o bem-estar coletivo . Para tal abordaremos os seguintes temas:"/>
         </Head>
         <Header/>
+        <ScriptAnalytics/>
         <Menu/>
         <Principal>
             <Titulo>ÉTICA PROFISSIONAL E ADMINISTRAÇÃO DO TEMPO</Titulo>

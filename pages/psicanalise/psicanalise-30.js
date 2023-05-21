@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_30 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_30 (){
             <meta name="keywords" content="processo terapêutico"/>
             <meta name="description" content="Na prática, ao invés de apenas ordenar que o filho estude, por exemplo, podemos atuar sobre ele com o intuito de aumentar-lhe a autoconfiança objetivando que ele consiga enfrentar os seus desafios."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

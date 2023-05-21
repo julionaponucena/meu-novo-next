@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_48 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_48 (){
             <meta name="keywords" content="psicoterapia como funciona"/>
             <meta name="description" content="..A Psicoterapia possibilita caminhos eficazes de reajuste da atitude psicológica adquirida com a ajuda do terapeuta, segundo Jung este processo é composto de quatro etapas: a confissão, o esclarecimento, a educação e a transformação..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

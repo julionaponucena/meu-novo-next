@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_38 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_38 (){
             <meta name="keywords" content="como se libertar do passado"/>
             <meta name="description" content="...o peso não está no acontecimento em si, mas no sentido que lhe fora atribuído por quem o vivenciou e, sobretudo, a razão pela qual determinados eventos se fazem presentes em sua vida até o presente"/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_24 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_24 (){
             <meta name="keywords" content="admitir o erro"/>
             <meta name="description" content="...Em situação assim, em que a luta pelo poder está no centro das relações, é comum observarmos que as pessoas têm um desgaste muito grande para manter suas convicções, ou ainda para provar ao outro que ela está certa, se tornando assim refém do seu próprio narcisismo, por encontrar-se obcessivamente centrada em sua própria figura."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

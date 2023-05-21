@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_10 (){
     return(
@@ -13,6 +14,7 @@ function Filosofia_10 (){
             <meta name="keywords" content="gestão do tempo"/>
             <meta name="description" content="...A grande sacada está na seguinte questão: entre você saber o que precisa ser feito e você realmente fazer, vale a pena investir um tempinho no planejamento..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

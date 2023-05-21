@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_02 (){
     return (
@@ -13,6 +14,7 @@ function Curso_02 (){
             <meta name="keywords" content="filosofia na educação infantil"/>
             <meta name="description" content="Sob esse aspecto é aconselhável que nós educadores aprendamos com os nossos alunos, sobretudo com as crianças, pois elas são dotadas do espírito filosófico por natureza, demonstrando curiosidade, espanto, deslumbramento diante do mundo, o que as coloca em atitude constante de busca por resposta às suas questões."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

@@ -6,12 +6,14 @@ import HiperLink from "../scripts/hiperlinks";
 import Artigo from "../menu/menu-itens"
 import ContainerMenu from "../menu/container-menu";
 import HeadConfig from "../include/head";
+import ScriptAnalytics from "../scripts/script-analytics";
 function PsicanaliseMenu (){
     return(
         <>
             <Head>
                 <title>Artigos sobre Psicanálise</title>
             </Head>
+            <ScriptAnalytics/>
             <Header/>
             <Menu/>
             <ContainerMenu titulo="Psicanálise">

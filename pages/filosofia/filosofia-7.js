@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Principal from "../../supertags/principal";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_07 (){
     return(
@@ -13,6 +14,7 @@ function Filosofia_07 (){
             <meta name="keywords" content="autoimagem"/>
             <meta name="description" content="...Olhando essa questão à luz da psicanálise, podemos afirmar que a imagem que a pessoa constrói a respeito de si mesma funciona como um importante influenciador da sua saúde  e bem estar emocional, uma vez que ela interfere de forma direta nas suas relações afetivas, sociais e emocionais..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

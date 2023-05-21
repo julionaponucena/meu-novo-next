@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_46 (){
     return (
@@ -13,6 +14,7 @@ function Psicanalise_46 (){
             <meta name="keywords" content="razões para fazer terapia"/>
             <meta name="description" content="...Nestes períodos, reconhecer o que está faltando no ponto de vista da consciência é fundamental para a cura."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

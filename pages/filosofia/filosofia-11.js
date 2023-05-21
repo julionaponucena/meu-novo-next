@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Principal from "../../supertags/principal";
 import Titulo from "../../supertags/titulo";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Filosofia_11 (){
     return (
@@ -13,6 +14,7 @@ function Filosofia_11 (){
             <meta name="keywords" content="tomada de decisão"/>
             <meta name="description" content="...Um problema se caracteriza por um desvio entre o que se espera acontecer e o que realmente está acontecendo...."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

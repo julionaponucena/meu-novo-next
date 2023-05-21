@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Footer from "../../include/footer";
 import Titulo from "../../supertags/titulo";
 import Head from "next/head";
+import ScriptAnalytics from "../../scripts/script-analytics";
 
 function Curso_10() {
     return (
@@ -14,6 +15,7 @@ function Curso_10() {
                 <meta name="description" content="A filosofia, desde suas origens, destina-se a refletir sobre as questões da vida. Todo o conhecimento, produzido no decorrer da História da Filosofia, nos oferece um rico instrumental para lidar com as questões cotidianas. Diante das questões existenciais, das constantes inquietações, dos problemas que se avolumam e se agravam com o desenvolvimento tecnológico, a filosofia reassume seu papel original: refletir sobre as questões que a realidade nos apresenta, oferecendo-nos valiosos conhecimentos para lidarmos com elas." />
             </Head>
             <Header />
+            <ScriptAnalytics/>
             <Menu />
             <Principal>
                 <Titulo>O exercício de filosofar e seus efeitos em nossa vida</Titulo>

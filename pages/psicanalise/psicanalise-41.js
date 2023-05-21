@@ -4,6 +4,7 @@ import Menu from "../../include/menu"
 import Footer from "../../include/footer"
 import Principal from "../../supertags/principal"
 import Titulo from "../../supertags/titulo"
+import ScriptAnalytics from "../../scripts/script-analytics"
 
 function Psicanalise_41 () {
     return (
@@ -13,6 +14,7 @@ function Psicanalise_41 () {
             <meta name="keywords" content="autocontrole emocional"/>
             <meta name="description" content="Uma das questões recorrentes que os partilhantes deixam transparecer durante a análise é a dificuldade que eles apresentam em identificar seus sentimentos e emoções diante daquilo que estão enfrentando como possível problema em sua vida..."/>
         </Head>
+        <ScriptAnalytics/>
         <Header/>
         <Menu/>
         <Principal>

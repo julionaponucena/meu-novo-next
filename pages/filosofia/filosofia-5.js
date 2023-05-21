@@ -4,6 +4,7 @@ import Menu from "../../include/menu";
 import Titulo from "../../supertags/titulo";
 import Principal from "../../supertags/principal";
 import Footer from "../../include/footer";
+import ScriptAnalytics from "../../scripts/script-analytics";
 function Filosofia_05 (){
   return(   <>
     <Head>
@@ -11,6 +12,7 @@ function Filosofia_05 (){
       <meta name="keywords" content="filosofia de vida"/>
       <meta name="description" content="...A sociedade atual, marcada pelo imediatismo e pela superficialidade, nos impele a retornar aos ensinamentos do velho mestre, sobretudo porque nos encontramos diante do grande desafio de conferir um significado à nossa existência..."/>
     </Head>
+    <ScriptAnalytics/>
     <Header/>
     <Menu/>
     <Principal>
