@@ -302,6 +302,11 @@ const Artigo = [{
     img: 'terapeuta.jpg',
     titulo:'QUANTO CUSTA UMA SESSÃO DE TERAPIA?',
     link:'psicanalise-53'
+},
+{
+    img: 'defesa.jpg',
+    titulo:'OS TIPOS MAIS COMUNS DE MECANISMOS DE DEFESA',
+    link:'psicanalise-54'
 }
 ]
 
