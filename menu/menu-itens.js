@@ -309,6 +309,13 @@ const Artigo = [{
     titulo:'JANEIRO BRANCO: OPORTUNIDADE PARA CUIDAR MELHOR DA SAÚDE MENTAL',
     link:'psicanalise-54',
     alt:'protesto a favor da saúde mental'
+
+},
+{
+    img: 'defesa.jpg',
+    titulo:'OS TIPOS MAIS COMUNS DE MECANISMOS DE DEFESA',
+    link:'psicanalise-55',
+    alt:'pessoa chutando no ar'
 }
 ]
 
