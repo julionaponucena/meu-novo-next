@@ -21,13 +21,13 @@ function Header() {
           className={style.redeLink}
           target="_blank"
           rel="norrefer external noreferrer"
-          href="https://www.instagram.com/terapia.aparecidoalcantara/"
+          href="https://www.instagram.com/aparecidoalcantarapsicanalista/"
         >
           <Image
             src="/Instagram-Icon.png"
             width={40}
             height={40}
-            alt="icone do instagram"
+            alt="ícone do instagram"
             loading="eager"
           />
         </a>
@@ -41,7 +41,7 @@ function Header() {
             src="/facebook-icon.png"
             width={40}
             height={40}
-            alt="icone do facebook"
+            alt="ícone do facebook"
             loading="eager"
           />
         </a>
