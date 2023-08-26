@@ -12,6 +12,7 @@ function Header() {
           height={90}
           alt="logo do site"
           loading="eager"
+          priority={true}
         />
 
         <h1 className={style.titulo}>estauramente</h1>
@@ -29,6 +30,7 @@ function Header() {
             height={40}
             alt="ícone do instagram"
             loading="eager"
+            priority={true}
           />
         </a>
         <a
@@ -43,6 +45,7 @@ function Header() {
             height={40}
             alt="ícone do facebook"
             loading="eager"
+            priority={true}
           />
         </a>
       </div>
