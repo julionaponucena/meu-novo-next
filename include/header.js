@@ -1,18 +1,22 @@
+/* eslint-disable @next/next/no-img-element */
 import Image from 'next/image';
 import style from '../styles/modulos/header.module.css';
 
 function Header() {
+  // @next/next/no-img-element
   return (
     <header className={style.Header}>
       <div className={style.cabecalho}>
+        
         <Image
-          className={style.logo}
+          className={[style.logo, style.image].join(' ')}
+          loading="eager"
           src="/logo-mente.png"
           width={90}
           height={90}
           alt="logo do site"
-          loading="eager"
-          priority={true}
+          blurDataURL={"/logo-mente.png"}
+          placeholder='blur'
         />
 
         <h1 className={style.titulo}>estauramente</h1>
@@ -30,7 +34,9 @@ function Header() {
             height={40}
             alt="ícone do instagram"
             loading="eager"
-            priority={true}
+            placeholder='blur'
+            blurDataURL="/Instagram-Icon.png"
+            className={style.image}
           />
         </a>
         <a
@@ -45,7 +51,8 @@ function Header() {
             height={40}
             alt="ícone do facebook"
             loading="eager"
-            priority={true}
+            placeholder='blur'
+            blurDataURL="/facebook-icon.png"
           />
         </a>
       </div>

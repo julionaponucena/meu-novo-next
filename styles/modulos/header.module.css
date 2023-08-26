@@ -39,6 +39,12 @@
 .redeLink{
     margin:0 5px;
 }
+
+.image{
+    transition-duration: 0.5s;
+}
+
+
 @media(max-width:560px){
     .Header{
         display: block;
