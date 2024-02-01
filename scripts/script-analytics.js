@@ -4,17 +4,17 @@ import {GoogleAnalytics} from "@next/third-parties/google";
 function ScriptAnalytics(){
     return (
         <>
-         {/*<Script src={`https://www.googletagmanager.com/gtag/js?${process.env.GA_MEASUREMENT_ID}`}/>
-            <Script id='google-analytics'>
-                {
-                `window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
+         <Script async strategy="lazyOnload" src="https://www.googletagmanager.com/gtag/js?id=G-P28978P59N"/>
+            <Script strategy="lazyOnload" id='google-analytics'>
+            {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)}
+    
                 gtag('js', new Date());
 
-                gtag('config', ${process.env.GA_MEASUREMENT_ID}, { cookie_flags: 'SameSite=None; Secure' });`
-                }
-            </Script>*/}
-            <GoogleAnalytics id={process.env.GA_MEASUREMENT_ID} />
+                gtag('config', 'G-P28978P59N');
+                `}
+            </Script>
         </>
     )
 }
