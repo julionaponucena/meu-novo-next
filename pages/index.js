@@ -41,30 +41,30 @@ function home (){
                
                 <article className="artigo artigo1">
                     
-                        <Image className='imagem-artigo ordem1'width={720} height={480} src="/homem-oculos.jpg" />
+                        <Image className='imagem-artigo ordem1' width={337.5} height={225} src="/homem-oculos.jpg"  alt="homem de óculos"/>
                     
 
 
                     
                         <h3>POR QUE FAZER TERAPIA COM PSICANÁLISE?</h3>
                         
-                        <p>A vida no mundo atual nos apresenta muitas demandas que nos colocam em constante questionamento sobre formas de atuação diante delas, nos conduzindo também a dúvidas existenciais que são capazes de gerar em nós fortes angústias e descontrole.  Em situações assim, é recomendável que a pessoa procure ajuda especializada, com o intuito de obter auxílio para entender melhor os diversos mecanismos que podem estar impedindo o livre fluir da sua vida e que pode estar na base do seu sofrimento...  <Link href="/psicanalise-menu"><a>continue lendo</a></Link></p>
+                        <p>A vida no mundo atual nos apresenta muitas demandas que nos colocam em constante questionamento sobre formas de atuação diante delas, nos conduzindo também a dúvidas existenciais que são capazes de gerar em nós fortes angústias e descontrole.  Em situações assim, é recomendável que a pessoa procure ajuda especializada, com o intuito de obter auxílio para entender melhor os diversos mecanismos que podem estar impedindo o livre fluir da sua vida e que pode estar na base do seu sofrimento...  <Link href="/psicanalise-menu">continue lendo</Link></p>
                     
                 </article>
                 
                 <article className= "artigo artigo2">
                     
-                        <Image className="imagem-artigo ordem-2" src="/aventura.jpg" width={720}height={480}  />
+                        <Image className="imagem-artigo ordem-2" src="/aventura.jpg" width={337.5} height={225} alt="mesa com mapa e bussolas em cima" />
                     
                     <div className="artigo-texto ordem1">  
                         <h3>ORIENTAÇÃO FILOSÓFICA E PROJETO DE VIDA</h3>
-                        <p>Se você está buscando ampliar seu conhecimento acerca de si mesmo, entender suas interações com as pessoas e o mundo à sua volta, visando construir um projeto de vida que melhor atenda  às suas buscas existenciais, a orientação filosófica pode ser um caminho promissor. Ela consiste no desenvolvimento de uma abordagem das questões do cotidiano do indivíduo, guiada pelo milenar conhecimento filosófico, estabelecendo um diálogo crítico, investigativo, que permita à pessoa que busca o consultório de filosofia compreender melhor suas questões. Todo esse percurso é construído à luz das ideias desenvolvidas ao longo da história da Filosofia, desde os sábios representantes da Filosofia Oriental, passando pelos clássicos da Grécia Antiga, até chegarmos aos dias atuais. Você gostaria de saber mais sobre o funcionamento dessa prática? Entre em contato e teremos muito prazer em responder às suas perguntas. <Link href="/filosofia-menu"><a>Veja mais</a></Link></p>
+                        <p>Se você está buscando ampliar seu conhecimento acerca de si mesmo, entender suas interações com as pessoas e o mundo à sua volta, visando construir um projeto de vida que melhor atenda  às suas buscas existenciais, a orientação filosófica pode ser um caminho promissor. Ela consiste no desenvolvimento de uma abordagem das questões do cotidiano do indivíduo, guiada pelo milenar conhecimento filosófico, estabelecendo um diálogo crítico, investigativo, que permita à pessoa que busca o consultório de filosofia compreender melhor suas questões. Todo esse percurso é construído à luz das ideias desenvolvidas ao longo da história da Filosofia, desde os sábios representantes da Filosofia Oriental, passando pelos clássicos da Grécia Antiga, até chegarmos aos dias atuais. Você gostaria de saber mais sobre o funcionamento dessa prática? Entre em contato e teremos muito prazer em responder às suas perguntas. <Link href="/filosofia-menu">Veja mais</Link></p>
                     </div>
                    
                 </article>
               
                 <article className="artigo artigo1">
-                    <Image className='imagem-artigo'width={720} height={480} src="/consultar.jpg" />
+                    <Image className='imagem-artigo'width={337.5} height={225} src="/consultar.jpg" alt="Espiral de grade com as palavras em Inglês Knowledge, Support e Experience" />
                     <div className="artigo-texto">
                         <h3>LEVE NOSSOS CURSOS E PALESTRAS PARA SUA EMPRESA OU ESCOLA</h3>
                     

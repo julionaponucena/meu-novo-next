@@ -20,98 +20,98 @@ export default function Menu ()
                         <a className="botao-fechar" href="#" onClick={()=>setAtivado(!ativado)}>&times;Fechar</a>
                         </li>
                     <li className="home">
-                        <Link href="/">
-                            <a className="link-horizontal">Home </a>
+                        <Link className="link-horizontal" href="/" passHref>
+                          Home 
                         </Link>
                     </li>
                     < MenuLista titulo="Filosofia">
                     <li>
-                                <Link href="/filosofia/filosofia-1">
-                                    <a>Timidez: Causa e Formas de Superação</a>
+                                <Link href="/filosofia/filosofia-1" passHref>
+                                  Timidez: Causa e Formas de Superação
                                 </Link>
                             </li>
                             <li> 
-                                <Link href="/filosofia/filosofia-2">
-                                    <a>Sentir Raiva Sempre é Negativo?</a>
+                                <Link href="/filosofia/filosofia-2" passHref>
+                                    Sentir Raiva Sempre é Negativo?
                                 </Link>
                             </li>
                             <li> 
-                                <Link href="/filosofia/filosofia-3">
-                                    <a>A Arte de Viver a Alegria de Ser uma Pessoa com Dignidade</a>
+                                <Link href="/filosofia/filosofia-3" passHref>
+                                    A Arte de Viver a Alegria de Ser uma Pessoa com Dignidade
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/filosofia/filosofia-6">
-                                    <a>Psicologia do Indivíduo: Corpo e Mente São Inseparaveis</a>
+                                <Link href="/filosofia/filosofia-6" passHref>
+                                    Psicologia do Indivíduo: Corpo e Mente São Inseparaveis
                                 </Link>
                                 </li>
                             <li>
-                                <Link href="/filosofia-menu">
-                                    <a>Ver mais</a>
+                                <Link href="/filosofia-menu" passHref>
+                                    Ver mais
                                 </Link>
                             </li>
                     </MenuLista>
               
                     <MenuLista titulo="Psicanálise">
                             <li>
-                                <Link href="/psicanalise/psicanalise-2">
-                                    <a>Não Seja Vitimado Pelo Determinismo Existencial</a>
+                                <Link href="/psicanalise/psicanalise-2" passHref>
+                                    Não Seja Vitimado Pelo Determinismo Existencial
                                 </Link>        
                             </li>
                             <li>
-                            <Link href="/psicanalise/psicanalise-3">
-                                <a>Colaboração Para O Bem-Estar Coletivo e Autorrealização</a>
+                            <Link href="/psicanalise/psicanalise-3" passHref>
+                                Colaboração Para O Bem-Estar Coletivo e Autorrealização
                             </Link>    
                             </li>
                             <li>
-                            <Link href="/psicanalise/psicanalise-4">
-                                    <a>Terapia com Psicanálise  para Enfrentar as Dificuldades Emocionais</a>
+                            <Link href="/psicanalise/psicanalise-4" passHref>
+                                    Terapia com Psicanálise  para Enfrentar as Dificuldades Emocionais
                             </Link>    
                                 </li>
                             <li> 
-                                <Link href="/psicanalise/psicanalise-5">    
-                                    <a>Psicanálise: Caminho Para a Ressignificação Do sofrimento</a>
+                                <Link href="/psicanalise/psicanalise-5" passHref>    
+                                    Psicanálise: Caminho Para a Ressignificação Do sofrimento
                                 </Link>
                             </li>
                             
                                 <li>
-                                <Link href="/psicanalise-menu">
-                                    <a>Ver mais</a>
+                                <Link href="/psicanalise-menu" passHref>
+                                    Ver mais
                                 </Link>
                                 </li>
                     </MenuLista>
                     
                     <MenuLista titulo="Cursos">
                             <li>
-                                <Link href="/cursos/curso-1">
-                                    <a>Contribuição da Psicanálise para a Educação Emocional dos Educadores</a>
+                                <Link href="/cursos/curso-1" passHref>
+                                    Contribuição da Psicanálise para a Educação Emocional dos Educadores
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/cursos/curso-2">
-                                    <a>Filsofia para Crianças na Prática Escolar</a>
+                                <Link href="/cursos/curso-2" passHref> 
+                                    Filsofia para Crianças na Prática Escolar
                                 </Link>
                                 </li>
                             <li>
-                                <Link href="/cursos/curso-3">
-                                    <a>Grupo de Pais: Desenvolvendo Valores na Educação</a>
+                                <Link href="/cursos/curso-3" passHref>
+                                    Grupo de Pais: Desenvolvendo Valores na Educação
                                 </Link>
                                 </li>
                             <li>
-                                <Link href="/cursos/curso-4">
-                                    <a>Desenvolvendo Valores na Educação</a>
+                                <Link href="/cursos/curso-4" passHref>
+                                    Desenvolvendo Valores na Educação
                                 </Link>
                                 </li>
                             <li>
-                                <Link href="/curso-menu">
-                                    <a>Ver mais</a>
+                                <Link href="/curso-menu" passHref>
+                                    Ver mais
                                 </Link>
                                 </li>
                     </MenuLista>
                
                     <li>
-                        <Link href="/sobre">
-                            <a className="link-horizontal">Autor</a>
+                        <Link href="/sobre" className="link-horizontal" passHref>
+                            Autor
                         </Link>
                     </li>
                 </ul>

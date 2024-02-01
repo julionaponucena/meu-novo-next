@@ -7,44 +7,9 @@ import Image from "next/image";
 import Head from "next/head"
 import ScriptAnalytics from "../scripts/script-analytics"
 function Sobre (){
-    /**/
-    const [nome,setNome] = useState('')
-    const [email,setEmail] = useState('')
-    const [descricao,setDescricao] = useState('')
-    const [sucess,setSucess] = useState(false)
+
+        
     
-    function onChangeNome (evt){
-        setNome(evt.target.value)   
-    }
-    function onChangeEmail (evt){
-        setEmail(evt.target.value)
-    }
-    function onChangeDescricao (evt) {
-        setDescricao(evt.target.value)
-    }
-     function sendEmail (evt){
-        evt.preventDefault()
-        
-        try{
-            fetch('https://meu-django.herokuapp.com/email/enviar',{
-                method:'POST',
-                headers:{
-                    Accept:'application/json',
-                    'Content-type': 'application/json',
-                    
-                   
-                },
-                body:JSON.stringify({nome,email,descricao})
-             
-            }).then(()=>setSucess(true))
-            
-            
-            
-        }catch(err){
-            console.log(err)
-        }
-        
-    }
     return(
         <>
             <ScriptAnalytics/>
@@ -75,26 +40,8 @@ function Sobre (){
 
 
             </main>
-            {sucess && <h2>Obrigado. sua mensagem foi encaminhada com sucesso!</h2>}
-            { !sucess &&
-            <form onSubmit={sendEmail} className={style.form}>
-                <div>
-                    <label className={style.label}> Digite seu nome:</label>
-                    <input onChange={onChangeNome} className={style.inputs}/>
-                </div>
-                <div>
-                    <label className={style.label}>Digite seu e-mail:</label>
-                    <input onChange={onChangeEmail} className={style.inputs} type="email"/>
-                </div>
-                <div>
-                    <label className={style.label}>Digite seu comentário:</label>
-                    <textarea onChange={onChangeDescricao} className={style.inputs}/>
-                </div>
-                <button type="submit">Enviar</button>
-            </form> 
-}
             <Footer/>
         </>
     )
-}
+    }
 export default Sobre;
