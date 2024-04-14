@@ -1,0 +1,124 @@
+
+/*cubic-bezier(.23,.65,.45,.71);*/
+.direitoUso{
+    color:white
+}
+.nomeSite{ 
+    display: inline;
+}
+.footerContainer{
+    display:flex;
+    justify-content: space-around;
+    margin:20px;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    color:white;
+}
+.footerContainer div{
+    
+    margin:20px;
+
+}
+.descricaoAutor{
+    
+    
+    width:min(100%,500px);
+    
+}
+.redesFooter a{
+    display: block;
+    margin:20px 0;
+    color:white;
+}
+.whatsapp {
+    position:fixed;
+    bottom:70px;
+    right:0;
+    animation-name: apresentar;
+    animation-duration: 2s;
+    animation-delay: 5s;
+    animation-fill-mode: forwards;
+    display: inline-block;
+   opacity: 0;
+   visibility: hidden;
+}
+.terapia{
+    display:block;
+    position:fixed;
+    bottom:0;
+    right:0;
+    background-color: blue;
+    width:200px;
+    cursor: pointer;
+    text-decoration: none;
+    height:70px;
+    border-radius:30px;
+  
+  
+  }
+
+  .terapia span{
+    font-weight: bold;
+    display:block;
+    color:white;
+    margin:15px 0;
+    font-size:20px;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  .inputs{
+    
+    border-radius: 10px;
+    background-color: #ebeff5;
+    color:black;
+    display: block;
+    margin:auto;
+    height: 30px;
+    width:200px ;
+}
+.descricao{
+    height: 100px;
+    background-color: #ebeff5;
+    color:black;
+    border-radius: 10px;
+    width:240px;
+    font-size: 15px;
+}
+.form{
+    margin:auto;
+    width:300px;
+    background-color: /*rgb(40, 40, 250)*/coral;
+    padding: 20px 0;
+    border-radius: 20px;
+    margin:10px 0;
+    position:relative;
+}
+.label{
+    display: block;
+    margin: auto;
+    width:250px;
+    color:black;
+}
+.formTitulo{
+    font-size: 20px;
+    width: 300px;
+}
+.botao{
+    background-color: /*rgb(83, 83, 126)*/#ebeff5;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: 20px;
+    position:absolute;
+    bottom:0;
+    right:20px;
+}
+
+@keyframes apresentar {
+    0%{opacity: 0;}
+    
+    100%{opacity:1;visibility: visible;}
+}

@@ -1,0 +1,113 @@
+
+
+/*.caixa-texto{
+    display: inline-block;
+    width:300px;
+}
+.autor{
+    display: inline-block;
+    width:300px;
+    vertical-align: top;
+    margin: 30px;
+    animation-name: deslizar;
+    animation-duration: 2s;
+    
+}
+.autor img{
+    display:block;
+}
+>>>>>>> main
+.caixa-texto {
+    margin:20px 30px;
+    display:inline-block; 
+    width: 56%;
+    padding:0 20px;
+    animation-name: aparecer;
+    animation-duration: 2s;
+    
+ } 
+<<<<<<< HEAD
+=======
+
+
+.biografia{
+    display: grid;
+    grid-template-areas: 'autor texto texto texto texto texto texto texto';
+    gap: 20px;
+    padding: 20px;
+}
+.autor {
+    grid-area: autor;
+    display:inline-block;
+   animation-name:deslizar;
+    animation-duration: 1s;
+}
+.autor img{
+    display: block;
+    margin:auto;
+    max-width: 300px;
+    border:solid 15px blue;
+}
+.autor h1{
+    text-align: center;
+}
+.caixa-texto{
+    animation-name: esmaecer;
+    animation-duration: 2s;
+    grid-area: texto;
+}
+@media (max-width:590px){
+    .biografia{
+        display: block;
+    }
+    .autor{
+        margin:auto;
+    }
+    .autor img{
+        display: block;
+        margin: auto;
+    }
+}
+
+=======
+ .autor h1{
+     text-align: center;
+ }
+.caixa-texto p {
+    text-align: justify;
+}
+
+/*@media (max-width:350px){
+    .autor{
+        display:block;
+    }
+    .caixa-texto{
+        display: block;
+        width:100%;
+    }
+}*/
+.biografia{
+    display: grid;
+    grid-template-areas:'foto foto foto texto'
+}
+.autor {
+    grid-area: foto;
+}
+.caixa-texto{
+    grid-area: texto;
+}
+
+@keyframes deslizar {
+    from{transform:translatex(-100px);}
+
+    to {transform:translatex(0);}
+}
+
+@keyframes aparecer {
+    from{opacity:0;}
+    to{opacity:1;}
+
+}
+
+
+
