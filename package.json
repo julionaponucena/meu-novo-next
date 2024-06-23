@@ -9,6 +9,7 @@
     "postbuild": "node ./scripts/generate-sitemap.js"
   },
   "dependencies": {
+    "@babel/core": "^7.24.4",
     "@next/third-parties": "^14.1.0",
     "mailgun-js": "^0.22.0",
     "next": "14.1.0",
@@ -23,7 +24,9 @@
     "sharp": "^0.32.5"
   },
   "devDependencies": {
+    "@types/babel__core": "^7.20.5",
     "@types/react": "18.2.78",
+    "@types/react-dom": "^18.2.25",
     "eslint": "8.56.0",
     "eslint-config-next": "14.1.0"
   }

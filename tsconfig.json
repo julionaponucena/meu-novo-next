@@ -21,7 +21,11 @@
         "name": "next"
       }
     ],
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "paths": {
+      "src/*": ["./src/*"],
+      "@include/*":["./src/include/*"]
+    }
   },
   "include": [
     "next-env.d.ts",
@@ -31,5 +35,6 @@
 , "src/include/menu/menu-itens.tsx", "src/include/footer.js"  ],
   "exclude": [
     "node_modules"
-  ]
+  ],
+
 }
