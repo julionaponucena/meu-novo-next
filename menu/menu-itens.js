@@ -1,8 +1,9 @@
-const Artigo = [{
- img: 'vitima.jpg',
- titulo: "NÃO SEJA VITIMADO PELO DETERMINISMO EXISTENCIAL",
- link:"psicanalise-2",
- alt:'pessoa com uma caixa de papelão com uma carinha triste'
+const Artigo = [
+{
+    img: 'vitima.jpg',
+    titulo: "NÃO SEJA VITIMADO PELO DETERMINISMO EXISTENCIAL",
+    link:"psicanalise-2",
+    alt:'pessoa com uma caixa de papelão com uma carinha triste'
 },
 {
     img:'crianca-feliz.jpg',
@@ -316,7 +317,14 @@ const Artigo = [{
     titulo:'OS TIPOS MAIS COMUNS DE MECANISMOS DE DEFESA',
     link:'psicanalise-55',
     alt:'pessoa chutando no ar'
-}
+},
+{
+    img: 'pecas-excluidas.jpg',
+    titulo:'A Invisibilidade dos Excluídos no Ambiente Escolar: Um Olhar Necessário',
+    link:'psicanalise-56',
+    alt:'pessoa sentando na cama',
+    alt:'grupo de peças de jogo de tabuleiro vermelhas excluindo outra com uma cor diferente'
+},
 ]
 
 
