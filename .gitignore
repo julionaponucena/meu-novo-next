@@ -37,3 +37,4 @@ sitemap.xml
 workbox*.js
 sw.js
 .env
+/.idea

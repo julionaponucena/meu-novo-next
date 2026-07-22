@@ -1,6 +1,6 @@
 import style from '../styles/modulos/footer.module.css'
 import Image from 'next/image'
-import EmailForm from '../../scripts/email-form'
+import EmailForm from 'src/scripts/email-form'
 
 export const revalidate = 1000 *10
 
